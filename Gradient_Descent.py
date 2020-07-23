@@ -33,6 +33,7 @@ for i in range(n):
     beta = alpha/delG
     rn = r0 - N.dot(beta,gradient)
     r0 = rn
+    alpha = beta
 print("after {} iterations the series converged to: ".format(str(n)))
 if rn[0] != 0:
     print('minimum located at: x = ',rn[0])
