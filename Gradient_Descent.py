@@ -22,7 +22,7 @@ n = 30000#number of steps
 print('initial guess: ')
 print('x0 = ',r0[0])
 print('y0 = ',r0[1])
-plt.plot(r0[0],r0[1],'og')
+plt.plot(r0[0],r0[1],'og',label= 'Guess')
 
 #iteration using the steepest descent method:
 for i in range(n):
@@ -47,7 +47,9 @@ Z = (1-x1)**2+100*(y1-x1**2)**2
 plt.contour(X,Y,Z,N.logspace(-0.5,3.5,20,base=10),cmap='gray')
 plt.xlabel('x')
 plt.ylabel('y')
-plt.plot(rn[0],rn[1],'vr')
+plt.title('Gradient descent method for the Rosenbrock function. \n The theoretical minimum is f(1,1)=0')
+plt.plot(rn[0],rn[1],'vr',label = 'Result')
+plt.legend()
 plt.show()
  
 
