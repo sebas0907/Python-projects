@@ -4,7 +4,7 @@ import numpy as N
 #This is an explicit implementation of the Crank-Nicolson method for the heat equation in the case of a one-dimensional rod.
 L = 1.0 #Lenght of the rod
 u = 0.2 #final time
-alpha = 4.0 'diffusion coefficient
+alpha = 4.0 #Diffusion coefficient
 dt = 0.001 #time interval
 dx = 0.01 #grid interspacing size
 K = alpha*dt/dx**2 
@@ -47,7 +47,3 @@ for i in range(0,q): #temporal evolution of the temperature for each T(x)
     plt.plot(x,abs(T))
     plt.pause(0.0001) #the solution is shown as an animation 
 plt.show()
-
-
-T = N.array(T)
-print(T)
