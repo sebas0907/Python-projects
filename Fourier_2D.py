@@ -2,6 +2,7 @@ from math import exp, sqrt
 import numpy as N
 import matplotlib.pyplot as plt
 import random
+import mpld3
 #2D Heat diffusion equation 
 t = 100 #final time 
 dx = 1.0 #grid spacing size
@@ -19,7 +20,7 @@ L = N.zeros((n,n))
 T[0,:] = T[n-1,:] = T_tb #up and down
 T[:,0] = T[:,n-1] = T_lr #left and right
 #Definition of Laplacian:
-fig = plt.figure()
+#fig = plt.figure()
 def laplace(Z,d_x,d_y):
     for i in range(n):
         for j in range(n):
@@ -40,19 +41,25 @@ def laplace(Z,d_x,d_y):
             L[i,j] =  (uxx + uyy)
     return L
 #Solution is displayed as animation
-num = 0
 for m in range(t):
-    plt.cla()
+    #plt.cla()
     F = laplace(T,dx,dy)
     Tn = T + M*dt*F #Heat equation 
     T = Tn
-    plt.title('2D Heat Propagation')
-    plt.xlabel('X (m)')
-    plt.ylabel('Y (m)')
-    im = plt.imshow(Tn,interpolation='lanczos',cmap='hot')    
-    plt.pause(0.00001)
+plt.title('2D Heat Propagation')
+plt.xlabel('X (m)')
+plt.ylabel('Y (m)')
+fig = plt.figure()
+ax = fig.add_subplot(1, 1, 1)
+im = plt.imshow(Tn,interpolation='lanczos',cmap='hot')    
+    #plt.pause(0.00001)
 cbar = plt.colorbar(im)
 cbar.set_label('T (K)')
-plt.show()
+#plt.show()
+html_str = mpld3.fig_to_html(fig, no_extras=True, template_type='simple')
+#Html_file= open("index.html","w")
+#Html_file.write(html_str)
+#Html_file.close()
+print(html_str)
 
 
