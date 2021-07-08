@@ -7,7 +7,7 @@
             },
             {
                 "name": "Kumulierte Anzahl",
-                "type": "number"
+                "type": "integer"
             }
         ],
         "primaryKey": [
@@ -18,1983 +18,1983 @@
     "data": [
         {
             "Meldedatum": "2020-02-20T00:00:00.000Z",
-            "Kumulierte Anzahl": 1.0
+            "Kumulierte Anzahl": 1
         },
         {
             "Meldedatum": "2020-02-21T00:00:00.000Z",
-            "Kumulierte Anzahl": 1.0
+            "Kumulierte Anzahl": 1
         },
         {
             "Meldedatum": "2020-02-22T00:00:00.000Z",
-            "Kumulierte Anzahl": 1.0
+            "Kumulierte Anzahl": 1
         },
         {
             "Meldedatum": "2020-02-23T00:00:00.000Z",
-            "Kumulierte Anzahl": 1.0
+            "Kumulierte Anzahl": 1
         },
         {
             "Meldedatum": "2020-02-24T00:00:00.000Z",
-            "Kumulierte Anzahl": 1.0
+            "Kumulierte Anzahl": 1
         },
         {
             "Meldedatum": "2020-02-25T00:00:00.000Z",
-            "Kumulierte Anzahl": 1.0
+            "Kumulierte Anzahl": 1
         },
         {
             "Meldedatum": "2020-02-26T00:00:00.000Z",
-            "Kumulierte Anzahl": 4.0
+            "Kumulierte Anzahl": 4
         },
         {
             "Meldedatum": "2020-02-27T00:00:00.000Z",
-            "Kumulierte Anzahl": 23.0
+            "Kumulierte Anzahl": 23
         },
         {
             "Meldedatum": "2020-02-28T00:00:00.000Z",
-            "Kumulierte Anzahl": 57.0
+            "Kumulierte Anzahl": 57
         },
         {
             "Meldedatum": "2020-02-29T00:00:00.000Z",
-            "Kumulierte Anzahl": 72.0
+            "Kumulierte Anzahl": 72
         },
         {
             "Meldedatum": "2020-03-01T00:00:00.000Z",
-            "Kumulierte Anzahl": 95.0
+            "Kumulierte Anzahl": 95
         },
         {
             "Meldedatum": "2020-03-02T00:00:00.000Z",
-            "Kumulierte Anzahl": 110.0
+            "Kumulierte Anzahl": 110
         },
         {
             "Meldedatum": "2020-03-03T00:00:00.000Z",
-            "Kumulierte Anzahl": 139.0
+            "Kumulierte Anzahl": 139
         },
         {
             "Meldedatum": "2020-03-04T00:00:00.000Z",
-            "Kumulierte Anzahl": 232.0
+            "Kumulierte Anzahl": 232
         },
         {
             "Meldedatum": "2020-03-05T00:00:00.000Z",
-            "Kumulierte Anzahl": 331.0
+            "Kumulierte Anzahl": 331
         },
         {
             "Meldedatum": "2020-03-06T00:00:00.000Z",
-            "Kumulierte Anzahl": 393.0
+            "Kumulierte Anzahl": 393
         },
         {
             "Meldedatum": "2020-03-07T00:00:00.000Z",
-            "Kumulierte Anzahl": 461.0
+            "Kumulierte Anzahl": 461
         },
         {
             "Meldedatum": "2020-03-08T00:00:00.000Z",
-            "Kumulierte Anzahl": 489.0
+            "Kumulierte Anzahl": 489
         },
         {
             "Meldedatum": "2020-03-09T00:00:00.000Z",
-            "Kumulierte Anzahl": 586.0
+            "Kumulierte Anzahl": 586
         },
         {
             "Meldedatum": "2020-03-10T00:00:00.000Z",
-            "Kumulierte Anzahl": 760.0
+            "Kumulierte Anzahl": 760
         },
         {
             "Meldedatum": "2020-03-11T00:00:00.000Z",
-            "Kumulierte Anzahl": 960.0
+            "Kumulierte Anzahl": 960
         },
         {
             "Meldedatum": "2020-03-12T00:00:00.000Z",
-            "Kumulierte Anzahl": 1.247
+            "Kumulierte Anzahl": 1247
         },
         {
             "Meldedatum": "2020-03-13T00:00:00.000Z",
-            "Kumulierte Anzahl": 1.673
+            "Kumulierte Anzahl": 1673
         },
         {
             "Meldedatum": "2020-03-14T00:00:00.000Z",
-            "Kumulierte Anzahl": 1.996
+            "Kumulierte Anzahl": 1996
         },
         {
             "Meldedatum": "2020-03-15T00:00:00.000Z",
-            "Kumulierte Anzahl": 2.238
+            "Kumulierte Anzahl": 2238
         },
         {
             "Meldedatum": "2020-03-16T00:00:00.000Z",
-            "Kumulierte Anzahl": 2.847
+            "Kumulierte Anzahl": 2847
         },
         {
             "Meldedatum": "2020-03-17T00:00:00.000Z",
-            "Kumulierte Anzahl": 3.749
+            "Kumulierte Anzahl": 3749
         },
         {
             "Meldedatum": "2020-03-18T00:00:00.000Z",
-            "Kumulierte Anzahl": 4.463
+            "Kumulierte Anzahl": 4463
         },
         {
             "Meldedatum": "2020-03-19T00:00:00.000Z",
-            "Kumulierte Anzahl": 5.605
+            "Kumulierte Anzahl": 5605
         },
         {
             "Meldedatum": "2020-03-20T00:00:00.000Z",
-            "Kumulierte Anzahl": 6.485
+            "Kumulierte Anzahl": 6485
         },
         {
             "Meldedatum": "2020-03-21T00:00:00.000Z",
-            "Kumulierte Anzahl": 7.18
+            "Kumulierte Anzahl": 7180
         },
         {
             "Meldedatum": "2020-03-22T00:00:00.000Z",
-            "Kumulierte Anzahl": 7.615
+            "Kumulierte Anzahl": 7615
         },
         {
             "Meldedatum": "2020-03-23T00:00:00.000Z",
-            "Kumulierte Anzahl": 8.492
+            "Kumulierte Anzahl": 8492
         },
         {
             "Meldedatum": "2020-03-24T00:00:00.000Z",
-            "Kumulierte Anzahl": 9.291
+            "Kumulierte Anzahl": 9291
         },
         {
             "Meldedatum": "2020-03-25T00:00:00.000Z",
-            "Kumulierte Anzahl": 10.329
+            "Kumulierte Anzahl": 10329
         },
         {
             "Meldedatum": "2020-03-26T00:00:00.000Z",
-            "Kumulierte Anzahl": 11.37
+            "Kumulierte Anzahl": 11370
         },
         {
             "Meldedatum": "2020-03-27T00:00:00.000Z",
-            "Kumulierte Anzahl": 12.465
+            "Kumulierte Anzahl": 12465
         },
         {
             "Meldedatum": "2020-03-28T00:00:00.000Z",
-            "Kumulierte Anzahl": 13.213
+            "Kumulierte Anzahl": 13213
         },
         {
             "Meldedatum": "2020-03-29T00:00:00.000Z",
-            "Kumulierte Anzahl": 13.842
+            "Kumulierte Anzahl": 13842
         },
         {
             "Meldedatum": "2020-03-30T00:00:00.000Z",
-            "Kumulierte Anzahl": 14.604
+            "Kumulierte Anzahl": 14604
         },
         {
             "Meldedatum": "2020-03-31T00:00:00.000Z",
-            "Kumulierte Anzahl": 15.663
+            "Kumulierte Anzahl": 15663
         },
         {
             "Meldedatum": "2020-04-01T00:00:00.000Z",
-            "Kumulierte Anzahl": 16.818
+            "Kumulierte Anzahl": 16818
         },
         {
             "Meldedatum": "2020-04-02T00:00:00.000Z",
-            "Kumulierte Anzahl": 18.022
+            "Kumulierte Anzahl": 18022
         },
         {
             "Meldedatum": "2020-04-03T00:00:00.000Z",
-            "Kumulierte Anzahl": 19.077
+            "Kumulierte Anzahl": 19077
         },
         {
             "Meldedatum": "2020-04-04T00:00:00.000Z",
-            "Kumulierte Anzahl": 19.763
+            "Kumulierte Anzahl": 19763
         },
         {
             "Meldedatum": "2020-04-05T00:00:00.000Z",
-            "Kumulierte Anzahl": 20.271
+            "Kumulierte Anzahl": 20271
         },
         {
             "Meldedatum": "2020-04-06T00:00:00.000Z",
-            "Kumulierte Anzahl": 21.142
+            "Kumulierte Anzahl": 21142
         },
         {
             "Meldedatum": "2020-04-07T00:00:00.000Z",
-            "Kumulierte Anzahl": 22.057
+            "Kumulierte Anzahl": 22057
         },
         {
             "Meldedatum": "2020-04-08T00:00:00.000Z",
-            "Kumulierte Anzahl": 23.1
+            "Kumulierte Anzahl": 23100
         },
         {
             "Meldedatum": "2020-04-09T00:00:00.000Z",
-            "Kumulierte Anzahl": 24.111
+            "Kumulierte Anzahl": 24111
         },
         {
             "Meldedatum": "2020-04-10T00:00:00.000Z",
-            "Kumulierte Anzahl": 24.734
+            "Kumulierte Anzahl": 24734
         },
         {
             "Meldedatum": "2020-04-11T00:00:00.000Z",
-            "Kumulierte Anzahl": 25.315
+            "Kumulierte Anzahl": 25315
         },
         {
             "Meldedatum": "2020-04-12T00:00:00.000Z",
-            "Kumulierte Anzahl": 25.697
+            "Kumulierte Anzahl": 25697
         },
         {
             "Meldedatum": "2020-04-13T00:00:00.000Z",
-            "Kumulierte Anzahl": 25.993
+            "Kumulierte Anzahl": 25993
         },
         {
             "Meldedatum": "2020-04-14T00:00:00.000Z",
-            "Kumulierte Anzahl": 26.504
+            "Kumulierte Anzahl": 26504
         },
         {
             "Meldedatum": "2020-04-15T00:00:00.000Z",
-            "Kumulierte Anzahl": 27.169
+            "Kumulierte Anzahl": 27169
         },
         {
             "Meldedatum": "2020-04-16T00:00:00.000Z",
-            "Kumulierte Anzahl": 27.906
+            "Kumulierte Anzahl": 27906
         },
         {
             "Meldedatum": "2020-04-17T00:00:00.000Z",
-            "Kumulierte Anzahl": 28.541
+            "Kumulierte Anzahl": 28541
         },
         {
             "Meldedatum": "2020-04-18T00:00:00.000Z",
-            "Kumulierte Anzahl": 29.008
+            "Kumulierte Anzahl": 29008
         },
         {
             "Meldedatum": "2020-04-19T00:00:00.000Z",
-            "Kumulierte Anzahl": 29.346
+            "Kumulierte Anzahl": 29346
         },
         {
             "Meldedatum": "2020-04-20T00:00:00.000Z",
-            "Kumulierte Anzahl": 29.896
+            "Kumulierte Anzahl": 29896
         },
         {
             "Meldedatum": "2020-04-21T00:00:00.000Z",
-            "Kumulierte Anzahl": 30.352
+            "Kumulierte Anzahl": 30352
         },
         {
             "Meldedatum": "2020-04-22T00:00:00.000Z",
-            "Kumulierte Anzahl": 30.827
+            "Kumulierte Anzahl": 30827
         },
         {
             "Meldedatum": "2020-04-23T00:00:00.000Z",
-            "Kumulierte Anzahl": 31.218
+            "Kumulierte Anzahl": 31218
         },
         {
             "Meldedatum": "2020-04-24T00:00:00.000Z",
-            "Kumulierte Anzahl": 31.552
+            "Kumulierte Anzahl": 31552
         },
         {
             "Meldedatum": "2020-04-25T00:00:00.000Z",
-            "Kumulierte Anzahl": 31.772
+            "Kumulierte Anzahl": 31772
         },
         {
             "Meldedatum": "2020-04-26T00:00:00.000Z",
-            "Kumulierte Anzahl": 31.924
+            "Kumulierte Anzahl": 31924
         },
         {
             "Meldedatum": "2020-04-27T00:00:00.000Z",
-            "Kumulierte Anzahl": 32.148
+            "Kumulierte Anzahl": 32148
         },
         {
             "Meldedatum": "2020-04-28T00:00:00.000Z",
-            "Kumulierte Anzahl": 32.414
+            "Kumulierte Anzahl": 32414
         },
         {
             "Meldedatum": "2020-04-29T00:00:00.000Z",
-            "Kumulierte Anzahl": 32.662
+            "Kumulierte Anzahl": 32662
         },
         {
             "Meldedatum": "2020-04-30T00:00:00.000Z",
-            "Kumulierte Anzahl": 33.046
+            "Kumulierte Anzahl": 33046
         },
         {
             "Meldedatum": "2020-05-01T00:00:00.000Z",
-            "Kumulierte Anzahl": 33.278
+            "Kumulierte Anzahl": 33278
         },
         {
             "Meldedatum": "2020-05-02T00:00:00.000Z",
-            "Kumulierte Anzahl": 33.424
+            "Kumulierte Anzahl": 33424
         },
         {
             "Meldedatum": "2020-05-03T00:00:00.000Z",
-            "Kumulierte Anzahl": 33.543
+            "Kumulierte Anzahl": 33543
         },
         {
             "Meldedatum": "2020-05-04T00:00:00.000Z",
-            "Kumulierte Anzahl": 33.716
+            "Kumulierte Anzahl": 33716
         },
         {
             "Meldedatum": "2020-05-05T00:00:00.000Z",
-            "Kumulierte Anzahl": 33.956
+            "Kumulierte Anzahl": 33956
         },
         {
             "Meldedatum": "2020-05-06T00:00:00.000Z",
-            "Kumulierte Anzahl": 34.275
+            "Kumulierte Anzahl": 34275
         },
         {
             "Meldedatum": "2020-05-07T00:00:00.000Z",
-            "Kumulierte Anzahl": 34.595
+            "Kumulierte Anzahl": 34595
         },
         {
             "Meldedatum": "2020-05-08T00:00:00.000Z",
-            "Kumulierte Anzahl": 34.809
+            "Kumulierte Anzahl": 34809
         },
         {
             "Meldedatum": "2020-05-09T00:00:00.000Z",
-            "Kumulierte Anzahl": 34.999
+            "Kumulierte Anzahl": 34999
         },
         {
             "Meldedatum": "2020-05-10T00:00:00.000Z",
-            "Kumulierte Anzahl": 35.103
+            "Kumulierte Anzahl": 35103
         },
         {
             "Meldedatum": "2020-05-11T00:00:00.000Z",
-            "Kumulierte Anzahl": 35.309
+            "Kumulierte Anzahl": 35309
         },
         {
             "Meldedatum": "2020-05-12T00:00:00.000Z",
-            "Kumulierte Anzahl": 35.544
+            "Kumulierte Anzahl": 35544
         },
         {
             "Meldedatum": "2020-05-13T00:00:00.000Z",
-            "Kumulierte Anzahl": 35.757
+            "Kumulierte Anzahl": 35757
         },
         {
             "Meldedatum": "2020-05-14T00:00:00.000Z",
-            "Kumulierte Anzahl": 35.955
+            "Kumulierte Anzahl": 35955
         },
         {
             "Meldedatum": "2020-05-15T00:00:00.000Z",
-            "Kumulierte Anzahl": 36.187
+            "Kumulierte Anzahl": 36187
         },
         {
             "Meldedatum": "2020-05-16T00:00:00.000Z",
-            "Kumulierte Anzahl": 36.325
+            "Kumulierte Anzahl": 36325
         },
         {
             "Meldedatum": "2020-05-17T00:00:00.000Z",
-            "Kumulierte Anzahl": 36.415
+            "Kumulierte Anzahl": 36415
         },
         {
             "Meldedatum": "2020-05-18T00:00:00.000Z",
-            "Kumulierte Anzahl": 36.596
+            "Kumulierte Anzahl": 36596
         },
         {
             "Meldedatum": "2020-05-19T00:00:00.000Z",
-            "Kumulierte Anzahl": 36.79
+            "Kumulierte Anzahl": 36790
         },
         {
             "Meldedatum": "2020-05-20T00:00:00.000Z",
-            "Kumulierte Anzahl": 36.948
+            "Kumulierte Anzahl": 36948
         },
         {
             "Meldedatum": "2020-05-21T00:00:00.000Z",
-            "Kumulierte Anzahl": 37.054
+            "Kumulierte Anzahl": 37054
         },
         {
             "Meldedatum": "2020-05-22T00:00:00.000Z",
-            "Kumulierte Anzahl": 37.15
+            "Kumulierte Anzahl": 37150
         },
         {
             "Meldedatum": "2020-05-23T00:00:00.000Z",
-            "Kumulierte Anzahl": 37.223
+            "Kumulierte Anzahl": 37223
         },
         {
             "Meldedatum": "2020-05-24T00:00:00.000Z",
-            "Kumulierte Anzahl": 37.279
+            "Kumulierte Anzahl": 37279
         },
         {
             "Meldedatum": "2020-05-25T00:00:00.000Z",
-            "Kumulierte Anzahl": 37.413
+            "Kumulierte Anzahl": 37413
         },
         {
             "Meldedatum": "2020-05-26T00:00:00.000Z",
-            "Kumulierte Anzahl": 37.559
+            "Kumulierte Anzahl": 37559
         },
         {
             "Meldedatum": "2020-05-27T00:00:00.000Z",
-            "Kumulierte Anzahl": 37.698
+            "Kumulierte Anzahl": 37698
         },
         {
             "Meldedatum": "2020-05-28T00:00:00.000Z",
-            "Kumulierte Anzahl": 37.816
+            "Kumulierte Anzahl": 37816
         },
         {
             "Meldedatum": "2020-05-29T00:00:00.000Z",
-            "Kumulierte Anzahl": 37.913
+            "Kumulierte Anzahl": 37913
         },
         {
             "Meldedatum": "2020-05-30T00:00:00.000Z",
-            "Kumulierte Anzahl": 37.997
+            "Kumulierte Anzahl": 37997
         },
         {
             "Meldedatum": "2020-05-31T00:00:00.000Z",
-            "Kumulierte Anzahl": 38.041
+            "Kumulierte Anzahl": 38041
         },
         {
             "Meldedatum": "2020-06-01T00:00:00.000Z",
-            "Kumulierte Anzahl": 38.084
+            "Kumulierte Anzahl": 38084
         },
         {
             "Meldedatum": "2020-06-02T00:00:00.000Z",
-            "Kumulierte Anzahl": 38.175
+            "Kumulierte Anzahl": 38175
         },
         {
             "Meldedatum": "2020-06-03T00:00:00.000Z",
-            "Kumulierte Anzahl": 38.293
+            "Kumulierte Anzahl": 38293
         },
         {
             "Meldedatum": "2020-06-04T00:00:00.000Z",
-            "Kumulierte Anzahl": 38.428
+            "Kumulierte Anzahl": 38428
         },
         {
             "Meldedatum": "2020-06-05T00:00:00.000Z",
-            "Kumulierte Anzahl": 38.542
+            "Kumulierte Anzahl": 38542
         },
         {
             "Meldedatum": "2020-06-06T00:00:00.000Z",
-            "Kumulierte Anzahl": 38.637
+            "Kumulierte Anzahl": 38637
         },
         {
             "Meldedatum": "2020-06-07T00:00:00.000Z",
-            "Kumulierte Anzahl": 38.678
+            "Kumulierte Anzahl": 38678
         },
         {
             "Meldedatum": "2020-06-08T00:00:00.000Z",
-            "Kumulierte Anzahl": 38.76
+            "Kumulierte Anzahl": 38760
         },
         {
             "Meldedatum": "2020-06-09T00:00:00.000Z",
-            "Kumulierte Anzahl": 38.884
+            "Kumulierte Anzahl": 38884
         },
         {
             "Meldedatum": "2020-06-10T00:00:00.000Z",
-            "Kumulierte Anzahl": 39.029
+            "Kumulierte Anzahl": 39029
         },
         {
             "Meldedatum": "2020-06-11T00:00:00.000Z",
-            "Kumulierte Anzahl": 39.1
+            "Kumulierte Anzahl": 39100
         },
         {
             "Meldedatum": "2020-06-12T00:00:00.000Z",
-            "Kumulierte Anzahl": 39.185
+            "Kumulierte Anzahl": 39185
         },
         {
             "Meldedatum": "2020-06-13T00:00:00.000Z",
-            "Kumulierte Anzahl": 39.295
+            "Kumulierte Anzahl": 39295
         },
         {
             "Meldedatum": "2020-06-14T00:00:00.000Z",
-            "Kumulierte Anzahl": 39.371
+            "Kumulierte Anzahl": 39371
         },
         {
             "Meldedatum": "2020-06-15T00:00:00.000Z",
-            "Kumulierte Anzahl": 39.468
+            "Kumulierte Anzahl": 39468
         },
         {
             "Meldedatum": "2020-06-16T00:00:00.000Z",
-            "Kumulierte Anzahl": 39.673
+            "Kumulierte Anzahl": 39673
         },
         {
             "Meldedatum": "2020-06-17T00:00:00.000Z",
-            "Kumulierte Anzahl": 40.281
+            "Kumulierte Anzahl": 40281
         },
         {
             "Meldedatum": "2020-06-18T00:00:00.000Z",
-            "Kumulierte Anzahl": 40.501
+            "Kumulierte Anzahl": 40501
         },
         {
             "Meldedatum": "2020-06-19T00:00:00.000Z",
-            "Kumulierte Anzahl": 41.001
+            "Kumulierte Anzahl": 41001
         },
         {
             "Meldedatum": "2020-06-20T00:00:00.000Z",
-            "Kumulierte Anzahl": 41.303
+            "Kumulierte Anzahl": 41303
         },
         {
             "Meldedatum": "2020-06-21T00:00:00.000Z",
-            "Kumulierte Anzahl": 41.456
+            "Kumulierte Anzahl": 41456
         },
         {
             "Meldedatum": "2020-06-22T00:00:00.000Z",
-            "Kumulierte Anzahl": 41.739
+            "Kumulierte Anzahl": 41739
         },
         {
             "Meldedatum": "2020-06-23T00:00:00.000Z",
-            "Kumulierte Anzahl": 41.97
+            "Kumulierte Anzahl": 41970
         },
         {
             "Meldedatum": "2020-06-24T00:00:00.000Z",
-            "Kumulierte Anzahl": 42.209
+            "Kumulierte Anzahl": 42209
         },
         {
             "Meldedatum": "2020-06-25T00:00:00.000Z",
-            "Kumulierte Anzahl": 42.494
+            "Kumulierte Anzahl": 42494
         },
         {
             "Meldedatum": "2020-06-26T00:00:00.000Z",
-            "Kumulierte Anzahl": 42.752
+            "Kumulierte Anzahl": 42752
         },
         {
             "Meldedatum": "2020-06-27T00:00:00.000Z",
-            "Kumulierte Anzahl": 42.914
+            "Kumulierte Anzahl": 42914
         },
         {
             "Meldedatum": "2020-06-28T00:00:00.000Z",
-            "Kumulierte Anzahl": 43.031
+            "Kumulierte Anzahl": 43031
         },
         {
             "Meldedatum": "2020-06-29T00:00:00.000Z",
-            "Kumulierte Anzahl": 43.232
+            "Kumulierte Anzahl": 43232
         },
         {
             "Meldedatum": "2020-06-30T00:00:00.000Z",
-            "Kumulierte Anzahl": 43.409
+            "Kumulierte Anzahl": 43409
         },
         {
             "Meldedatum": "2020-07-01T00:00:00.000Z",
-            "Kumulierte Anzahl": 43.585
+            "Kumulierte Anzahl": 43585
         },
         {
             "Meldedatum": "2020-07-02T00:00:00.000Z",
-            "Kumulierte Anzahl": 43.788
+            "Kumulierte Anzahl": 43788
         },
         {
             "Meldedatum": "2020-07-03T00:00:00.000Z",
-            "Kumulierte Anzahl": 43.958
+            "Kumulierte Anzahl": 43958
         },
         {
             "Meldedatum": "2020-07-04T00:00:00.000Z",
-            "Kumulierte Anzahl": 44.079
+            "Kumulierte Anzahl": 44079
         },
         {
             "Meldedatum": "2020-07-05T00:00:00.000Z",
-            "Kumulierte Anzahl": 44.138
+            "Kumulierte Anzahl": 44138
         },
         {
             "Meldedatum": "2020-07-06T00:00:00.000Z",
-            "Kumulierte Anzahl": 44.218
+            "Kumulierte Anzahl": 44218
         },
         {
             "Meldedatum": "2020-07-07T00:00:00.000Z",
-            "Kumulierte Anzahl": 44.369
+            "Kumulierte Anzahl": 44369
         },
         {
             "Meldedatum": "2020-07-08T00:00:00.000Z",
-            "Kumulierte Anzahl": 44.553
+            "Kumulierte Anzahl": 44553
         },
         {
             "Meldedatum": "2020-07-09T00:00:00.000Z",
-            "Kumulierte Anzahl": 44.707
+            "Kumulierte Anzahl": 44707
         },
         {
             "Meldedatum": "2020-07-10T00:00:00.000Z",
-            "Kumulierte Anzahl": 44.878
+            "Kumulierte Anzahl": 44878
         },
         {
             "Meldedatum": "2020-07-11T00:00:00.000Z",
-            "Kumulierte Anzahl": 45.001
+            "Kumulierte Anzahl": 45001
         },
         {
             "Meldedatum": "2020-07-12T00:00:00.000Z",
-            "Kumulierte Anzahl": 45.064
+            "Kumulierte Anzahl": 45064
         },
         {
             "Meldedatum": "2020-07-13T00:00:00.000Z",
-            "Kumulierte Anzahl": 45.155
+            "Kumulierte Anzahl": 45155
         },
         {
             "Meldedatum": "2020-07-14T00:00:00.000Z",
-            "Kumulierte Anzahl": 45.311
+            "Kumulierte Anzahl": 45311
         },
         {
             "Meldedatum": "2020-07-15T00:00:00.000Z",
-            "Kumulierte Anzahl": 45.531
+            "Kumulierte Anzahl": 45531
         },
         {
             "Meldedatum": "2020-07-16T00:00:00.000Z",
-            "Kumulierte Anzahl": 45.791
+            "Kumulierte Anzahl": 45791
         },
         {
             "Meldedatum": "2020-07-17T00:00:00.000Z",
-            "Kumulierte Anzahl": 45.99
+            "Kumulierte Anzahl": 45990
         },
         {
             "Meldedatum": "2020-07-18T00:00:00.000Z",
-            "Kumulierte Anzahl": 46.136
+            "Kumulierte Anzahl": 46136
         },
         {
             "Meldedatum": "2020-07-19T00:00:00.000Z",
-            "Kumulierte Anzahl": 46.204
+            "Kumulierte Anzahl": 46204
         },
         {
             "Meldedatum": "2020-07-20T00:00:00.000Z",
-            "Kumulierte Anzahl": 46.362
+            "Kumulierte Anzahl": 46362
         },
         {
             "Meldedatum": "2020-07-21T00:00:00.000Z",
-            "Kumulierte Anzahl": 46.546
+            "Kumulierte Anzahl": 46546
         },
         {
             "Meldedatum": "2020-07-22T00:00:00.000Z",
-            "Kumulierte Anzahl": 46.812
+            "Kumulierte Anzahl": 46812
         },
         {
             "Meldedatum": "2020-07-23T00:00:00.000Z",
-            "Kumulierte Anzahl": 47.11
+            "Kumulierte Anzahl": 47110
         },
         {
             "Meldedatum": "2020-07-24T00:00:00.000Z",
-            "Kumulierte Anzahl": 47.418
+            "Kumulierte Anzahl": 47418
         },
         {
             "Meldedatum": "2020-07-25T00:00:00.000Z",
-            "Kumulierte Anzahl": 47.615
+            "Kumulierte Anzahl": 47615
         },
         {
             "Meldedatum": "2020-07-26T00:00:00.000Z",
-            "Kumulierte Anzahl": 47.674
+            "Kumulierte Anzahl": 47674
         },
         {
             "Meldedatum": "2020-07-27T00:00:00.000Z",
-            "Kumulierte Anzahl": 47.842
+            "Kumulierte Anzahl": 47842
         },
         {
             "Meldedatum": "2020-07-28T00:00:00.000Z",
-            "Kumulierte Anzahl": 48.128
+            "Kumulierte Anzahl": 48128
         },
         {
             "Meldedatum": "2020-07-29T00:00:00.000Z",
-            "Kumulierte Anzahl": 48.49
+            "Kumulierte Anzahl": 48490
         },
         {
             "Meldedatum": "2020-07-30T00:00:00.000Z",
-            "Kumulierte Anzahl": 48.835
+            "Kumulierte Anzahl": 48835
         },
         {
             "Meldedatum": "2020-07-31T00:00:00.000Z",
-            "Kumulierte Anzahl": 49.197
+            "Kumulierte Anzahl": 49197
         },
         {
             "Meldedatum": "2020-08-01T00:00:00.000Z",
-            "Kumulierte Anzahl": 49.421
+            "Kumulierte Anzahl": 49421
         },
         {
             "Meldedatum": "2020-08-02T00:00:00.000Z",
-            "Kumulierte Anzahl": 49.577
+            "Kumulierte Anzahl": 49577
         },
         {
             "Meldedatum": "2020-08-03T00:00:00.000Z",
-            "Kumulierte Anzahl": 49.872
+            "Kumulierte Anzahl": 49872
         },
         {
             "Meldedatum": "2020-08-04T00:00:00.000Z",
-            "Kumulierte Anzahl": 50.247
+            "Kumulierte Anzahl": 50247
         },
         {
             "Meldedatum": "2020-08-05T00:00:00.000Z",
-            "Kumulierte Anzahl": 50.698
+            "Kumulierte Anzahl": 50698
         },
         {
             "Meldedatum": "2020-08-06T00:00:00.000Z",
-            "Kumulierte Anzahl": 51.127
+            "Kumulierte Anzahl": 51127
         },
         {
             "Meldedatum": "2020-08-07T00:00:00.000Z",
-            "Kumulierte Anzahl": 51.488
+            "Kumulierte Anzahl": 51488
         },
         {
             "Meldedatum": "2020-08-08T00:00:00.000Z",
-            "Kumulierte Anzahl": 51.822
+            "Kumulierte Anzahl": 51822
         },
         {
             "Meldedatum": "2020-08-09T00:00:00.000Z",
-            "Kumulierte Anzahl": 52.001
+            "Kumulierte Anzahl": 52001
         },
         {
             "Meldedatum": "2020-08-10T00:00:00.000Z",
-            "Kumulierte Anzahl": 52.354
+            "Kumulierte Anzahl": 52354
         },
         {
             "Meldedatum": "2020-08-11T00:00:00.000Z",
-            "Kumulierte Anzahl": 52.787
+            "Kumulierte Anzahl": 52787
         },
         {
             "Meldedatum": "2020-08-12T00:00:00.000Z",
-            "Kumulierte Anzahl": 53.346
+            "Kumulierte Anzahl": 53346
         },
         {
             "Meldedatum": "2020-08-13T00:00:00.000Z",
-            "Kumulierte Anzahl": 53.884
+            "Kumulierte Anzahl": 53884
         },
         {
             "Meldedatum": "2020-08-14T00:00:00.000Z",
-            "Kumulierte Anzahl": 54.382
+            "Kumulierte Anzahl": 54382
         },
         {
             "Meldedatum": "2020-08-15T00:00:00.000Z",
-            "Kumulierte Anzahl": 54.708
+            "Kumulierte Anzahl": 54708
         },
         {
             "Meldedatum": "2020-08-16T00:00:00.000Z",
-            "Kumulierte Anzahl": 54.88
+            "Kumulierte Anzahl": 54880
         },
         {
             "Meldedatum": "2020-08-17T00:00:00.000Z",
-            "Kumulierte Anzahl": 55.263
+            "Kumulierte Anzahl": 55263
         },
         {
             "Meldedatum": "2020-08-18T00:00:00.000Z",
-            "Kumulierte Anzahl": 55.631
+            "Kumulierte Anzahl": 55631
         },
         {
             "Meldedatum": "2020-08-19T00:00:00.000Z",
-            "Kumulierte Anzahl": 56.014
+            "Kumulierte Anzahl": 56014
         },
         {
             "Meldedatum": "2020-08-20T00:00:00.000Z",
-            "Kumulierte Anzahl": 56.375
+            "Kumulierte Anzahl": 56375
         },
         {
             "Meldedatum": "2020-08-21T00:00:00.000Z",
-            "Kumulierte Anzahl": 56.821
+            "Kumulierte Anzahl": 56821
         },
         {
             "Meldedatum": "2020-08-22T00:00:00.000Z",
-            "Kumulierte Anzahl": 57.016
+            "Kumulierte Anzahl": 57016
         },
         {
             "Meldedatum": "2020-08-23T00:00:00.000Z",
-            "Kumulierte Anzahl": 57.172
+            "Kumulierte Anzahl": 57172
         },
         {
             "Meldedatum": "2020-08-24T00:00:00.000Z",
-            "Kumulierte Anzahl": 57.45
+            "Kumulierte Anzahl": 57450
         },
         {
             "Meldedatum": "2020-08-25T00:00:00.000Z",
-            "Kumulierte Anzahl": 57.731
+            "Kumulierte Anzahl": 57731
         },
         {
             "Meldedatum": "2020-08-26T00:00:00.000Z",
-            "Kumulierte Anzahl": 58.041
+            "Kumulierte Anzahl": 58041
         },
         {
             "Meldedatum": "2020-08-27T00:00:00.000Z",
-            "Kumulierte Anzahl": 58.352
+            "Kumulierte Anzahl": 58352
         },
         {
             "Meldedatum": "2020-08-28T00:00:00.000Z",
-            "Kumulierte Anzahl": 58.61
+            "Kumulierte Anzahl": 58610
         },
         {
             "Meldedatum": "2020-08-29T00:00:00.000Z",
-            "Kumulierte Anzahl": 58.772
+            "Kumulierte Anzahl": 58772
         },
         {
             "Meldedatum": "2020-08-30T00:00:00.000Z",
-            "Kumulierte Anzahl": 58.908
+            "Kumulierte Anzahl": 58908
         },
         {
             "Meldedatum": "2020-08-31T00:00:00.000Z",
-            "Kumulierte Anzahl": 59.16
+            "Kumulierte Anzahl": 59160
         },
         {
             "Meldedatum": "2020-09-01T00:00:00.000Z",
-            "Kumulierte Anzahl": 59.409
+            "Kumulierte Anzahl": 59409
         },
         {
             "Meldedatum": "2020-09-02T00:00:00.000Z",
-            "Kumulierte Anzahl": 59.691
+            "Kumulierte Anzahl": 59691
         },
         {
             "Meldedatum": "2020-09-03T00:00:00.000Z",
-            "Kumulierte Anzahl": 59.996
+            "Kumulierte Anzahl": 59996
         },
         {
             "Meldedatum": "2020-09-04T00:00:00.000Z",
-            "Kumulierte Anzahl": 60.285
+            "Kumulierte Anzahl": 60285
         },
         {
             "Meldedatum": "2020-09-05T00:00:00.000Z",
-            "Kumulierte Anzahl": 60.497
+            "Kumulierte Anzahl": 60497
         },
         {
             "Meldedatum": "2020-09-06T00:00:00.000Z",
-            "Kumulierte Anzahl": 60.607
+            "Kumulierte Anzahl": 60607
         },
         {
             "Meldedatum": "2020-09-07T00:00:00.000Z",
-            "Kumulierte Anzahl": 60.831
+            "Kumulierte Anzahl": 60831
         },
         {
             "Meldedatum": "2020-09-08T00:00:00.000Z",
-            "Kumulierte Anzahl": 61.044
+            "Kumulierte Anzahl": 61044
         },
         {
             "Meldedatum": "2020-09-09T00:00:00.000Z",
-            "Kumulierte Anzahl": 61.39
+            "Kumulierte Anzahl": 61390
         },
         {
             "Meldedatum": "2020-09-10T00:00:00.000Z",
-            "Kumulierte Anzahl": 61.71
+            "Kumulierte Anzahl": 61710
         },
         {
             "Meldedatum": "2020-09-11T00:00:00.000Z",
-            "Kumulierte Anzahl": 62.099
+            "Kumulierte Anzahl": 62099
         },
         {
             "Meldedatum": "2020-09-12T00:00:00.000Z",
-            "Kumulierte Anzahl": 62.422
+            "Kumulierte Anzahl": 62422
         },
         {
             "Meldedatum": "2020-09-13T00:00:00.000Z",
-            "Kumulierte Anzahl": 62.611
+            "Kumulierte Anzahl": 62611
         },
         {
             "Meldedatum": "2020-09-14T00:00:00.000Z",
-            "Kumulierte Anzahl": 62.982
+            "Kumulierte Anzahl": 62982
         },
         {
             "Meldedatum": "2020-09-15T00:00:00.000Z",
-            "Kumulierte Anzahl": 63.378
+            "Kumulierte Anzahl": 63378
         },
         {
             "Meldedatum": "2020-09-16T00:00:00.000Z",
-            "Kumulierte Anzahl": 63.85
+            "Kumulierte Anzahl": 63850
         },
         {
             "Meldedatum": "2020-09-17T00:00:00.000Z",
-            "Kumulierte Anzahl": 64.452
+            "Kumulierte Anzahl": 64452
         },
         {
             "Meldedatum": "2020-09-18T00:00:00.000Z",
-            "Kumulierte Anzahl": 64.988
+            "Kumulierte Anzahl": 64988
         },
         {
             "Meldedatum": "2020-09-19T00:00:00.000Z",
-            "Kumulierte Anzahl": 65.387
+            "Kumulierte Anzahl": 65387
         },
         {
             "Meldedatum": "2020-09-20T00:00:00.000Z",
-            "Kumulierte Anzahl": 65.567
+            "Kumulierte Anzahl": 65567
         },
         {
             "Meldedatum": "2020-09-21T00:00:00.000Z",
-            "Kumulierte Anzahl": 65.991
+            "Kumulierte Anzahl": 65991
         },
         {
             "Meldedatum": "2020-09-22T00:00:00.000Z",
-            "Kumulierte Anzahl": 66.447
+            "Kumulierte Anzahl": 66447
         },
         {
             "Meldedatum": "2020-09-23T00:00:00.000Z",
-            "Kumulierte Anzahl": 66.983
+            "Kumulierte Anzahl": 66983
         },
         {
             "Meldedatum": "2020-09-24T00:00:00.000Z",
-            "Kumulierte Anzahl": 67.594
+            "Kumulierte Anzahl": 67594
         },
         {
             "Meldedatum": "2020-09-25T00:00:00.000Z",
-            "Kumulierte Anzahl": 68.225
+            "Kumulierte Anzahl": 68225
         },
         {
             "Meldedatum": "2020-09-26T00:00:00.000Z",
-            "Kumulierte Anzahl": 68.788
+            "Kumulierte Anzahl": 68788
         },
         {
             "Meldedatum": "2020-09-27T00:00:00.000Z",
-            "Kumulierte Anzahl": 69.115
+            "Kumulierte Anzahl": 69115
         },
         {
             "Meldedatum": "2020-09-28T00:00:00.000Z",
-            "Kumulierte Anzahl": 69.555
+            "Kumulierte Anzahl": 69555
         },
         {
             "Meldedatum": "2020-09-29T00:00:00.000Z",
-            "Kumulierte Anzahl": 70.157
+            "Kumulierte Anzahl": 70157
         },
         {
             "Meldedatum": "2020-09-30T00:00:00.000Z",
-            "Kumulierte Anzahl": 70.918
+            "Kumulierte Anzahl": 70918
         },
         {
             "Meldedatum": "2020-10-01T00:00:00.000Z",
-            "Kumulierte Anzahl": 71.767
+            "Kumulierte Anzahl": 71767
         },
         {
             "Meldedatum": "2020-10-02T00:00:00.000Z",
-            "Kumulierte Anzahl": 72.508
+            "Kumulierte Anzahl": 72508
         },
         {
             "Meldedatum": "2020-10-03T00:00:00.000Z",
-            "Kumulierte Anzahl": 73.168
+            "Kumulierte Anzahl": 73168
         },
         {
             "Meldedatum": "2020-10-04T00:00:00.000Z",
-            "Kumulierte Anzahl": 73.505
+            "Kumulierte Anzahl": 73505
         },
         {
             "Meldedatum": "2020-10-05T00:00:00.000Z",
-            "Kumulierte Anzahl": 74.212
+            "Kumulierte Anzahl": 74212
         },
         {
             "Meldedatum": "2020-10-06T00:00:00.000Z",
-            "Kumulierte Anzahl": 75.053
+            "Kumulierte Anzahl": 75053
         },
         {
             "Meldedatum": "2020-10-07T00:00:00.000Z",
-            "Kumulierte Anzahl": 76.243
+            "Kumulierte Anzahl": 76243
         },
         {
             "Meldedatum": "2020-10-08T00:00:00.000Z",
-            "Kumulierte Anzahl": 77.521
+            "Kumulierte Anzahl": 77521
         },
         {
             "Meldedatum": "2020-10-09T00:00:00.000Z",
-            "Kumulierte Anzahl": 78.935
+            "Kumulierte Anzahl": 78935
         },
         {
             "Meldedatum": "2020-10-10T00:00:00.000Z",
-            "Kumulierte Anzahl": 79.994
+            "Kumulierte Anzahl": 79994
         },
         {
             "Meldedatum": "2020-10-11T00:00:00.000Z",
-            "Kumulierte Anzahl": 80.74
+            "Kumulierte Anzahl": 80740
         },
         {
             "Meldedatum": "2020-10-12T00:00:00.000Z",
-            "Kumulierte Anzahl": 81.663
+            "Kumulierte Anzahl": 81663
         },
         {
             "Meldedatum": "2020-10-13T00:00:00.000Z",
-            "Kumulierte Anzahl": 82.991
+            "Kumulierte Anzahl": 82991
         },
         {
             "Meldedatum": "2020-10-14T00:00:00.000Z",
-            "Kumulierte Anzahl": 84.946
+            "Kumulierte Anzahl": 84946
         },
         {
             "Meldedatum": "2020-10-15T00:00:00.000Z",
-            "Kumulierte Anzahl": 87.01
+            "Kumulierte Anzahl": 87010
         },
         {
             "Meldedatum": "2020-10-16T00:00:00.000Z",
-            "Kumulierte Anzahl": 89.032
+            "Kumulierte Anzahl": 89032
         },
         {
             "Meldedatum": "2020-10-17T00:00:00.000Z",
-            "Kumulierte Anzahl": 90.65
+            "Kumulierte Anzahl": 90650
         },
         {
             "Meldedatum": "2020-10-18T00:00:00.000Z",
-            "Kumulierte Anzahl": 91.827
+            "Kumulierte Anzahl": 91827
         },
         {
             "Meldedatum": "2020-10-19T00:00:00.000Z",
-            "Kumulierte Anzahl": 93.344
+            "Kumulierte Anzahl": 93344
         },
         {
             "Meldedatum": "2020-10-20T00:00:00.000Z",
-            "Kumulierte Anzahl": 95.552
+            "Kumulierte Anzahl": 95552
         },
         {
             "Meldedatum": "2020-10-21T00:00:00.000Z",
-            "Kumulierte Anzahl": 98.588
+            "Kumulierte Anzahl": 98588
         },
         {
             "Meldedatum": "2020-10-22T00:00:00.000Z",
-            "Kumulierte Anzahl": 102.487
+            "Kumulierte Anzahl": 102487
         },
         {
             "Meldedatum": "2020-10-23T00:00:00.000Z",
-            "Kumulierte Anzahl": 106.324
+            "Kumulierte Anzahl": 106324
         },
         {
             "Meldedatum": "2020-10-24T00:00:00.000Z",
-            "Kumulierte Anzahl": 109.838
+            "Kumulierte Anzahl": 109838
         },
         {
             "Meldedatum": "2020-10-25T00:00:00.000Z",
-            "Kumulierte Anzahl": 112.372
+            "Kumulierte Anzahl": 112372
         },
         {
             "Meldedatum": "2020-10-26T00:00:00.000Z",
-            "Kumulierte Anzahl": 115.127
+            "Kumulierte Anzahl": 115127
         },
         {
             "Meldedatum": "2020-10-27T00:00:00.000Z",
-            "Kumulierte Anzahl": 118.822
+            "Kumulierte Anzahl": 118822
         },
         {
             "Meldedatum": "2020-10-28T00:00:00.000Z",
-            "Kumulierte Anzahl": 123.718
+            "Kumulierte Anzahl": 123718
         },
         {
             "Meldedatum": "2020-10-29T00:00:00.000Z",
-            "Kumulierte Anzahl": 129.536
+            "Kumulierte Anzahl": 129536
         },
         {
             "Meldedatum": "2020-10-30T00:00:00.000Z",
-            "Kumulierte Anzahl": 134.747
+            "Kumulierte Anzahl": 134747
         },
         {
             "Meldedatum": "2020-10-31T00:00:00.000Z",
-            "Kumulierte Anzahl": 138.643
+            "Kumulierte Anzahl": 138643
         },
         {
             "Meldedatum": "2020-11-01T00:00:00.000Z",
-            "Kumulierte Anzahl": 141.863
+            "Kumulierte Anzahl": 141863
         },
         {
             "Meldedatum": "2020-11-02T00:00:00.000Z",
-            "Kumulierte Anzahl": 145.715
+            "Kumulierte Anzahl": 145715
         },
         {
             "Meldedatum": "2020-11-03T00:00:00.000Z",
-            "Kumulierte Anzahl": 150.391
+            "Kumulierte Anzahl": 150391
         },
         {
             "Meldedatum": "2020-11-04T00:00:00.000Z",
-            "Kumulierte Anzahl": 155.571
+            "Kumulierte Anzahl": 155571
         },
         {
             "Meldedatum": "2020-11-05T00:00:00.000Z",
-            "Kumulierte Anzahl": 161.415
+            "Kumulierte Anzahl": 161415
         },
         {
             "Meldedatum": "2020-11-06T00:00:00.000Z",
-            "Kumulierte Anzahl": 166.571
+            "Kumulierte Anzahl": 166571
         },
         {
             "Meldedatum": "2020-11-07T00:00:00.000Z",
-            "Kumulierte Anzahl": 170.336
+            "Kumulierte Anzahl": 170336
         },
         {
             "Meldedatum": "2020-11-08T00:00:00.000Z",
-            "Kumulierte Anzahl": 173.302
+            "Kumulierte Anzahl": 173302
         },
         {
             "Meldedatum": "2020-11-09T00:00:00.000Z",
-            "Kumulierte Anzahl": 177.398
+            "Kumulierte Anzahl": 177398
         },
         {
             "Meldedatum": "2020-11-10T00:00:00.000Z",
-            "Kumulierte Anzahl": 181.736
+            "Kumulierte Anzahl": 181736
         },
         {
             "Meldedatum": "2020-11-11T00:00:00.000Z",
-            "Kumulierte Anzahl": 186.893
+            "Kumulierte Anzahl": 186893
         },
         {
             "Meldedatum": "2020-11-12T00:00:00.000Z",
-            "Kumulierte Anzahl": 192.632
+            "Kumulierte Anzahl": 192632
         },
         {
             "Meldedatum": "2020-11-13T00:00:00.000Z",
-            "Kumulierte Anzahl": 197.761
+            "Kumulierte Anzahl": 197761
         },
         {
             "Meldedatum": "2020-11-14T00:00:00.000Z",
-            "Kumulierte Anzahl": 201.96
+            "Kumulierte Anzahl": 201960
         },
         {
             "Meldedatum": "2020-11-15T00:00:00.000Z",
-            "Kumulierte Anzahl": 204.315
+            "Kumulierte Anzahl": 204315
         },
         {
             "Meldedatum": "2020-11-16T00:00:00.000Z",
-            "Kumulierte Anzahl": 208.249
+            "Kumulierte Anzahl": 208249
         },
         {
             "Meldedatum": "2020-11-17T00:00:00.000Z",
-            "Kumulierte Anzahl": 212.587
+            "Kumulierte Anzahl": 212587
         },
         {
             "Meldedatum": "2020-11-18T00:00:00.000Z",
-            "Kumulierte Anzahl": 218.112
+            "Kumulierte Anzahl": 218112
         },
         {
             "Meldedatum": "2020-11-19T00:00:00.000Z",
-            "Kumulierte Anzahl": 223.827
+            "Kumulierte Anzahl": 223827
         },
         {
             "Meldedatum": "2020-11-20T00:00:00.000Z",
-            "Kumulierte Anzahl": 228.891
+            "Kumulierte Anzahl": 228891
         },
         {
             "Meldedatum": "2020-11-21T00:00:00.000Z",
-            "Kumulierte Anzahl": 232.046
+            "Kumulierte Anzahl": 232046
         },
         {
             "Meldedatum": "2020-11-22T00:00:00.000Z",
-            "Kumulierte Anzahl": 234.04
+            "Kumulierte Anzahl": 234040
         },
         {
             "Meldedatum": "2020-11-23T00:00:00.000Z",
-            "Kumulierte Anzahl": 237.968
+            "Kumulierte Anzahl": 237968
         },
         {
             "Meldedatum": "2020-11-24T00:00:00.000Z",
-            "Kumulierte Anzahl": 242.246
+            "Kumulierte Anzahl": 242246
         },
         {
             "Meldedatum": "2020-11-25T00:00:00.000Z",
-            "Kumulierte Anzahl": 247.17
+            "Kumulierte Anzahl": 247170
         },
         {
             "Meldedatum": "2020-11-26T00:00:00.000Z",
-            "Kumulierte Anzahl": 251.799
+            "Kumulierte Anzahl": 251799
         },
         {
             "Meldedatum": "2020-11-27T00:00:00.000Z",
-            "Kumulierte Anzahl": 256.18
+            "Kumulierte Anzahl": 256180
         },
         {
             "Meldedatum": "2020-11-28T00:00:00.000Z",
-            "Kumulierte Anzahl": 259.621
+            "Kumulierte Anzahl": 259621
         },
         {
             "Meldedatum": "2020-11-29T00:00:00.000Z",
-            "Kumulierte Anzahl": 261.559
+            "Kumulierte Anzahl": 261559
         },
         {
             "Meldedatum": "2020-11-30T00:00:00.000Z",
-            "Kumulierte Anzahl": 264.245
+            "Kumulierte Anzahl": 264245
         },
         {
             "Meldedatum": "2020-12-01T00:00:00.000Z",
-            "Kumulierte Anzahl": 268.126
+            "Kumulierte Anzahl": 268126
         },
         {
             "Meldedatum": "2020-12-02T00:00:00.000Z",
-            "Kumulierte Anzahl": 272.986
+            "Kumulierte Anzahl": 272986
         },
         {
             "Meldedatum": "2020-12-03T00:00:00.000Z",
-            "Kumulierte Anzahl": 277.758
+            "Kumulierte Anzahl": 277758
         },
         {
             "Meldedatum": "2020-12-04T00:00:00.000Z",
-            "Kumulierte Anzahl": 282.268
+            "Kumulierte Anzahl": 282268
         },
         {
             "Meldedatum": "2020-12-05T00:00:00.000Z",
-            "Kumulierte Anzahl": 285.665
+            "Kumulierte Anzahl": 285665
         },
         {
             "Meldedatum": "2020-12-06T00:00:00.000Z",
-            "Kumulierte Anzahl": 287.734
+            "Kumulierte Anzahl": 287734
         },
         {
             "Meldedatum": "2020-12-07T00:00:00.000Z",
-            "Kumulierte Anzahl": 291.093
+            "Kumulierte Anzahl": 291093
         },
         {
             "Meldedatum": "2020-12-08T00:00:00.000Z",
-            "Kumulierte Anzahl": 295.618
+            "Kumulierte Anzahl": 295618
         },
         {
             "Meldedatum": "2020-12-09T00:00:00.000Z",
-            "Kumulierte Anzahl": 300.923
+            "Kumulierte Anzahl": 300923
         },
         {
             "Meldedatum": "2020-12-10T00:00:00.000Z",
-            "Kumulierte Anzahl": 306.709
+            "Kumulierte Anzahl": 306709
         },
         {
             "Meldedatum": "2020-12-11T00:00:00.000Z",
-            "Kumulierte Anzahl": 312.574
+            "Kumulierte Anzahl": 312574
         },
         {
             "Meldedatum": "2020-12-12T00:00:00.000Z",
-            "Kumulierte Anzahl": 316.704
+            "Kumulierte Anzahl": 316704
         },
         {
             "Meldedatum": "2020-12-13T00:00:00.000Z",
-            "Kumulierte Anzahl": 319.231
+            "Kumulierte Anzahl": 319231
         },
         {
             "Meldedatum": "2020-12-14T00:00:00.000Z",
-            "Kumulierte Anzahl": 322.945
+            "Kumulierte Anzahl": 322945
         },
         {
             "Meldedatum": "2020-12-15T00:00:00.000Z",
-            "Kumulierte Anzahl": 328.118
+            "Kumulierte Anzahl": 328118
         },
         {
             "Meldedatum": "2020-12-16T00:00:00.000Z",
-            "Kumulierte Anzahl": 334.259
+            "Kumulierte Anzahl": 334259
         },
         {
             "Meldedatum": "2020-12-17T00:00:00.000Z",
-            "Kumulierte Anzahl": 340.463
+            "Kumulierte Anzahl": 340463
         },
         {
             "Meldedatum": "2020-12-18T00:00:00.000Z",
-            "Kumulierte Anzahl": 346.382
+            "Kumulierte Anzahl": 346382
         },
         {
             "Meldedatum": "2020-12-19T00:00:00.000Z",
-            "Kumulierte Anzahl": 350.786
+            "Kumulierte Anzahl": 350786
         },
         {
             "Meldedatum": "2020-12-20T00:00:00.000Z",
-            "Kumulierte Anzahl": 353.754
+            "Kumulierte Anzahl": 353754
         },
         {
             "Meldedatum": "2020-12-21T00:00:00.000Z",
-            "Kumulierte Anzahl": 357.839
+            "Kumulierte Anzahl": 357839
         },
         {
             "Meldedatum": "2020-12-22T00:00:00.000Z",
-            "Kumulierte Anzahl": 363.424
+            "Kumulierte Anzahl": 363424
         },
         {
             "Meldedatum": "2020-12-23T00:00:00.000Z",
-            "Kumulierte Anzahl": 370.22
+            "Kumulierte Anzahl": 370220
         },
         {
             "Meldedatum": "2020-12-24T00:00:00.000Z",
-            "Kumulierte Anzahl": 374.033
+            "Kumulierte Anzahl": 374033
         },
         {
             "Meldedatum": "2020-12-25T00:00:00.000Z",
-            "Kumulierte Anzahl": 376.258
+            "Kumulierte Anzahl": 376258
         },
         {
             "Meldedatum": "2020-12-26T00:00:00.000Z",
-            "Kumulierte Anzahl": 378.32
+            "Kumulierte Anzahl": 378320
         },
         {
             "Meldedatum": "2020-12-27T00:00:00.000Z",
-            "Kumulierte Anzahl": 380.616
+            "Kumulierte Anzahl": 380616
         },
         {
             "Meldedatum": "2020-12-28T00:00:00.000Z",
-            "Kumulierte Anzahl": 383.227
+            "Kumulierte Anzahl": 383227
         },
         {
             "Meldedatum": "2020-12-29T00:00:00.000Z",
-            "Kumulierte Anzahl": 388.117
+            "Kumulierte Anzahl": 388117
         },
         {
             "Meldedatum": "2020-12-30T00:00:00.000Z",
-            "Kumulierte Anzahl": 393.915
+            "Kumulierte Anzahl": 393915
         },
         {
             "Meldedatum": "2020-12-31T00:00:00.000Z",
-            "Kumulierte Anzahl": 397.065
+            "Kumulierte Anzahl": 397065
         },
         {
             "Meldedatum": "2021-01-01T00:00:00.000Z",
-            "Kumulierte Anzahl": 398.768
+            "Kumulierte Anzahl": 398768
         },
         {
             "Meldedatum": "2021-01-02T00:00:00.000Z",
-            "Kumulierte Anzahl": 400.653
+            "Kumulierte Anzahl": 400653
         },
         {
             "Meldedatum": "2021-01-03T00:00:00.000Z",
-            "Kumulierte Anzahl": 402.455
+            "Kumulierte Anzahl": 402455
         },
         {
             "Meldedatum": "2021-01-04T00:00:00.000Z",
-            "Kumulierte Anzahl": 404.907
+            "Kumulierte Anzahl": 404907
         },
         {
             "Meldedatum": "2021-01-05T00:00:00.000Z",
-            "Kumulierte Anzahl": 409.8
+            "Kumulierte Anzahl": 409800
         },
         {
             "Meldedatum": "2021-01-06T00:00:00.000Z",
-            "Kumulierte Anzahl": 415.8
+            "Kumulierte Anzahl": 415800
         },
         {
             "Meldedatum": "2021-01-07T00:00:00.000Z",
-            "Kumulierte Anzahl": 420.812
+            "Kumulierte Anzahl": 420812
         },
         {
             "Meldedatum": "2021-01-08T00:00:00.000Z",
-            "Kumulierte Anzahl": 425.139
+            "Kumulierte Anzahl": 425139
         },
         {
             "Meldedatum": "2021-01-09T00:00:00.000Z",
-            "Kumulierte Anzahl": 428.195
+            "Kumulierte Anzahl": 428195
         },
         {
             "Meldedatum": "2021-01-10T00:00:00.000Z",
-            "Kumulierte Anzahl": 429.731
+            "Kumulierte Anzahl": 429731
         },
         {
             "Meldedatum": "2021-01-11T00:00:00.000Z",
-            "Kumulierte Anzahl": 431.965
+            "Kumulierte Anzahl": 431965
         },
         {
             "Meldedatum": "2021-01-12T00:00:00.000Z",
-            "Kumulierte Anzahl": 436.02
+            "Kumulierte Anzahl": 436020
         },
         {
             "Meldedatum": "2021-01-13T00:00:00.000Z",
-            "Kumulierte Anzahl": 440.339
+            "Kumulierte Anzahl": 440339
         },
         {
             "Meldedatum": "2021-01-14T00:00:00.000Z",
-            "Kumulierte Anzahl": 444.322
+            "Kumulierte Anzahl": 444322
         },
         {
             "Meldedatum": "2021-01-15T00:00:00.000Z",
-            "Kumulierte Anzahl": 447.843
+            "Kumulierte Anzahl": 447843
         },
         {
             "Meldedatum": "2021-01-16T00:00:00.000Z",
-            "Kumulierte Anzahl": 450.646
+            "Kumulierte Anzahl": 450646
         },
         {
             "Meldedatum": "2021-01-17T00:00:00.000Z",
-            "Kumulierte Anzahl": 451.792
+            "Kumulierte Anzahl": 451792
         },
         {
             "Meldedatum": "2021-01-18T00:00:00.000Z",
-            "Kumulierte Anzahl": 453.511
+            "Kumulierte Anzahl": 453511
         },
         {
             "Meldedatum": "2021-01-19T00:00:00.000Z",
-            "Kumulierte Anzahl": 456.966
+            "Kumulierte Anzahl": 456966
         },
         {
             "Meldedatum": "2021-01-20T00:00:00.000Z",
-            "Kumulierte Anzahl": 460.928
+            "Kumulierte Anzahl": 460928
         },
         {
             "Meldedatum": "2021-01-21T00:00:00.000Z",
-            "Kumulierte Anzahl": 464.199
+            "Kumulierte Anzahl": 464199
         },
         {
             "Meldedatum": "2021-01-22T00:00:00.000Z",
-            "Kumulierte Anzahl": 467.318
+            "Kumulierte Anzahl": 467318
         },
         {
             "Meldedatum": "2021-01-23T00:00:00.000Z",
-            "Kumulierte Anzahl": 469.851
+            "Kumulierte Anzahl": 469851
         },
         {
             "Meldedatum": "2021-01-24T00:00:00.000Z",
-            "Kumulierte Anzahl": 470.752
+            "Kumulierte Anzahl": 470752
         },
         {
             "Meldedatum": "2021-01-25T00:00:00.000Z",
-            "Kumulierte Anzahl": 472.205
+            "Kumulierte Anzahl": 472205
         },
         {
             "Meldedatum": "2021-01-26T00:00:00.000Z",
-            "Kumulierte Anzahl": 474.933
+            "Kumulierte Anzahl": 474933
         },
         {
             "Meldedatum": "2021-01-27T00:00:00.000Z",
-            "Kumulierte Anzahl": 477.993
+            "Kumulierte Anzahl": 477993
         },
         {
             "Meldedatum": "2021-01-28T00:00:00.000Z",
-            "Kumulierte Anzahl": 480.67
+            "Kumulierte Anzahl": 480670
         },
         {
             "Meldedatum": "2021-01-29T00:00:00.000Z",
-            "Kumulierte Anzahl": 483.257
+            "Kumulierte Anzahl": 483257
         },
         {
             "Meldedatum": "2021-01-30T00:00:00.000Z",
-            "Kumulierte Anzahl": 485.382
+            "Kumulierte Anzahl": 485382
         },
         {
             "Meldedatum": "2021-01-31T00:00:00.000Z",
-            "Kumulierte Anzahl": 486.34
+            "Kumulierte Anzahl": 486340
         },
         {
             "Meldedatum": "2021-02-01T00:00:00.000Z",
-            "Kumulierte Anzahl": 487.479
+            "Kumulierte Anzahl": 487479
         },
         {
             "Meldedatum": "2021-02-02T00:00:00.000Z",
-            "Kumulierte Anzahl": 489.733
+            "Kumulierte Anzahl": 489733
         },
         {
             "Meldedatum": "2021-02-03T00:00:00.000Z",
-            "Kumulierte Anzahl": 492.386
+            "Kumulierte Anzahl": 492386
         },
         {
             "Meldedatum": "2021-02-04T00:00:00.000Z",
-            "Kumulierte Anzahl": 494.859
+            "Kumulierte Anzahl": 494859
         },
         {
             "Meldedatum": "2021-02-05T00:00:00.000Z",
-            "Kumulierte Anzahl": 496.996
+            "Kumulierte Anzahl": 496996
         },
         {
             "Meldedatum": "2021-02-06T00:00:00.000Z",
-            "Kumulierte Anzahl": 498.797
+            "Kumulierte Anzahl": 498797
         },
         {
             "Meldedatum": "2021-02-07T00:00:00.000Z",
-            "Kumulierte Anzahl": 499.39
+            "Kumulierte Anzahl": 499390
         },
         {
             "Meldedatum": "2021-02-08T00:00:00.000Z",
-            "Kumulierte Anzahl": 500.224
+            "Kumulierte Anzahl": 500224
         },
         {
             "Meldedatum": "2021-02-09T00:00:00.000Z",
-            "Kumulierte Anzahl": 501.946
+            "Kumulierte Anzahl": 501946
         },
         {
             "Meldedatum": "2021-02-10T00:00:00.000Z",
-            "Kumulierte Anzahl": 503.84
+            "Kumulierte Anzahl": 503840
         },
         {
             "Meldedatum": "2021-02-11T00:00:00.000Z",
-            "Kumulierte Anzahl": 505.731
+            "Kumulierte Anzahl": 505731
         },
         {
             "Meldedatum": "2021-02-12T00:00:00.000Z",
-            "Kumulierte Anzahl": 507.464
+            "Kumulierte Anzahl": 507464
         },
         {
             "Meldedatum": "2021-02-13T00:00:00.000Z",
-            "Kumulierte Anzahl": 508.79
+            "Kumulierte Anzahl": 508790
         },
         {
             "Meldedatum": "2021-02-14T00:00:00.000Z",
-            "Kumulierte Anzahl": 509.565
+            "Kumulierte Anzahl": 509565
         },
         {
             "Meldedatum": "2021-02-15T00:00:00.000Z",
-            "Kumulierte Anzahl": 510.397
+            "Kumulierte Anzahl": 510397
         },
         {
             "Meldedatum": "2021-02-16T00:00:00.000Z",
-            "Kumulierte Anzahl": 512.23
+            "Kumulierte Anzahl": 512230
         },
         {
             "Meldedatum": "2021-02-17T00:00:00.000Z",
-            "Kumulierte Anzahl": 514.314
+            "Kumulierte Anzahl": 514314
         },
         {
             "Meldedatum": "2021-02-18T00:00:00.000Z",
-            "Kumulierte Anzahl": 516.378
+            "Kumulierte Anzahl": 516378
         },
         {
             "Meldedatum": "2021-02-19T00:00:00.000Z",
-            "Kumulierte Anzahl": 518.215
+            "Kumulierte Anzahl": 518215
         },
         {
             "Meldedatum": "2021-02-20T00:00:00.000Z",
-            "Kumulierte Anzahl": 519.956
+            "Kumulierte Anzahl": 519956
         },
         {
             "Meldedatum": "2021-02-21T00:00:00.000Z",
-            "Kumulierte Anzahl": 520.695
+            "Kumulierte Anzahl": 520695
         },
         {
             "Meldedatum": "2021-02-22T00:00:00.000Z",
-            "Kumulierte Anzahl": 521.504
+            "Kumulierte Anzahl": 521504
         },
         {
             "Meldedatum": "2021-02-23T00:00:00.000Z",
-            "Kumulierte Anzahl": 523.464
+            "Kumulierte Anzahl": 523464
         },
         {
             "Meldedatum": "2021-02-24T00:00:00.000Z",
-            "Kumulierte Anzahl": 526.14
+            "Kumulierte Anzahl": 526140
         },
         {
             "Meldedatum": "2021-02-25T00:00:00.000Z",
-            "Kumulierte Anzahl": 528.135
+            "Kumulierte Anzahl": 528135
         },
         {
             "Meldedatum": "2021-02-26T00:00:00.000Z",
-            "Kumulierte Anzahl": 530.025
+            "Kumulierte Anzahl": 530025
         },
         {
             "Meldedatum": "2021-02-27T00:00:00.000Z",
-            "Kumulierte Anzahl": 531.639
+            "Kumulierte Anzahl": 531639
         },
         {
             "Meldedatum": "2021-02-28T00:00:00.000Z",
-            "Kumulierte Anzahl": 532.369
+            "Kumulierte Anzahl": 532369
         },
         {
             "Meldedatum": "2021-03-01T00:00:00.000Z",
-            "Kumulierte Anzahl": 533.277
+            "Kumulierte Anzahl": 533277
         },
         {
             "Meldedatum": "2021-03-02T00:00:00.000Z",
-            "Kumulierte Anzahl": 535.53
+            "Kumulierte Anzahl": 535530
         },
         {
             "Meldedatum": "2021-03-03T00:00:00.000Z",
-            "Kumulierte Anzahl": 537.717
+            "Kumulierte Anzahl": 537717
         },
         {
             "Meldedatum": "2021-03-04T00:00:00.000Z",
-            "Kumulierte Anzahl": 539.884
+            "Kumulierte Anzahl": 539884
         },
         {
             "Meldedatum": "2021-03-05T00:00:00.000Z",
-            "Kumulierte Anzahl": 541.889
+            "Kumulierte Anzahl": 541889
         },
         {
             "Meldedatum": "2021-03-06T00:00:00.000Z",
-            "Kumulierte Anzahl": 543.653
+            "Kumulierte Anzahl": 543653
         },
         {
             "Meldedatum": "2021-03-07T00:00:00.000Z",
-            "Kumulierte Anzahl": 544.376
+            "Kumulierte Anzahl": 544376
         },
         {
             "Meldedatum": "2021-03-08T00:00:00.000Z",
-            "Kumulierte Anzahl": 545.323
+            "Kumulierte Anzahl": 545323
         },
         {
             "Meldedatum": "2021-03-09T00:00:00.000Z",
-            "Kumulierte Anzahl": 547.718
+            "Kumulierte Anzahl": 547718
         },
         {
             "Meldedatum": "2021-03-10T00:00:00.000Z",
-            "Kumulierte Anzahl": 550.611
+            "Kumulierte Anzahl": 550611
         },
         {
             "Meldedatum": "2021-03-11T00:00:00.000Z",
-            "Kumulierte Anzahl": 553.341
+            "Kumulierte Anzahl": 553341
         },
         {
             "Meldedatum": "2021-03-12T00:00:00.000Z",
-            "Kumulierte Anzahl": 555.955
+            "Kumulierte Anzahl": 555955
         },
         {
             "Meldedatum": "2021-03-13T00:00:00.000Z",
-            "Kumulierte Anzahl": 558.154
+            "Kumulierte Anzahl": 558154
         },
         {
             "Meldedatum": "2021-03-14T00:00:00.000Z",
-            "Kumulierte Anzahl": 559.231
+            "Kumulierte Anzahl": 559231
         },
         {
             "Meldedatum": "2021-03-15T00:00:00.000Z",
-            "Kumulierte Anzahl": 560.546
+            "Kumulierte Anzahl": 560546
         },
         {
             "Meldedatum": "2021-03-16T00:00:00.000Z",
-            "Kumulierte Anzahl": 563.648
+            "Kumulierte Anzahl": 563648
         },
         {
             "Meldedatum": "2021-03-17T00:00:00.000Z",
-            "Kumulierte Anzahl": 567.814
+            "Kumulierte Anzahl": 567814
         },
         {
             "Meldedatum": "2021-03-18T00:00:00.000Z",
-            "Kumulierte Anzahl": 571.268
+            "Kumulierte Anzahl": 571268
         },
         {
             "Meldedatum": "2021-03-19T00:00:00.000Z",
-            "Kumulierte Anzahl": 574.583
+            "Kumulierte Anzahl": 574583
         },
         {
             "Meldedatum": "2021-03-20T00:00:00.000Z",
-            "Kumulierte Anzahl": 577.349
+            "Kumulierte Anzahl": 577349
         },
         {
             "Meldedatum": "2021-03-21T00:00:00.000Z",
-            "Kumulierte Anzahl": 578.742
+            "Kumulierte Anzahl": 578742
         },
         {
             "Meldedatum": "2021-03-22T00:00:00.000Z",
-            "Kumulierte Anzahl": 580.746
+            "Kumulierte Anzahl": 580746
         },
         {
             "Meldedatum": "2021-03-23T00:00:00.000Z",
-            "Kumulierte Anzahl": 584.486
+            "Kumulierte Anzahl": 584486
         },
         {
             "Meldedatum": "2021-03-24T00:00:00.000Z",
-            "Kumulierte Anzahl": 589.268
+            "Kumulierte Anzahl": 589268
         },
         {
             "Meldedatum": "2021-03-25T00:00:00.000Z",
-            "Kumulierte Anzahl": 594.004
+            "Kumulierte Anzahl": 594004
         },
         {
             "Meldedatum": "2021-03-26T00:00:00.000Z",
-            "Kumulierte Anzahl": 597.912
+            "Kumulierte Anzahl": 597912
         },
         {
             "Meldedatum": "2021-03-27T00:00:00.000Z",
-            "Kumulierte Anzahl": 601.203
+            "Kumulierte Anzahl": 601203
         },
         {
             "Meldedatum": "2021-03-28T00:00:00.000Z",
-            "Kumulierte Anzahl": 602.786
+            "Kumulierte Anzahl": 602786
         },
         {
             "Meldedatum": "2021-03-29T00:00:00.000Z",
-            "Kumulierte Anzahl": 605.281
+            "Kumulierte Anzahl": 605281
         },
         {
             "Meldedatum": "2021-03-30T00:00:00.000Z",
-            "Kumulierte Anzahl": 609.182
+            "Kumulierte Anzahl": 609182
         },
         {
             "Meldedatum": "2021-03-31T00:00:00.000Z",
-            "Kumulierte Anzahl": 613.962
+            "Kumulierte Anzahl": 613962
         },
         {
             "Meldedatum": "2021-04-01T00:00:00.000Z",
-            "Kumulierte Anzahl": 618.348
+            "Kumulierte Anzahl": 618348
         },
         {
             "Meldedatum": "2021-04-02T00:00:00.000Z",
-            "Kumulierte Anzahl": 621.699
+            "Kumulierte Anzahl": 621699
         },
         {
             "Meldedatum": "2021-04-03T00:00:00.000Z",
-            "Kumulierte Anzahl": 624.229
+            "Kumulierte Anzahl": 624229
         },
         {
             "Meldedatum": "2021-04-04T00:00:00.000Z",
-            "Kumulierte Anzahl": 625.581
+            "Kumulierte Anzahl": 625581
         },
         {
             "Meldedatum": "2021-04-05T00:00:00.000Z",
-            "Kumulierte Anzahl": 627.544
+            "Kumulierte Anzahl": 627544
         },
         {
             "Meldedatum": "2021-04-06T00:00:00.000Z",
-            "Kumulierte Anzahl": 629.915
+            "Kumulierte Anzahl": 629915
         },
         {
             "Meldedatum": "2021-04-07T00:00:00.000Z",
-            "Kumulierte Anzahl": 634.399
+            "Kumulierte Anzahl": 634399
         },
         {
             "Meldedatum": "2021-04-08T00:00:00.000Z",
-            "Kumulierte Anzahl": 639.346
+            "Kumulierte Anzahl": 639346
         },
         {
             "Meldedatum": "2021-04-09T00:00:00.000Z",
-            "Kumulierte Anzahl": 644.201
+            "Kumulierte Anzahl": 644201
         },
         {
             "Meldedatum": "2021-04-10T00:00:00.000Z",
-            "Kumulierte Anzahl": 648.151
+            "Kumulierte Anzahl": 648151
         },
         {
             "Meldedatum": "2021-04-11T00:00:00.000Z",
-            "Kumulierte Anzahl": 650.232
+            "Kumulierte Anzahl": 650232
         },
         {
             "Meldedatum": "2021-04-12T00:00:00.000Z",
-            "Kumulierte Anzahl": 652.995
+            "Kumulierte Anzahl": 652995
         },
         {
             "Meldedatum": "2021-04-13T00:00:00.000Z",
-            "Kumulierte Anzahl": 658.669
+            "Kumulierte Anzahl": 658669
         },
         {
             "Meldedatum": "2021-04-14T00:00:00.000Z",
-            "Kumulierte Anzahl": 664.869
+            "Kumulierte Anzahl": 664869
         },
         {
             "Meldedatum": "2021-04-15T00:00:00.000Z",
-            "Kumulierte Anzahl": 670.433
+            "Kumulierte Anzahl": 670433
         },
         {
             "Meldedatum": "2021-04-16T00:00:00.000Z",
-            "Kumulierte Anzahl": 675.658
+            "Kumulierte Anzahl": 675658
         },
         {
             "Meldedatum": "2021-04-17T00:00:00.000Z",
-            "Kumulierte Anzahl": 680.009
+            "Kumulierte Anzahl": 680009
         },
         {
             "Meldedatum": "2021-04-18T00:00:00.000Z",
-            "Kumulierte Anzahl": 682.339
+            "Kumulierte Anzahl": 682339
         },
         {
             "Meldedatum": "2021-04-19T00:00:00.000Z",
-            "Kumulierte Anzahl": 685.333
+            "Kumulierte Anzahl": 685333
         },
         {
             "Meldedatum": "2021-04-20T00:00:00.000Z",
-            "Kumulierte Anzahl": 691.662
+            "Kumulierte Anzahl": 691662
         },
         {
             "Meldedatum": "2021-04-21T00:00:00.000Z",
-            "Kumulierte Anzahl": 698.345
+            "Kumulierte Anzahl": 698345
         },
         {
             "Meldedatum": "2021-04-22T00:00:00.000Z",
-            "Kumulierte Anzahl": 704.781
+            "Kumulierte Anzahl": 704781
         },
         {
             "Meldedatum": "2021-04-23T00:00:00.000Z",
-            "Kumulierte Anzahl": 710.378
+            "Kumulierte Anzahl": 710378
         },
         {
             "Meldedatum": "2021-04-24T00:00:00.000Z",
-            "Kumulierte Anzahl": 714.57
+            "Kumulierte Anzahl": 714570
         },
         {
             "Meldedatum": "2021-04-25T00:00:00.000Z",
-            "Kumulierte Anzahl": 716.69
+            "Kumulierte Anzahl": 716690
         },
         {
             "Meldedatum": "2021-04-26T00:00:00.000Z",
-            "Kumulierte Anzahl": 719.78
+            "Kumulierte Anzahl": 719780
         },
         {
             "Meldedatum": "2021-04-27T00:00:00.000Z",
-            "Kumulierte Anzahl": 724.857
+            "Kumulierte Anzahl": 724857
         },
         {
             "Meldedatum": "2021-04-28T00:00:00.000Z",
-            "Kumulierte Anzahl": 730.47
+            "Kumulierte Anzahl": 730470
         },
         {
             "Meldedatum": "2021-04-29T00:00:00.000Z",
-            "Kumulierte Anzahl": 735.634
+            "Kumulierte Anzahl": 735634
         },
         {
             "Meldedatum": "2021-04-30T00:00:00.000Z",
-            "Kumulierte Anzahl": 740.082
+            "Kumulierte Anzahl": 740082
         },
         {
             "Meldedatum": "2021-05-01T00:00:00.000Z",
-            "Kumulierte Anzahl": 743.896
+            "Kumulierte Anzahl": 743896
         },
         {
             "Meldedatum": "2021-05-02T00:00:00.000Z",
-            "Kumulierte Anzahl": 745.681
+            "Kumulierte Anzahl": 745681
         },
         {
             "Meldedatum": "2021-05-03T00:00:00.000Z",
-            "Kumulierte Anzahl": 748.154
+            "Kumulierte Anzahl": 748154
         },
         {
             "Meldedatum": "2021-05-04T00:00:00.000Z",
-            "Kumulierte Anzahl": 752.515
+            "Kumulierte Anzahl": 752515
         },
         {
             "Meldedatum": "2021-05-05T00:00:00.000Z",
-            "Kumulierte Anzahl": 757.29
+            "Kumulierte Anzahl": 757290
         },
         {
             "Meldedatum": "2021-05-06T00:00:00.000Z",
-            "Kumulierte Anzahl": 761.204
+            "Kumulierte Anzahl": 761204
         },
         {
             "Meldedatum": "2021-05-07T00:00:00.000Z",
-            "Kumulierte Anzahl": 764.845
+            "Kumulierte Anzahl": 764845
         },
         {
             "Meldedatum": "2021-05-08T00:00:00.000Z",
-            "Kumulierte Anzahl": 767.671
+            "Kumulierte Anzahl": 767671
         },
         {
             "Meldedatum": "2021-05-09T00:00:00.000Z",
-            "Kumulierte Anzahl": 769.117
+            "Kumulierte Anzahl": 769117
         },
         {
             "Meldedatum": "2021-05-10T00:00:00.000Z",
-            "Kumulierte Anzahl": 770.859
+            "Kumulierte Anzahl": 770859
         },
         {
             "Meldedatum": "2021-05-11T00:00:00.000Z",
-            "Kumulierte Anzahl": 774.291
+            "Kumulierte Anzahl": 774291
         },
         {
             "Meldedatum": "2021-05-12T00:00:00.000Z",
-            "Kumulierte Anzahl": 777.927
+            "Kumulierte Anzahl": 777927
         },
         {
             "Meldedatum": "2021-05-13T00:00:00.000Z",
-            "Kumulierte Anzahl": 780.148
+            "Kumulierte Anzahl": 780148
         },
         {
             "Meldedatum": "2021-05-14T00:00:00.000Z",
-            "Kumulierte Anzahl": 781.985
+            "Kumulierte Anzahl": 781985
         },
         {
             "Meldedatum": "2021-05-15T00:00:00.000Z",
-            "Kumulierte Anzahl": 784.332
+            "Kumulierte Anzahl": 784332
         },
         {
             "Meldedatum": "2021-05-16T00:00:00.000Z",
-            "Kumulierte Anzahl": 785.574
+            "Kumulierte Anzahl": 785574
         },
         {
             "Meldedatum": "2021-05-17T00:00:00.000Z",
-            "Kumulierte Anzahl": 786.752
+            "Kumulierte Anzahl": 786752
         },
         {
             "Meldedatum": "2021-05-18T00:00:00.000Z",
-            "Kumulierte Anzahl": 789.291
+            "Kumulierte Anzahl": 789291
         },
         {
             "Meldedatum": "2021-05-19T00:00:00.000Z",
-            "Kumulierte Anzahl": 791.776
+            "Kumulierte Anzahl": 791776
         },
         {
             "Meldedatum": "2021-05-20T00:00:00.000Z",
-            "Kumulierte Anzahl": 793.774
+            "Kumulierte Anzahl": 793774
         },
         {
             "Meldedatum": "2021-05-21T00:00:00.000Z",
-            "Kumulierte Anzahl": 795.618
+            "Kumulierte Anzahl": 795618
         },
         {
             "Meldedatum": "2021-05-22T00:00:00.000Z",
-            "Kumulierte Anzahl": 796.967
+            "Kumulierte Anzahl": 796967
         },
         {
             "Meldedatum": "2021-05-23T00:00:00.000Z",
-            "Kumulierte Anzahl": 797.482
+            "Kumulierte Anzahl": 797482
         },
         {
             "Meldedatum": "2021-05-24T00:00:00.000Z",
-            "Kumulierte Anzahl": 798.04
+            "Kumulierte Anzahl": 798040
         },
         {
             "Meldedatum": "2021-05-25T00:00:00.000Z",
-            "Kumulierte Anzahl": 798.871
+            "Kumulierte Anzahl": 798871
         },
         {
             "Meldedatum": "2021-05-26T00:00:00.000Z",
-            "Kumulierte Anzahl": 800.436
+            "Kumulierte Anzahl": 800436
         },
         {
             "Meldedatum": "2021-05-27T00:00:00.000Z",
-            "Kumulierte Anzahl": 802.136
+            "Kumulierte Anzahl": 802136
         },
         {
             "Meldedatum": "2021-05-28T00:00:00.000Z",
-            "Kumulierte Anzahl": 803.373
+            "Kumulierte Anzahl": 803373
         },
         {
             "Meldedatum": "2021-05-29T00:00:00.000Z",
-            "Kumulierte Anzahl": 804.402
+            "Kumulierte Anzahl": 804402
         },
         {
             "Meldedatum": "2021-05-30T00:00:00.000Z",
-            "Kumulierte Anzahl": 804.829
+            "Kumulierte Anzahl": 804829
         },
         {
             "Meldedatum": "2021-05-31T00:00:00.000Z",
-            "Kumulierte Anzahl": 805.449
+            "Kumulierte Anzahl": 805449
         },
         {
             "Meldedatum": "2021-06-01T00:00:00.000Z",
-            "Kumulierte Anzahl": 806.69
+            "Kumulierte Anzahl": 806690
         },
         {
             "Meldedatum": "2021-06-02T00:00:00.000Z",
-            "Kumulierte Anzahl": 807.828
+            "Kumulierte Anzahl": 807828
         },
         {
             "Meldedatum": "2021-06-03T00:00:00.000Z",
-            "Kumulierte Anzahl": 808.446
+            "Kumulierte Anzahl": 808446
         },
         {
             "Meldedatum": "2021-06-04T00:00:00.000Z",
-            "Kumulierte Anzahl": 809.056
+            "Kumulierte Anzahl": 809056
         },
         {
             "Meldedatum": "2021-06-05T00:00:00.000Z",
-            "Kumulierte Anzahl": 809.562
+            "Kumulierte Anzahl": 809562
         },
         {
             "Meldedatum": "2021-06-06T00:00:00.000Z",
-            "Kumulierte Anzahl": 809.87
+            "Kumulierte Anzahl": 809870
         },
         {
             "Meldedatum": "2021-06-07T00:00:00.000Z",
-            "Kumulierte Anzahl": 810.279
+            "Kumulierte Anzahl": 810279
         },
         {
             "Meldedatum": "2021-06-08T00:00:00.000Z",
-            "Kumulierte Anzahl": 811.067
+            "Kumulierte Anzahl": 811067
         },
         {
             "Meldedatum": "2021-06-09T00:00:00.000Z",
-            "Kumulierte Anzahl": 811.717
+            "Kumulierte Anzahl": 811717
         },
         {
             "Meldedatum": "2021-06-10T00:00:00.000Z",
-            "Kumulierte Anzahl": 812.27
+            "Kumulierte Anzahl": 812270
         },
         {
             "Meldedatum": "2021-06-11T00:00:00.000Z",
-            "Kumulierte Anzahl": 812.708
+            "Kumulierte Anzahl": 812708
         },
         {
             "Meldedatum": "2021-06-12T00:00:00.000Z",
-            "Kumulierte Anzahl": 812.998
+            "Kumulierte Anzahl": 812998
         },
         {
             "Meldedatum": "2021-06-13T00:00:00.000Z",
-            "Kumulierte Anzahl": 813.132
+            "Kumulierte Anzahl": 813132
         },
         {
             "Meldedatum": "2021-06-14T00:00:00.000Z",
-            "Kumulierte Anzahl": 813.412
+            "Kumulierte Anzahl": 813412
         },
         {
             "Meldedatum": "2021-06-15T00:00:00.000Z",
-            "Kumulierte Anzahl": 813.753
+            "Kumulierte Anzahl": 813753
         },
         {
             "Meldedatum": "2021-06-16T00:00:00.000Z",
-            "Kumulierte Anzahl": 814.067
+            "Kumulierte Anzahl": 814067
         },
         {
             "Meldedatum": "2021-06-17T00:00:00.000Z",
-            "Kumulierte Anzahl": 814.338
+            "Kumulierte Anzahl": 814338
         },
         {
             "Meldedatum": "2021-06-18T00:00:00.000Z",
-            "Kumulierte Anzahl": 814.549
+            "Kumulierte Anzahl": 814549
         },
         {
             "Meldedatum": "2021-06-19T00:00:00.000Z",
-            "Kumulierte Anzahl": 814.73
+            "Kumulierte Anzahl": 814730
         },
         {
             "Meldedatum": "2021-06-20T00:00:00.000Z",
-            "Kumulierte Anzahl": 814.792
+            "Kumulierte Anzahl": 814792
         },
         {
             "Meldedatum": "2021-06-21T00:00:00.000Z",
-            "Kumulierte Anzahl": 814.929
+            "Kumulierte Anzahl": 814929
         },
         {
             "Meldedatum": "2021-06-22T00:00:00.000Z",
-            "Kumulierte Anzahl": 815.129
+            "Kumulierte Anzahl": 815129
         },
         {
             "Meldedatum": "2021-06-23T00:00:00.000Z",
-            "Kumulierte Anzahl": 815.327
+            "Kumulierte Anzahl": 815327
         },
         {
             "Meldedatum": "2021-06-24T00:00:00.000Z",
-            "Kumulierte Anzahl": 815.519
+            "Kumulierte Anzahl": 815519
         },
         {
             "Meldedatum": "2021-06-25T00:00:00.000Z",
-            "Kumulierte Anzahl": 815.692
+            "Kumulierte Anzahl": 815692
         },
         {
             "Meldedatum": "2021-06-26T00:00:00.000Z",
-            "Kumulierte Anzahl": 815.821
+            "Kumulierte Anzahl": 815821
         },
         {
             "Meldedatum": "2021-06-27T00:00:00.000Z",
-            "Kumulierte Anzahl": 815.854
+            "Kumulierte Anzahl": 815854
         },
         {
             "Meldedatum": "2021-06-28T00:00:00.000Z",
-            "Kumulierte Anzahl": 815.93
+            "Kumulierte Anzahl": 815930
         }
     ]
 }
