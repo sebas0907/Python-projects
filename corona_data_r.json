@@ -7,7 +7,7 @@
             },
             {
                 "name": "Anzahl",
-                "type": "integer"
+                "type": "number"
             }
         ],
         "primaryKey": [
@@ -18,2043 +18,2043 @@
     "data": [
         {
             "Meldedatum": "2020-02-20T00:00:00.000Z",
-            "Anzahl": 0
+            "Anzahl": 0.0
         },
         {
             "Meldedatum": "2020-02-21T00:00:00.000Z",
-            "Anzahl": 0
+            "Anzahl": 0.0
         },
         {
             "Meldedatum": "2020-02-22T00:00:00.000Z",
-            "Anzahl": 0
+            "Anzahl": 0.0
         },
         {
             "Meldedatum": "2020-02-23T00:00:00.000Z",
-            "Anzahl": 0
+            "Anzahl": 0.0
         },
         {
             "Meldedatum": "2020-02-24T00:00:00.000Z",
-            "Anzahl": 0
+            "Anzahl": 0.0
         },
         {
             "Meldedatum": "2020-02-25T00:00:00.000Z",
-            "Anzahl": 0
+            "Anzahl": 0.0
         },
         {
             "Meldedatum": "2020-02-26T00:00:00.000Z",
-            "Anzahl": 0
+            "Anzahl": 0.0
         },
         {
             "Meldedatum": "2020-02-27T00:00:00.000Z",
-            "Anzahl": 1
+            "Anzahl": 0.1
         },
         {
             "Meldedatum": "2020-02-28T00:00:00.000Z",
-            "Anzahl": 1
+            "Anzahl": 0.1
         },
         {
             "Meldedatum": "2020-02-29T00:00:00.000Z",
-            "Anzahl": 3
+            "Anzahl": 0.3
         },
         {
             "Meldedatum": "2020-03-01T00:00:00.000Z",
-            "Anzahl": 5
+            "Anzahl": 0.5
         },
         {
             "Meldedatum": "2020-03-02T00:00:00.000Z",
-            "Anzahl": 6
+            "Anzahl": 0.6
         },
         {
             "Meldedatum": "2020-03-03T00:00:00.000Z",
-            "Anzahl": 12
+            "Anzahl": 1.1
         },
         {
             "Meldedatum": "2020-03-04T00:00:00.000Z",
-            "Anzahl": 14
+            "Anzahl": 1.3
         },
         {
             "Meldedatum": "2020-03-05T00:00:00.000Z",
-            "Anzahl": 20
+            "Anzahl": 1.7
         },
         {
             "Meldedatum": "2020-03-06T00:00:00.000Z",
-            "Anzahl": 30
+            "Anzahl": 2.7
         },
         {
             "Meldedatum": "2020-03-07T00:00:00.000Z",
-            "Anzahl": 31
+            "Anzahl": 2.6
         },
         {
             "Meldedatum": "2020-03-08T00:00:00.000Z",
-            "Anzahl": 33
+            "Anzahl": 2.6
         },
         {
             "Meldedatum": "2020-03-09T00:00:00.000Z",
-            "Anzahl": 43
+            "Anzahl": 3.4
         },
         {
             "Meldedatum": "2020-03-10T00:00:00.000Z",
-            "Anzahl": 53
+            "Anzahl": 3.8
         },
         {
             "Meldedatum": "2020-03-11T00:00:00.000Z",
-            "Anzahl": 61
+            "Anzahl": 4.3
         },
         {
             "Meldedatum": "2020-03-12T00:00:00.000Z",
-            "Anzahl": 101
+            "Anzahl": 7.4
         },
         {
             "Meldedatum": "2020-03-13T00:00:00.000Z",
-            "Anzahl": 149
+            "Anzahl": 10.9
         },
         {
             "Meldedatum": "2020-03-14T00:00:00.000Z",
-            "Anzahl": 238
+            "Anzahl": 19.0
         },
         {
             "Meldedatum": "2020-03-15T00:00:00.000Z",
-            "Anzahl": 273
+            "Anzahl": 22.1
         },
         {
             "Meldedatum": "2020-03-16T00:00:00.000Z",
-            "Anzahl": 318
+            "Anzahl": 25.3
         },
         {
             "Meldedatum": "2020-03-17T00:00:00.000Z",
-            "Anzahl": 418
+            "Anzahl": 33.6
         },
         {
             "Meldedatum": "2020-03-18T00:00:00.000Z",
-            "Anzahl": 508
+            "Anzahl": 41.1
         },
         {
             "Meldedatum": "2020-03-19T00:00:00.000Z",
-            "Anzahl": 613
+            "Anzahl": 47.1
         },
         {
             "Meldedatum": "2020-03-20T00:00:00.000Z",
-            "Anzahl": 712
+            "Anzahl": 51.8
         },
         {
             "Meldedatum": "2020-03-21T00:00:00.000Z",
-            "Anzahl": 772
+            "Anzahl": 49.1
         },
         {
             "Meldedatum": "2020-03-22T00:00:00.000Z",
-            "Anzahl": 819
+            "Anzahl": 50.2
         },
         {
             "Meldedatum": "2020-03-23T00:00:00.000Z",
-            "Anzahl": 867
+            "Anzahl": 50.5
         },
         {
             "Meldedatum": "2020-03-24T00:00:00.000Z",
-            "Anzahl": 954
+            "Anzahl": 49.3
         },
         {
             "Meldedatum": "2020-03-25T00:00:00.000Z",
-            "Anzahl": 1031
+            "Anzahl": 48.1
         },
         {
             "Meldedatum": "2020-03-26T00:00:00.000Z",
-            "Anzahl": 1091
+            "Anzahl": 43.9
         },
         {
             "Meldedatum": "2020-03-27T00:00:00.000Z",
-            "Anzahl": 1174
+            "Anzahl": 42.5
         },
         {
             "Meldedatum": "2020-03-28T00:00:00.000Z",
-            "Anzahl": 1254
+            "Anzahl": 44.3
         },
         {
             "Meldedatum": "2020-03-29T00:00:00.000Z",
-            "Anzahl": 1310
+            "Anzahl": 45.1
         },
         {
             "Meldedatum": "2020-03-30T00:00:00.000Z",
-            "Anzahl": 1374
+            "Anzahl": 46.6
         },
         {
             "Meldedatum": "2020-03-31T00:00:00.000Z",
-            "Anzahl": 1463
+            "Anzahl": 46.8
         },
         {
             "Meldedatum": "2020-04-01T00:00:00.000Z",
-            "Anzahl": 1585
+            "Anzahl": 50.9
         },
         {
             "Meldedatum": "2020-04-02T00:00:00.000Z",
-            "Anzahl": 1655
+            "Anzahl": 51.8
         },
         {
             "Meldedatum": "2020-04-03T00:00:00.000Z",
-            "Anzahl": 1705
+            "Anzahl": 48.8
         },
         {
             "Meldedatum": "2020-04-04T00:00:00.000Z",
-            "Anzahl": 1724
+            "Anzahl": 43.2
         },
         {
             "Meldedatum": "2020-04-05T00:00:00.000Z",
-            "Anzahl": 1749
+            "Anzahl": 40.4
         },
         {
             "Meldedatum": "2020-04-06T00:00:00.000Z",
-            "Anzahl": 1789
+            "Anzahl": 38.1
         },
         {
             "Meldedatum": "2020-04-07T00:00:00.000Z",
-            "Anzahl": 1843
+            "Anzahl": 34.9
         },
         {
             "Meldedatum": "2020-04-08T00:00:00.000Z",
-            "Anzahl": 1911
+            "Anzahl": 30.0
         },
         {
             "Meldedatum": "2020-04-09T00:00:00.000Z",
-            "Anzahl": 1956
+            "Anzahl": 27.7
         },
         {
             "Meldedatum": "2020-04-10T00:00:00.000Z",
-            "Anzahl": 1985
+            "Anzahl": 25.7
         },
         {
             "Meldedatum": "2020-04-11T00:00:00.000Z",
-            "Anzahl": 2007
+            "Anzahl": 26.0
         },
         {
             "Meldedatum": "2020-04-12T00:00:00.000Z",
-            "Anzahl": 2037
+            "Anzahl": 26.5
         },
         {
             "Meldedatum": "2020-04-13T00:00:00.000Z",
-            "Anzahl": 2044
+            "Anzahl": 23.4
         },
         {
             "Meldedatum": "2020-04-14T00:00:00.000Z",
-            "Anzahl": 2061
+            "Anzahl": 20.0
         },
         {
             "Meldedatum": "2020-04-15T00:00:00.000Z",
-            "Anzahl": 2085
+            "Anzahl": 16.0
         },
         {
             "Meldedatum": "2020-04-16T00:00:00.000Z",
-            "Anzahl": 2112
+            "Anzahl": 14.3
         },
         {
             "Meldedatum": "2020-04-17T00:00:00.000Z",
-            "Anzahl": 2139
+            "Anzahl": 14.2
         },
         {
             "Meldedatum": "2020-04-18T00:00:00.000Z",
-            "Anzahl": 2147
+            "Anzahl": 12.9
         },
         {
             "Meldedatum": "2020-04-19T00:00:00.000Z",
-            "Anzahl": 2152
+            "Anzahl": 10.6
         },
         {
             "Meldedatum": "2020-04-20T00:00:00.000Z",
-            "Anzahl": 2159
+            "Anzahl": 10.6
         },
         {
             "Meldedatum": "2020-04-21T00:00:00.000Z",
-            "Anzahl": 2174
+            "Anzahl": 10.4
         },
         {
             "Meldedatum": "2020-04-22T00:00:00.000Z",
-            "Anzahl": 2194
+            "Anzahl": 10.0
         },
         {
             "Meldedatum": "2020-04-23T00:00:00.000Z",
-            "Anzahl": 2208
+            "Anzahl": 8.8
         },
         {
             "Meldedatum": "2020-04-24T00:00:00.000Z",
-            "Anzahl": 2219
+            "Anzahl": 7.4
         },
         {
             "Meldedatum": "2020-04-25T00:00:00.000Z",
-            "Anzahl": 2234
+            "Anzahl": 8.0
         },
         {
             "Meldedatum": "2020-04-26T00:00:00.000Z",
-            "Anzahl": 2241
+            "Anzahl": 8.2
         },
         {
             "Meldedatum": "2020-04-27T00:00:00.000Z",
-            "Anzahl": 2245
+            "Anzahl": 7.9
         },
         {
             "Meldedatum": "2020-04-28T00:00:00.000Z",
-            "Anzahl": 2254
+            "Anzahl": 7.4
         },
         {
             "Meldedatum": "2020-04-29T00:00:00.000Z",
-            "Anzahl": 2267
+            "Anzahl": 6.7
         },
         {
             "Meldedatum": "2020-04-30T00:00:00.000Z",
-            "Anzahl": 2285
+            "Anzahl": 7.1
         },
         {
             "Meldedatum": "2020-05-01T00:00:00.000Z",
-            "Anzahl": 2303
+            "Anzahl": 7.7
         },
         {
             "Meldedatum": "2020-05-02T00:00:00.000Z",
-            "Anzahl": 2310
+            "Anzahl": 7.0
         },
         {
             "Meldedatum": "2020-05-03T00:00:00.000Z",
-            "Anzahl": 2314
+            "Anzahl": 6.7
         },
         {
             "Meldedatum": "2020-05-04T00:00:00.000Z",
-            "Anzahl": 2317
+            "Anzahl": 6.6
         },
         {
             "Meldedatum": "2020-05-05T00:00:00.000Z",
-            "Anzahl": 2335
+            "Anzahl": 7.4
         },
         {
             "Meldedatum": "2020-05-06T00:00:00.000Z",
-            "Anzahl": 2343
+            "Anzahl": 7.0
         },
         {
             "Meldedatum": "2020-05-07T00:00:00.000Z",
-            "Anzahl": 2354
+            "Anzahl": 6.3
         },
         {
             "Meldedatum": "2020-05-08T00:00:00.000Z",
-            "Anzahl": 2369
+            "Anzahl": 6.1
         },
         {
             "Meldedatum": "2020-05-09T00:00:00.000Z",
-            "Anzahl": 2372
+            "Anzahl": 5.7
         },
         {
             "Meldedatum": "2020-05-10T00:00:00.000Z",
-            "Anzahl": 2373
+            "Anzahl": 5.4
         },
         {
             "Meldedatum": "2020-05-11T00:00:00.000Z",
-            "Anzahl": 2373
+            "Anzahl": 5.1
         },
         {
             "Meldedatum": "2020-05-12T00:00:00.000Z",
-            "Anzahl": 2384
+            "Anzahl": 4.5
         },
         {
             "Meldedatum": "2020-05-13T00:00:00.000Z",
-            "Anzahl": 2393
+            "Anzahl": 4.6
         },
         {
             "Meldedatum": "2020-05-14T00:00:00.000Z",
-            "Anzahl": 2398
+            "Anzahl": 4.0
         },
         {
             "Meldedatum": "2020-05-15T00:00:00.000Z",
-            "Anzahl": 2406
+            "Anzahl": 3.4
         },
         {
             "Meldedatum": "2020-05-16T00:00:00.000Z",
-            "Anzahl": 2409
+            "Anzahl": 3.4
         },
         {
             "Meldedatum": "2020-05-17T00:00:00.000Z",
-            "Anzahl": 2419
+            "Anzahl": 4.2
         },
         {
             "Meldedatum": "2020-05-18T00:00:00.000Z",
-            "Anzahl": 2422
+            "Anzahl": 4.5
         },
         {
             "Meldedatum": "2020-05-19T00:00:00.000Z",
-            "Anzahl": 2428
+            "Anzahl": 4.0
         },
         {
             "Meldedatum": "2020-05-20T00:00:00.000Z",
-            "Anzahl": 2431
+            "Anzahl": 3.5
         },
         {
             "Meldedatum": "2020-05-21T00:00:00.000Z",
-            "Anzahl": 2436
+            "Anzahl": 3.5
         },
         {
             "Meldedatum": "2020-05-22T00:00:00.000Z",
-            "Anzahl": 2437
+            "Anzahl": 2.9
         },
         {
             "Meldedatum": "2020-05-23T00:00:00.000Z",
-            "Anzahl": 2445
+            "Anzahl": 3.3
         },
         {
             "Meldedatum": "2020-05-24T00:00:00.000Z",
-            "Anzahl": 2445
+            "Anzahl": 2.4
         },
         {
             "Meldedatum": "2020-05-25T00:00:00.000Z",
-            "Anzahl": 2448
+            "Anzahl": 2.4
         },
         {
             "Meldedatum": "2020-05-26T00:00:00.000Z",
-            "Anzahl": 2452
+            "Anzahl": 2.2
         },
         {
             "Meldedatum": "2020-05-27T00:00:00.000Z",
-            "Anzahl": 2458
+            "Anzahl": 2.5
         },
         {
             "Meldedatum": "2020-05-28T00:00:00.000Z",
-            "Anzahl": 2463
+            "Anzahl": 2.5
         },
         {
             "Meldedatum": "2020-05-29T00:00:00.000Z",
-            "Anzahl": 2470
+            "Anzahl": 3.0
         },
         {
             "Meldedatum": "2020-05-30T00:00:00.000Z",
-            "Anzahl": 2470
+            "Anzahl": 2.3
         },
         {
             "Meldedatum": "2020-05-31T00:00:00.000Z",
-            "Anzahl": 2471
+            "Anzahl": 2.4
         },
         {
             "Meldedatum": "2020-06-01T00:00:00.000Z",
-            "Anzahl": 2471
+            "Anzahl": 2.1
         },
         {
             "Meldedatum": "2020-06-02T00:00:00.000Z",
-            "Anzahl": 2472
+            "Anzahl": 1.8
         },
         {
             "Meldedatum": "2020-06-03T00:00:00.000Z",
-            "Anzahl": 2475
+            "Anzahl": 1.6
         },
         {
             "Meldedatum": "2020-06-04T00:00:00.000Z",
-            "Anzahl": 2481
+            "Anzahl": 1.7
         },
         {
             "Meldedatum": "2020-06-05T00:00:00.000Z",
-            "Anzahl": 2488
+            "Anzahl": 1.7
         },
         {
             "Meldedatum": "2020-06-06T00:00:00.000Z",
-            "Anzahl": 2496
+            "Anzahl": 2.4
         },
         {
             "Meldedatum": "2020-06-07T00:00:00.000Z",
-            "Anzahl": 2498
+            "Anzahl": 2.5
         },
         {
             "Meldedatum": "2020-06-08T00:00:00.000Z",
-            "Anzahl": 2498
+            "Anzahl": 2.5
         },
         {
             "Meldedatum": "2020-06-09T00:00:00.000Z",
-            "Anzahl": 2503
+            "Anzahl": 2.9
         },
         {
             "Meldedatum": "2020-06-10T00:00:00.000Z",
-            "Anzahl": 2513
+            "Anzahl": 3.5
         },
         {
             "Meldedatum": "2020-06-11T00:00:00.000Z",
-            "Anzahl": 2519
+            "Anzahl": 3.5
         },
         {
             "Meldedatum": "2020-06-12T00:00:00.000Z",
-            "Anzahl": 2521
+            "Anzahl": 3.0
         },
         {
             "Meldedatum": "2020-06-13T00:00:00.000Z",
-            "Anzahl": 2527
+            "Anzahl": 2.9
         },
         {
             "Meldedatum": "2020-06-14T00:00:00.000Z",
-            "Anzahl": 2534
+            "Anzahl": 3.3
         },
         {
             "Meldedatum": "2020-06-15T00:00:00.000Z",
-            "Anzahl": 2539
+            "Anzahl": 3.8
         },
         {
             "Meldedatum": "2020-06-16T00:00:00.000Z",
-            "Anzahl": 2540
+            "Anzahl": 3.4
         },
         {
             "Meldedatum": "2020-06-17T00:00:00.000Z",
-            "Anzahl": 2546
+            "Anzahl": 3.0
         },
         {
             "Meldedatum": "2020-06-18T00:00:00.000Z",
-            "Anzahl": 2552
+            "Anzahl": 3.0
         },
         {
             "Meldedatum": "2020-06-19T00:00:00.000Z",
-            "Anzahl": 2559
+            "Anzahl": 3.5
         },
         {
             "Meldedatum": "2020-06-20T00:00:00.000Z",
-            "Anzahl": 2571
+            "Anzahl": 4.0
         },
         {
             "Meldedatum": "2020-06-21T00:00:00.000Z",
-            "Anzahl": 2573
+            "Anzahl": 3.6
         },
         {
             "Meldedatum": "2020-06-22T00:00:00.000Z",
-            "Anzahl": 2575
+            "Anzahl": 3.3
         },
         {
             "Meldedatum": "2020-06-23T00:00:00.000Z",
-            "Anzahl": 2577
+            "Anzahl": 3.4
         },
         {
             "Meldedatum": "2020-06-24T00:00:00.000Z",
-            "Anzahl": 2581
+            "Anzahl": 3.2
         },
         {
             "Meldedatum": "2020-06-25T00:00:00.000Z",
-            "Anzahl": 2587
+            "Anzahl": 3.2
         },
         {
             "Meldedatum": "2020-06-26T00:00:00.000Z",
-            "Anzahl": 2592
+            "Anzahl": 3.0
         },
         {
             "Meldedatum": "2020-06-27T00:00:00.000Z",
-            "Anzahl": 2592
+            "Anzahl": 1.9
         },
         {
             "Meldedatum": "2020-06-28T00:00:00.000Z",
-            "Anzahl": 2592
+            "Anzahl": 1.7
         },
         {
             "Meldedatum": "2020-06-29T00:00:00.000Z",
-            "Anzahl": 2594
+            "Anzahl": 1.7
         },
         {
             "Meldedatum": "2020-06-30T00:00:00.000Z",
-            "Anzahl": 2602
+            "Anzahl": 2.3
         },
         {
             "Meldedatum": "2020-07-01T00:00:00.000Z",
-            "Anzahl": 2606
+            "Anzahl": 2.3
         },
         {
             "Meldedatum": "2020-07-02T00:00:00.000Z",
-            "Anzahl": 2609
+            "Anzahl": 2.0
         },
         {
             "Meldedatum": "2020-07-03T00:00:00.000Z",
-            "Anzahl": 2615
+            "Anzahl": 2.1
         },
         {
             "Meldedatum": "2020-07-04T00:00:00.000Z",
-            "Anzahl": 2618
+            "Anzahl": 2.4
         },
         {
             "Meldedatum": "2020-07-05T00:00:00.000Z",
-            "Anzahl": 2619
+            "Anzahl": 2.5
         },
         {
             "Meldedatum": "2020-07-06T00:00:00.000Z",
-            "Anzahl": 2623
+            "Anzahl": 2.7
         },
         {
             "Meldedatum": "2020-07-07T00:00:00.000Z",
-            "Anzahl": 2634
+            "Anzahl": 2.9
         },
         {
             "Meldedatum": "2020-07-08T00:00:00.000Z",
-            "Anzahl": 2640
+            "Anzahl": 3.1
         },
         {
             "Meldedatum": "2020-07-09T00:00:00.000Z",
-            "Anzahl": 2659
+            "Anzahl": 4.6
         },
         {
             "Meldedatum": "2020-07-10T00:00:00.000Z",
-            "Anzahl": 2677
+            "Anzahl": 5.7
         },
         {
             "Meldedatum": "2020-07-11T00:00:00.000Z",
-            "Anzahl": 2686
+            "Anzahl": 6.3
         },
         {
             "Meldedatum": "2020-07-12T00:00:00.000Z",
-            "Anzahl": 2691
+            "Anzahl": 6.6
         },
         {
             "Meldedatum": "2020-07-13T00:00:00.000Z",
-            "Anzahl": 2697
+            "Anzahl": 6.8
         },
         {
             "Meldedatum": "2020-07-14T00:00:00.000Z",
-            "Anzahl": 2715
+            "Anzahl": 7.4
         },
         {
             "Meldedatum": "2020-07-15T00:00:00.000Z",
-            "Anzahl": 2743
+            "Anzahl": 9.5
         },
         {
             "Meldedatum": "2020-07-16T00:00:00.000Z",
-            "Anzahl": 2760
+            "Anzahl": 9.3
         },
         {
             "Meldedatum": "2020-07-17T00:00:00.000Z",
-            "Anzahl": 2782
+            "Anzahl": 9.7
         },
         {
             "Meldedatum": "2020-07-18T00:00:00.000Z",
-            "Anzahl": 2800
+            "Anzahl": 10.5
         },
         {
             "Meldedatum": "2020-07-19T00:00:00.000Z",
-            "Anzahl": 2803
+            "Anzahl": 10.3
         },
         {
             "Meldedatum": "2020-07-20T00:00:00.000Z",
-            "Anzahl": 2818
+            "Anzahl": 11.1
         },
         {
             "Meldedatum": "2020-07-21T00:00:00.000Z",
-            "Anzahl": 2830
+            "Anzahl": 10.6
         },
         {
             "Meldedatum": "2020-07-22T00:00:00.000Z",
-            "Anzahl": 2849
+            "Anzahl": 9.7
         },
         {
             "Meldedatum": "2020-07-23T00:00:00.000Z",
-            "Anzahl": 2861
+            "Anzahl": 9.3
         },
         {
             "Meldedatum": "2020-07-24T00:00:00.000Z",
-            "Anzahl": 2875
+            "Anzahl": 8.5
         },
         {
             "Meldedatum": "2020-07-25T00:00:00.000Z",
-            "Anzahl": 2894
+            "Anzahl": 8.6
         },
         {
             "Meldedatum": "2020-07-26T00:00:00.000Z",
-            "Anzahl": 2897
+            "Anzahl": 8.6
         },
         {
             "Meldedatum": "2020-07-27T00:00:00.000Z",
-            "Anzahl": 2905
+            "Anzahl": 8.0
         },
         {
             "Meldedatum": "2020-07-28T00:00:00.000Z",
-            "Anzahl": 2921
+            "Anzahl": 8.4
         },
         {
             "Meldedatum": "2020-07-29T00:00:00.000Z",
-            "Anzahl": 2939
+            "Anzahl": 8.3
         },
         {
             "Meldedatum": "2020-07-30T00:00:00.000Z",
-            "Anzahl": 2959
+            "Anzahl": 9.0
         },
         {
             "Meldedatum": "2020-07-31T00:00:00.000Z",
-            "Anzahl": 2972
+            "Anzahl": 8.9
         },
         {
             "Meldedatum": "2020-08-01T00:00:00.000Z",
-            "Anzahl": 2985
+            "Anzahl": 8.4
         },
         {
             "Meldedatum": "2020-08-02T00:00:00.000Z",
-            "Anzahl": 3007
+            "Anzahl": 10.1
         },
         {
             "Meldedatum": "2020-08-03T00:00:00.000Z",
-            "Anzahl": 3023
+            "Anzahl": 10.8
         },
         {
             "Meldedatum": "2020-08-04T00:00:00.000Z",
-            "Anzahl": 3045
+            "Anzahl": 11.4
         },
         {
             "Meldedatum": "2020-08-05T00:00:00.000Z",
-            "Anzahl": 3078
+            "Anzahl": 12.8
         },
         {
             "Meldedatum": "2020-08-06T00:00:00.000Z",
-            "Anzahl": 3087
+            "Anzahl": 11.8
         },
         {
             "Meldedatum": "2020-08-07T00:00:00.000Z",
-            "Anzahl": 3107
+            "Anzahl": 12.4
         },
         {
             "Meldedatum": "2020-08-08T00:00:00.000Z",
-            "Anzahl": 3128
+            "Anzahl": 13.1
         },
         {
             "Meldedatum": "2020-08-09T00:00:00.000Z",
-            "Anzahl": 3148
+            "Anzahl": 13.0
         },
         {
             "Meldedatum": "2020-08-10T00:00:00.000Z",
-            "Anzahl": 3169
+            "Anzahl": 13.4
         },
         {
             "Meldedatum": "2020-08-11T00:00:00.000Z",
-            "Anzahl": 3196
+            "Anzahl": 13.9
         },
         {
             "Meldedatum": "2020-08-12T00:00:00.000Z",
-            "Anzahl": 3228
+            "Anzahl": 13.8
         },
         {
             "Meldedatum": "2020-08-13T00:00:00.000Z",
-            "Anzahl": 3261
+            "Anzahl": 16.0
         },
         {
             "Meldedatum": "2020-08-14T00:00:00.000Z",
-            "Anzahl": 3292
+            "Anzahl": 17.0
         },
         {
             "Meldedatum": "2020-08-15T00:00:00.000Z",
-            "Anzahl": 3316
+            "Anzahl": 17.3
         },
         {
             "Meldedatum": "2020-08-16T00:00:00.000Z",
-            "Anzahl": 3329
+            "Anzahl": 16.6
         },
         {
             "Meldedatum": "2020-08-17T00:00:00.000Z",
-            "Anzahl": 3354
+            "Anzahl": 17.0
         },
         {
             "Meldedatum": "2020-08-18T00:00:00.000Z",
-            "Anzahl": 3379
+            "Anzahl": 16.8
         },
         {
             "Meldedatum": "2020-08-19T00:00:00.000Z",
-            "Anzahl": 3411
+            "Anzahl": 16.8
         },
         {
             "Meldedatum": "2020-08-20T00:00:00.000Z",
-            "Anzahl": 3434
+            "Anzahl": 15.9
         },
         {
             "Meldedatum": "2020-08-21T00:00:00.000Z",
-            "Anzahl": 3457
+            "Anzahl": 15.2
         },
         {
             "Meldedatum": "2020-08-22T00:00:00.000Z",
-            "Anzahl": 3468
+            "Anzahl": 14.0
         },
         {
             "Meldedatum": "2020-08-23T00:00:00.000Z",
-            "Anzahl": 3493
+            "Anzahl": 15.1
         },
         {
             "Meldedatum": "2020-08-24T00:00:00.000Z",
-            "Anzahl": 3518
+            "Anzahl": 15.1
         },
         {
             "Meldedatum": "2020-08-25T00:00:00.000Z",
-            "Anzahl": 3534
+            "Anzahl": 14.2
         },
         {
             "Meldedatum": "2020-08-26T00:00:00.000Z",
-            "Anzahl": 3558
+            "Anzahl": 13.5
         },
         {
             "Meldedatum": "2020-08-27T00:00:00.000Z",
-            "Anzahl": 3592
+            "Anzahl": 14.5
         },
         {
             "Meldedatum": "2020-08-28T00:00:00.000Z",
-            "Anzahl": 3629
+            "Anzahl": 15.8
         },
         {
             "Meldedatum": "2020-08-29T00:00:00.000Z",
-            "Anzahl": 3638
+            "Anzahl": 15.6
         },
         {
             "Meldedatum": "2020-08-30T00:00:00.000Z",
-            "Anzahl": 3671
+            "Anzahl": 16.4
         },
         {
             "Meldedatum": "2020-08-31T00:00:00.000Z",
-            "Anzahl": 3697
+            "Anzahl": 16.5
         },
         {
             "Meldedatum": "2020-09-01T00:00:00.000Z",
-            "Anzahl": 3717
+            "Anzahl": 16.8
         },
         {
             "Meldedatum": "2020-09-02T00:00:00.000Z",
-            "Anzahl": 3744
+            "Anzahl": 17.1
         },
         {
             "Meldedatum": "2020-09-03T00:00:00.000Z",
-            "Anzahl": 3788
+            "Anzahl": 18.0
         },
         {
             "Meldedatum": "2020-09-04T00:00:00.000Z",
-            "Anzahl": 3818
+            "Anzahl": 17.4
         },
         {
             "Meldedatum": "2020-09-05T00:00:00.000Z",
-            "Anzahl": 3839
+            "Anzahl": 18.5
         },
         {
             "Meldedatum": "2020-09-06T00:00:00.000Z",
-            "Anzahl": 3852
+            "Anzahl": 16.6
         },
         {
             "Meldedatum": "2020-09-07T00:00:00.000Z",
-            "Anzahl": 3866
+            "Anzahl": 15.5
         },
         {
             "Meldedatum": "2020-09-08T00:00:00.000Z",
-            "Anzahl": 3906
+            "Anzahl": 17.4
         },
         {
             "Meldedatum": "2020-09-09T00:00:00.000Z",
-            "Anzahl": 3960
+            "Anzahl": 19.9
         },
         {
             "Meldedatum": "2020-09-10T00:00:00.000Z",
-            "Anzahl": 3992
+            "Anzahl": 18.8
         },
         {
             "Meldedatum": "2020-09-11T00:00:00.000Z",
-            "Anzahl": 4050
+            "Anzahl": 21.3
         },
         {
             "Meldedatum": "2020-09-12T00:00:00.000Z",
-            "Anzahl": 4100
+            "Anzahl": 24.0
         },
         {
             "Meldedatum": "2020-09-13T00:00:00.000Z",
-            "Anzahl": 4141
+            "Anzahl": 26.6
         },
         {
             "Meldedatum": "2020-09-14T00:00:00.000Z",
-            "Anzahl": 4170
+            "Anzahl": 27.9
         },
         {
             "Meldedatum": "2020-09-15T00:00:00.000Z",
-            "Anzahl": 4232
+            "Anzahl": 30.0
         },
         {
             "Meldedatum": "2020-09-16T00:00:00.000Z",
-            "Anzahl": 4300
+            "Anzahl": 31.3
         },
         {
             "Meldedatum": "2020-09-17T00:00:00.000Z",
-            "Anzahl": 4377
+            "Anzahl": 35.4
         },
         {
             "Meldedatum": "2020-09-18T00:00:00.000Z",
-            "Anzahl": 4452
+            "Anzahl": 37.0
         },
         {
             "Meldedatum": "2020-09-19T00:00:00.000Z",
-            "Anzahl": 4480
+            "Anzahl": 34.9
         },
         {
             "Meldedatum": "2020-09-20T00:00:00.000Z",
-            "Anzahl": 4524
+            "Anzahl": 35.2
         },
         {
             "Meldedatum": "2020-09-21T00:00:00.000Z",
-            "Anzahl": 4568
+            "Anzahl": 36.6
         },
         {
             "Meldedatum": "2020-09-22T00:00:00.000Z",
-            "Anzahl": 4607
+            "Anzahl": 34.5
         },
         {
             "Meldedatum": "2020-09-23T00:00:00.000Z",
-            "Anzahl": 4659
+            "Anzahl": 33.0
         },
         {
             "Meldedatum": "2020-09-24T00:00:00.000Z",
-            "Anzahl": 4742
+            "Anzahl": 33.6
         },
         {
             "Meldedatum": "2020-09-25T00:00:00.000Z",
-            "Anzahl": 4824
+            "Anzahl": 34.2
         },
         {
             "Meldedatum": "2020-09-26T00:00:00.000Z",
-            "Anzahl": 4868
+            "Anzahl": 35.7
         },
         {
             "Meldedatum": "2020-09-27T00:00:00.000Z",
-            "Anzahl": 4903
+            "Anzahl": 34.8
         },
         {
             "Meldedatum": "2020-09-28T00:00:00.000Z",
-            "Anzahl": 4953
+            "Anzahl": 35.4
         },
         {
             "Meldedatum": "2020-09-29T00:00:00.000Z",
-            "Anzahl": 5017
+            "Anzahl": 37.7
         },
         {
             "Meldedatum": "2020-09-30T00:00:00.000Z",
-            "Anzahl": 5096
+            "Anzahl": 40.2
         },
         {
             "Meldedatum": "2020-10-01T00:00:00.000Z",
-            "Anzahl": 5184
+            "Anzahl": 40.6
         },
         {
             "Meldedatum": "2020-10-02T00:00:00.000Z",
-            "Anzahl": 5242
+            "Anzahl": 38.4
         },
         {
             "Meldedatum": "2020-10-03T00:00:00.000Z",
-            "Anzahl": 5304
+            "Anzahl": 40.1
         },
         {
             "Meldedatum": "2020-10-04T00:00:00.000Z",
-            "Anzahl": 5344
+            "Anzahl": 40.5
         },
         {
             "Meldedatum": "2020-10-05T00:00:00.000Z",
-            "Anzahl": 5404
+            "Anzahl": 41.5
         },
         {
             "Meldedatum": "2020-10-06T00:00:00.000Z",
-            "Anzahl": 5484
+            "Anzahl": 42.9
         },
         {
             "Meldedatum": "2020-10-07T00:00:00.000Z",
-            "Anzahl": 5635
+            "Anzahl": 49.5
         },
         {
             "Meldedatum": "2020-10-08T00:00:00.000Z",
-            "Anzahl": 5774
+            "Anzahl": 54.2
         },
         {
             "Meldedatum": "2020-10-09T00:00:00.000Z",
-            "Anzahl": 5896
+            "Anzahl": 60.1
         },
         {
             "Meldedatum": "2020-10-10T00:00:00.000Z",
-            "Anzahl": 5993
+            "Anzahl": 63.3
         },
         {
             "Meldedatum": "2020-10-11T00:00:00.000Z",
-            "Anzahl": 6088
+            "Anzahl": 68.4
         },
         {
             "Meldedatum": "2020-10-12T00:00:00.000Z",
-            "Anzahl": 6171
+            "Anzahl": 70.5
         },
         {
             "Meldedatum": "2020-10-13T00:00:00.000Z",
-            "Anzahl": 6302
+            "Anzahl": 75.2
         },
         {
             "Meldedatum": "2020-10-14T00:00:00.000Z",
-            "Anzahl": 6482
+            "Anzahl": 77.9
         },
         {
             "Meldedatum": "2020-10-15T00:00:00.000Z",
-            "Anzahl": 6685
+            "Anzahl": 83.7
         },
         {
             "Meldedatum": "2020-10-16T00:00:00.000Z",
-            "Anzahl": 6843
+            "Anzahl": 87.1
         },
         {
             "Meldedatum": "2020-10-17T00:00:00.000Z",
-            "Anzahl": 7007
+            "Anzahl": 93.2
         },
         {
             "Meldedatum": "2020-10-18T00:00:00.000Z",
-            "Anzahl": 7171
+            "Anzahl": 99.6
         },
         {
             "Meldedatum": "2020-10-19T00:00:00.000Z",
-            "Anzahl": 7320
+            "Anzahl": 105.6
         },
         {
             "Meldedatum": "2020-10-20T00:00:00.000Z",
-            "Anzahl": 7570
+            "Anzahl": 116.6
         },
         {
             "Meldedatum": "2020-10-21T00:00:00.000Z",
-            "Anzahl": 7889
+            "Anzahl": 129.3
         },
         {
             "Meldedatum": "2020-10-22T00:00:00.000Z",
-            "Anzahl": 8255
+            "Anzahl": 144.3
         },
         {
             "Meldedatum": "2020-10-23T00:00:00.000Z",
-            "Anzahl": 8634
+            "Anzahl": 164.6
         },
         {
             "Meldedatum": "2020-10-24T00:00:00.000Z",
-            "Anzahl": 8937
+            "Anzahl": 177.4
         },
         {
             "Meldedatum": "2020-10-25T00:00:00.000Z",
-            "Anzahl": 9208
+            "Anzahl": 187.2
         },
         {
             "Meldedatum": "2020-10-26T00:00:00.000Z",
-            "Anzahl": 9420
+            "Anzahl": 193.0
         },
         {
             "Meldedatum": "2020-10-27T00:00:00.000Z",
-            "Anzahl": 9856
+            "Anzahl": 210.1
         },
         {
             "Meldedatum": "2020-10-28T00:00:00.000Z",
-            "Anzahl": 10274
+            "Anzahl": 219.2
         },
         {
             "Meldedatum": "2020-10-29T00:00:00.000Z",
-            "Anzahl": 10721
+            "Anzahl": 226.7
         },
         {
             "Meldedatum": "2020-10-30T00:00:00.000Z",
-            "Anzahl": 11112
+            "Anzahl": 227.8
         },
         {
             "Meldedatum": "2020-10-31T00:00:00.000Z",
-            "Anzahl": 11391
+            "Anzahl": 225.6
         },
         {
             "Meldedatum": "2020-11-01T00:00:00.000Z",
-            "Anzahl": 11644
+            "Anzahl": 223.9
         },
         {
             "Meldedatum": "2020-11-02T00:00:00.000Z",
-            "Anzahl": 11868
+            "Anzahl": 225.0
         },
         {
             "Meldedatum": "2020-11-03T00:00:00.000Z",
-            "Anzahl": 12201
+            "Anzahl": 215.6
         },
         {
             "Meldedatum": "2020-11-04T00:00:00.000Z",
-            "Anzahl": 12598
+            "Anzahl": 213.6
         },
         {
             "Meldedatum": "2020-11-05T00:00:00.000Z",
-            "Anzahl": 12978
+            "Anzahl": 207.5
         },
         {
             "Meldedatum": "2020-11-06T00:00:00.000Z",
-            "Anzahl": 13349
+            "Anzahl": 205.6
         },
         {
             "Meldedatum": "2020-11-07T00:00:00.000Z",
-            "Anzahl": 13657
+            "Anzahl": 208.3
         },
         {
             "Meldedatum": "2020-11-08T00:00:00.000Z",
-            "Anzahl": 13920
+            "Anzahl": 209.2
         },
         {
             "Meldedatum": "2020-11-09T00:00:00.000Z",
-            "Anzahl": 14085
+            "Anzahl": 203.8
         },
         {
             "Meldedatum": "2020-11-10T00:00:00.000Z",
-            "Anzahl": 14381
+            "Anzahl": 200.4
         },
         {
             "Meldedatum": "2020-11-11T00:00:00.000Z",
-            "Anzahl": 14688
+            "Anzahl": 192.1
         },
         {
             "Meldedatum": "2020-11-12T00:00:00.000Z",
-            "Anzahl": 15128
+            "Anzahl": 197.6
         },
         {
             "Meldedatum": "2020-11-13T00:00:00.000Z",
-            "Anzahl": 15391
+            "Anzahl": 187.7
         },
         {
             "Meldedatum": "2020-11-14T00:00:00.000Z",
-            "Anzahl": 15635
+            "Anzahl": 181.8
         },
         {
             "Meldedatum": "2020-11-15T00:00:00.000Z",
-            "Anzahl": 15828
+            "Anzahl": 175.4
         },
         {
             "Meldedatum": "2020-11-16T00:00:00.000Z",
-            "Anzahl": 16058
+            "Anzahl": 181.4
         },
         {
             "Meldedatum": "2020-11-17T00:00:00.000Z",
-            "Anzahl": 16348
+            "Anzahl": 180.8
         },
         {
             "Meldedatum": "2020-11-18T00:00:00.000Z",
-            "Anzahl": 16626
+            "Anzahl": 178.1
         },
         {
             "Meldedatum": "2020-11-19T00:00:00.000Z",
-            "Anzahl": 16981
+            "Anzahl": 170.3
         },
         {
             "Meldedatum": "2020-11-20T00:00:00.000Z",
-            "Anzahl": 17397
+            "Anzahl": 184.4
         },
         {
             "Meldedatum": "2020-11-21T00:00:00.000Z",
-            "Anzahl": 17539
+            "Anzahl": 175.0
         },
         {
             "Meldedatum": "2020-11-22T00:00:00.000Z",
-            "Anzahl": 17600
+            "Anzahl": 162.9
         },
         {
             "Meldedatum": "2020-11-23T00:00:00.000Z",
-            "Anzahl": 17833
+            "Anzahl": 163.2
         },
         {
             "Meldedatum": "2020-11-24T00:00:00.000Z",
-            "Anzahl": 18146
+            "Anzahl": 165.3
         },
         {
             "Meldedatum": "2020-11-25T00:00:00.000Z",
-            "Anzahl": 18381
+            "Anzahl": 161.3
         },
         {
             "Meldedatum": "2020-11-26T00:00:00.000Z",
-            "Anzahl": 18595
+            "Anzahl": 148.4
         },
         {
             "Meldedatum": "2020-11-27T00:00:00.000Z",
-            "Anzahl": 18804
+            "Anzahl": 129.3
         },
         {
             "Meldedatum": "2020-11-28T00:00:00.000Z",
-            "Anzahl": 19015
+            "Anzahl": 135.7
         },
         {
             "Meldedatum": "2020-11-29T00:00:00.000Z",
-            "Anzahl": 19112
+            "Anzahl": 139.0
         },
         {
             "Meldedatum": "2020-11-30T00:00:00.000Z",
-            "Anzahl": 19258
+            "Anzahl": 131.0
         },
         {
             "Meldedatum": "2020-12-01T00:00:00.000Z",
-            "Anzahl": 19582
+            "Anzahl": 132.0
         },
         {
             "Meldedatum": "2020-12-02T00:00:00.000Z",
-            "Anzahl": 19824
+            "Anzahl": 132.6
         },
         {
             "Meldedatum": "2020-12-03T00:00:00.000Z",
-            "Anzahl": 20091
+            "Anzahl": 137.5
         },
         {
             "Meldedatum": "2020-12-04T00:00:00.000Z",
-            "Anzahl": 20335
+            "Anzahl": 140.7
         },
         {
             "Meldedatum": "2020-12-05T00:00:00.000Z",
-            "Anzahl": 20496
+            "Anzahl": 136.1
         },
         {
             "Meldedatum": "2020-12-06T00:00:00.000Z",
-            "Anzahl": 20572
+            "Anzahl": 134.2
         },
         {
             "Meldedatum": "2020-12-07T00:00:00.000Z",
-            "Anzahl": 20748
+            "Anzahl": 137.0
         },
         {
             "Meldedatum": "2020-12-08T00:00:00.000Z",
-            "Anzahl": 21018
+            "Anzahl": 132.0
         },
         {
             "Meldedatum": "2020-12-09T00:00:00.000Z",
-            "Anzahl": 21300
+            "Anzahl": 135.7
         },
         {
             "Meldedatum": "2020-12-10T00:00:00.000Z",
-            "Anzahl": 21501
+            "Anzahl": 129.6
         },
         {
             "Meldedatum": "2020-12-11T00:00:00.000Z",
-            "Anzahl": 21747
+            "Anzahl": 129.8
         },
         {
             "Meldedatum": "2020-12-12T00:00:00.000Z",
-            "Anzahl": 21932
+            "Anzahl": 132.0
         },
         {
             "Meldedatum": "2020-12-13T00:00:00.000Z",
-            "Anzahl": 22080
+            "Anzahl": 138.6
         },
         {
             "Meldedatum": "2020-12-14T00:00:00.000Z",
-            "Anzahl": 22264
+            "Anzahl": 139.4
         },
         {
             "Meldedatum": "2020-12-15T00:00:00.000Z",
-            "Anzahl": 22615
+            "Anzahl": 146.8
         },
         {
             "Meldedatum": "2020-12-16T00:00:00.000Z",
-            "Anzahl": 22913
+            "Anzahl": 148.3
         },
         {
             "Meldedatum": "2020-12-17T00:00:00.000Z",
-            "Anzahl": 23198
+            "Anzahl": 156.0
         },
         {
             "Meldedatum": "2020-12-18T00:00:00.000Z",
-            "Anzahl": 23504
+            "Anzahl": 161.5
         },
         {
             "Meldedatum": "2020-12-19T00:00:00.000Z",
-            "Anzahl": 23787
+            "Anzahl": 170.5
         },
         {
             "Meldedatum": "2020-12-20T00:00:00.000Z",
-            "Anzahl": 23945
+            "Anzahl": 171.4
         },
         {
             "Meldedatum": "2020-12-21T00:00:00.000Z",
-            "Anzahl": 24150
+            "Anzahl": 173.4
         },
         {
             "Meldedatum": "2020-12-22T00:00:00.000Z",
-            "Anzahl": 24423
+            "Anzahl": 166.2
         },
         {
             "Meldedatum": "2020-12-23T00:00:00.000Z",
-            "Anzahl": 24773
+            "Anzahl": 171.0
         },
         {
             "Meldedatum": "2020-12-24T00:00:00.000Z",
-            "Anzahl": 24998
+            "Anzahl": 165.5
         },
         {
             "Meldedatum": "2020-12-25T00:00:00.000Z",
-            "Anzahl": 25089
+            "Anzahl": 145.7
         },
         {
             "Meldedatum": "2020-12-26T00:00:00.000Z",
-            "Anzahl": 25198
+            "Anzahl": 129.7
         },
         {
             "Meldedatum": "2020-12-27T00:00:00.000Z",
-            "Anzahl": 25323
+            "Anzahl": 126.7
         },
         {
             "Meldedatum": "2020-12-28T00:00:00.000Z",
-            "Anzahl": 25489
+            "Anzahl": 123.1
         },
         {
             "Meldedatum": "2020-12-29T00:00:00.000Z",
-            "Anzahl": 25734
+            "Anzahl": 120.5
         },
         {
             "Meldedatum": "2020-12-30T00:00:00.000Z",
-            "Anzahl": 25953
+            "Anzahl": 108.5
         },
         {
             "Meldedatum": "2020-12-31T00:00:00.000Z",
-            "Anzahl": 26067
+            "Anzahl": 98.3
         },
         {
             "Meldedatum": "2021-01-01T00:00:00.000Z",
-            "Anzahl": 26166
+            "Anzahl": 99.0
         },
         {
             "Meldedatum": "2021-01-02T00:00:00.000Z",
-            "Anzahl": 26280
+            "Anzahl": 99.5
         },
         {
             "Meldedatum": "2021-01-03T00:00:00.000Z",
-            "Anzahl": 26349
+            "Anzahl": 94.3
         },
         {
             "Meldedatum": "2021-01-04T00:00:00.000Z",
-            "Anzahl": 26523
+            "Anzahl": 95.0
         },
         {
             "Meldedatum": "2021-01-05T00:00:00.000Z",
-            "Anzahl": 26786
+            "Anzahl": 96.7
         },
         {
             "Meldedatum": "2021-01-06T00:00:00.000Z",
-            "Anzahl": 26977
+            "Anzahl": 94.1
         },
         {
             "Meldedatum": "2021-01-07T00:00:00.000Z",
-            "Anzahl": 27195
+            "Anzahl": 103.7
         },
         {
             "Meldedatum": "2021-01-08T00:00:00.000Z",
-            "Anzahl": 27406
+            "Anzahl": 114.0
         },
         {
             "Meldedatum": "2021-01-09T00:00:00.000Z",
-            "Anzahl": 27581
+            "Anzahl": 119.6
         },
         {
             "Meldedatum": "2021-01-10T00:00:00.000Z",
-            "Anzahl": 27661
+            "Anzahl": 120.6
         },
         {
             "Meldedatum": "2021-01-11T00:00:00.000Z",
-            "Anzahl": 27802
+            "Anzahl": 117.6
         },
         {
             "Meldedatum": "2021-01-12T00:00:00.000Z",
-            "Anzahl": 28020
+            "Anzahl": 113.4
         },
         {
             "Meldedatum": "2021-01-13T00:00:00.000Z",
-            "Anzahl": 28213
+            "Anzahl": 113.6
         },
         {
             "Meldedatum": "2021-01-14T00:00:00.000Z",
-            "Anzahl": 28403
+            "Anzahl": 111.0
         },
         {
             "Meldedatum": "2021-01-15T00:00:00.000Z",
-            "Anzahl": 28574
+            "Anzahl": 107.4
         },
         {
             "Meldedatum": "2021-01-16T00:00:00.000Z",
-            "Anzahl": 28719
+            "Anzahl": 104.6
         },
         {
             "Meldedatum": "2021-01-17T00:00:00.000Z",
-            "Anzahl": 28807
+            "Anzahl": 105.3
         },
         {
             "Meldedatum": "2021-01-18T00:00:00.000Z",
-            "Anzahl": 28925
+            "Anzahl": 103.2
         },
         {
             "Meldedatum": "2021-01-19T00:00:00.000Z",
-            "Anzahl": 29147
+            "Anzahl": 103.6
         },
         {
             "Meldedatum": "2021-01-20T00:00:00.000Z",
-            "Anzahl": 29316
+            "Anzahl": 101.4
         },
         {
             "Meldedatum": "2021-01-21T00:00:00.000Z",
-            "Anzahl": 29463
+            "Anzahl": 97.4
         },
         {
             "Meldedatum": "2021-01-22T00:00:00.000Z",
-            "Anzahl": 29655
+            "Anzahl": 99.4
         },
         {
             "Meldedatum": "2021-01-23T00:00:00.000Z",
-            "Anzahl": 29740
+            "Anzahl": 93.9
         },
         {
             "Meldedatum": "2021-01-24T00:00:00.000Z",
-            "Anzahl": 29820
+            "Anzahl": 93.1
         },
         {
             "Meldedatum": "2021-01-25T00:00:00.000Z",
-            "Anzahl": 29918
+            "Anzahl": 91.3
         },
         {
             "Meldedatum": "2021-01-26T00:00:00.000Z",
-            "Anzahl": 30070
+            "Anzahl": 84.8
         },
         {
             "Meldedatum": "2021-01-27T00:00:00.000Z",
-            "Anzahl": 30219
+            "Anzahl": 83.0
         },
         {
             "Meldedatum": "2021-01-28T00:00:00.000Z",
-            "Anzahl": 30289
+            "Anzahl": 75.9
         },
         {
             "Meldedatum": "2021-01-29T00:00:00.000Z",
-            "Anzahl": 30485
+            "Anzahl": 76.3
         },
         {
             "Meldedatum": "2021-01-30T00:00:00.000Z",
-            "Anzahl": 30601
+            "Anzahl": 79.1
         },
         {
             "Meldedatum": "2021-01-31T00:00:00.000Z",
-            "Anzahl": 30697
+            "Anzahl": 80.6
         },
         {
             "Meldedatum": "2021-02-01T00:00:00.000Z",
-            "Anzahl": 30804
+            "Anzahl": 81.4
         },
         {
             "Meldedatum": "2021-02-02T00:00:00.000Z",
-            "Anzahl": 30897
+            "Anzahl": 76.0
         },
         {
             "Meldedatum": "2021-02-03T00:00:00.000Z",
-            "Anzahl": 31055
+            "Anzahl": 76.8
         },
         {
             "Meldedatum": "2021-02-04T00:00:00.000Z",
-            "Anzahl": 31270
+            "Anzahl": 90.2
         },
         {
             "Meldedatum": "2021-02-05T00:00:00.000Z",
-            "Anzahl": 31401
+            "Anzahl": 84.2
         },
         {
             "Meldedatum": "2021-02-06T00:00:00.000Z",
-            "Anzahl": 31527
+            "Anzahl": 85.1
         },
         {
             "Meldedatum": "2021-02-07T00:00:00.000Z",
-            "Anzahl": 31570
+            "Anzahl": 80.2
         },
         {
             "Meldedatum": "2021-02-08T00:00:00.000Z",
-            "Anzahl": 31656
+            "Anzahl": 78.3
         },
         {
             "Meldedatum": "2021-02-09T00:00:00.000Z",
-            "Anzahl": 31761
+            "Anzahl": 79.4
         },
         {
             "Meldedatum": "2021-02-10T00:00:00.000Z",
-            "Anzahl": 31870
+            "Anzahl": 74.9
         },
         {
             "Meldedatum": "2021-02-11T00:00:00.000Z",
-            "Anzahl": 32018
+            "Anzahl": 68.8
         },
         {
             "Meldedatum": "2021-02-12T00:00:00.000Z",
-            "Anzahl": 32132
+            "Anzahl": 67.2
         },
         {
             "Meldedatum": "2021-02-13T00:00:00.000Z",
-            "Anzahl": 32238
+            "Anzahl": 65.4
         },
         {
             "Meldedatum": "2021-02-14T00:00:00.000Z",
-            "Anzahl": 32322
+            "Anzahl": 69.1
         },
         {
             "Meldedatum": "2021-02-15T00:00:00.000Z",
-            "Anzahl": 32398
+            "Anzahl": 68.2
         },
         {
             "Meldedatum": "2021-02-16T00:00:00.000Z",
-            "Anzahl": 32467
+            "Anzahl": 64.9
         },
         {
             "Meldedatum": "2021-02-17T00:00:00.000Z",
-            "Anzahl": 32635
+            "Anzahl": 70.3
         },
         {
             "Meldedatum": "2021-02-18T00:00:00.000Z",
-            "Anzahl": 32747
+            "Anzahl": 67.0
         },
         {
             "Meldedatum": "2021-02-19T00:00:00.000Z",
-            "Anzahl": 32867
+            "Anzahl": 67.6
         },
         {
             "Meldedatum": "2021-02-20T00:00:00.000Z",
-            "Anzahl": 32979
+            "Anzahl": 68.1
         },
         {
             "Meldedatum": "2021-02-21T00:00:00.000Z",
-            "Anzahl": 33065
+            "Anzahl": 68.3
         },
         {
             "Meldedatum": "2021-02-22T00:00:00.000Z",
-            "Anzahl": 33120
+            "Anzahl": 66.4
         },
         {
             "Meldedatum": "2021-02-23T00:00:00.000Z",
-            "Anzahl": 33248
+            "Anzahl": 71.8
         },
         {
             "Meldedatum": "2021-02-24T00:00:00.000Z",
-            "Anzahl": 33395
+            "Anzahl": 69.9
         },
         {
             "Meldedatum": "2021-02-25T00:00:00.000Z",
-            "Anzahl": 33501
+            "Anzahl": 69.3
         },
         {
             "Meldedatum": "2021-02-26T00:00:00.000Z",
-            "Anzahl": 33630
+            "Anzahl": 70.1
         },
         {
             "Meldedatum": "2021-02-27T00:00:00.000Z",
-            "Anzahl": 33764
+            "Anzahl": 72.2
         },
         {
             "Meldedatum": "2021-02-28T00:00:00.000Z",
-            "Anzahl": 33856
+            "Anzahl": 72.7
         },
         {
             "Meldedatum": "2021-03-01T00:00:00.000Z",
-            "Anzahl": 33964
+            "Anzahl": 77.6
         },
         {
             "Meldedatum": "2021-03-02T00:00:00.000Z",
-            "Anzahl": 34095
+            "Anzahl": 77.9
         },
         {
             "Meldedatum": "2021-03-03T00:00:00.000Z",
-            "Anzahl": 34183
+            "Anzahl": 72.4
         },
         {
             "Meldedatum": "2021-03-04T00:00:00.000Z",
-            "Anzahl": 34296
+            "Anzahl": 73.1
         },
         {
             "Meldedatum": "2021-03-05T00:00:00.000Z",
-            "Anzahl": 34437
+            "Anzahl": 74.2
         },
         {
             "Meldedatum": "2021-03-06T00:00:00.000Z",
-            "Anzahl": 34537
+            "Anzahl": 71.1
         },
         {
             "Meldedatum": "2021-03-07T00:00:00.000Z",
-            "Anzahl": 34569
+            "Anzahl": 65.5
         },
         {
             "Meldedatum": "2021-03-08T00:00:00.000Z",
-            "Anzahl": 34675
+            "Anzahl": 65.4
         },
         {
             "Meldedatum": "2021-03-09T00:00:00.000Z",
-            "Anzahl": 34830
+            "Anzahl": 67.6
         },
         {
             "Meldedatum": "2021-03-10T00:00:00.000Z",
-            "Anzahl": 35003
+            "Anzahl": 75.4
         },
         {
             "Meldedatum": "2021-03-11T00:00:00.000Z",
-            "Anzahl": 35242
+            "Anzahl": 87.0
         },
         {
             "Meldedatum": "2021-03-12T00:00:00.000Z",
-            "Anzahl": 35417
+            "Anzahl": 90.1
         },
         {
             "Meldedatum": "2021-03-13T00:00:00.000Z",
-            "Anzahl": 35571
+            "Anzahl": 95.0
         },
         {
             "Meldedatum": "2021-03-14T00:00:00.000Z",
-            "Anzahl": 35665
+            "Anzahl": 100.7
         },
         {
             "Meldedatum": "2021-03-15T00:00:00.000Z",
-            "Anzahl": 35850
+            "Anzahl": 108.0
         },
         {
             "Meldedatum": "2021-03-16T00:00:00.000Z",
-            "Anzahl": 35981
+            "Anzahl": 105.8
         },
         {
             "Meldedatum": "2021-03-17T00:00:00.000Z",
-            "Anzahl": 36243
+            "Anzahl": 114.0
         },
         {
             "Meldedatum": "2021-03-18T00:00:00.000Z",
-            "Anzahl": 36408
+            "Anzahl": 107.2
         },
         {
             "Meldedatum": "2021-03-19T00:00:00.000Z",
-            "Anzahl": 36574
+            "Anzahl": 106.4
         },
         {
             "Meldedatum": "2021-03-20T00:00:00.000Z",
-            "Anzahl": 36760
+            "Anzahl": 109.3
         },
         {
             "Meldedatum": "2021-03-21T00:00:00.000Z",
-            "Anzahl": 36913
+            "Anzahl": 114.7
         },
         {
             "Meldedatum": "2021-03-22T00:00:00.000Z",
-            "Anzahl": 37085
+            "Anzahl": 113.5
         },
         {
             "Meldedatum": "2021-03-23T00:00:00.000Z",
-            "Anzahl": 37293
+            "Anzahl": 120.6
         },
         {
             "Meldedatum": "2021-03-24T00:00:00.000Z",
-            "Anzahl": 37529
+            "Anzahl": 118.2
         },
         {
             "Meldedatum": "2021-03-25T00:00:00.000Z",
-            "Anzahl": 37843
+            "Anzahl": 131.9
         },
         {
             "Meldedatum": "2021-03-26T00:00:00.000Z",
-            "Anzahl": 38047
+            "Anzahl": 135.4
         },
         {
             "Meldedatum": "2021-03-27T00:00:00.000Z",
-            "Anzahl": 38287
+            "Anzahl": 140.4
         },
         {
             "Meldedatum": "2021-03-28T00:00:00.000Z",
-            "Anzahl": 38415
+            "Anzahl": 138.1
         },
         {
             "Meldedatum": "2021-03-29T00:00:00.000Z",
-            "Anzahl": 38584
+            "Anzahl": 137.8
         },
         {
             "Meldedatum": "2021-03-30T00:00:00.000Z",
-            "Anzahl": 38809
+            "Anzahl": 139.4
         },
         {
             "Meldedatum": "2021-03-31T00:00:00.000Z",
-            "Anzahl": 39060
+            "Anzahl": 140.7
         },
         {
             "Meldedatum": "2021-04-01T00:00:00.000Z",
-            "Anzahl": 39318
+            "Anzahl": 135.6
         },
         {
             "Meldedatum": "2021-04-02T00:00:00.000Z",
-            "Anzahl": 39609
+            "Anzahl": 143.6
         },
         {
             "Meldedatum": "2021-04-03T00:00:00.000Z",
-            "Anzahl": 39870
+            "Anzahl": 145.5
         },
         {
             "Meldedatum": "2021-04-04T00:00:00.000Z",
-            "Anzahl": 40004
+            "Anzahl": 146.1
         },
         {
             "Meldedatum": "2021-04-05T00:00:00.000Z",
-            "Anzahl": 40220
+            "Anzahl": 150.4
         },
         {
             "Meldedatum": "2021-04-06T00:00:00.000Z",
-            "Anzahl": 40380
+            "Anzahl": 144.4
         },
         {
             "Meldedatum": "2021-04-07T00:00:00.000Z",
-            "Anzahl": 40646
+            "Anzahl": 145.8
         },
         {
             "Meldedatum": "2021-04-08T00:00:00.000Z",
-            "Anzahl": 40910
+            "Anzahl": 146.3
         },
         {
             "Meldedatum": "2021-04-09T00:00:00.000Z",
-            "Anzahl": 41127
+            "Anzahl": 139.5
         },
         {
             "Meldedatum": "2021-04-10T00:00:00.000Z",
-            "Anzahl": 41427
+            "Anzahl": 143.1
         },
         {
             "Meldedatum": "2021-04-11T00:00:00.000Z",
-            "Anzahl": 41780
+            "Anzahl": 163.3
         },
         {
             "Meldedatum": "2021-04-12T00:00:00.000Z",
-            "Anzahl": 41961
+            "Anzahl": 160.0
         },
         {
             "Meldedatum": "2021-04-13T00:00:00.000Z",
-            "Anzahl": 42266
+            "Anzahl": 173.4
         },
         {
             "Meldedatum": "2021-04-14T00:00:00.000Z",
-            "Anzahl": 42607
+            "Anzahl": 180.3
         },
         {
             "Meldedatum": "2021-04-15T00:00:00.000Z",
-            "Anzahl": 42855
+            "Anzahl": 178.8
         },
         {
             "Meldedatum": "2021-04-16T00:00:00.000Z",
-            "Anzahl": 43212
+            "Anzahl": 191.7
         },
         {
             "Meldedatum": "2021-04-17T00:00:00.000Z",
-            "Anzahl": 43537
+            "Anzahl": 194.0
         },
         {
             "Meldedatum": "2021-04-18T00:00:00.000Z",
-            "Anzahl": 43942
+            "Anzahl": 198.7
         },
         {
             "Meldedatum": "2021-04-19T00:00:00.000Z",
-            "Anzahl": 44257
+            "Anzahl": 211.1
         },
         {
             "Meldedatum": "2021-04-20T00:00:00.000Z",
-            "Anzahl": 44594
+            "Anzahl": 214.0
         },
         {
             "Meldedatum": "2021-04-21T00:00:00.000Z",
-            "Anzahl": 45031
+            "Anzahl": 222.8
         },
         {
             "Meldedatum": "2021-04-22T00:00:00.000Z",
-            "Anzahl": 45548
+            "Anzahl": 247.6
         },
         {
             "Meldedatum": "2021-04-23T00:00:00.000Z",
-            "Anzahl": 45965
+            "Anzahl": 253.1
         },
         {
             "Meldedatum": "2021-04-24T00:00:00.000Z",
-            "Anzahl": 46303
+            "Anzahl": 254.3
         },
         {
             "Meldedatum": "2021-04-25T00:00:00.000Z",
-            "Anzahl": 46622
+            "Anzahl": 246.4
         },
         {
             "Meldedatum": "2021-04-26T00:00:00.000Z",
-            "Anzahl": 46880
+            "Anzahl": 241.1
         },
         {
             "Meldedatum": "2021-04-27T00:00:00.000Z",
-            "Anzahl": 47106
+            "Anzahl": 230.9
         },
         {
             "Meldedatum": "2021-04-28T00:00:00.000Z",
-            "Anzahl": 47410
+            "Anzahl": 218.7
         },
         {
             "Meldedatum": "2021-04-29T00:00:00.000Z",
-            "Anzahl": 47704
+            "Anzahl": 198.2
         },
         {
             "Meldedatum": "2021-04-30T00:00:00.000Z",
-            "Anzahl": 47996
+            "Anzahl": 186.7
         },
         {
             "Meldedatum": "2021-05-01T00:00:00.000Z",
-            "Anzahl": 48410
+            "Anzahl": 193.7
         },
         {
             "Meldedatum": "2021-05-02T00:00:00.000Z",
-            "Anzahl": 48662
+            "Anzahl": 187.5
         },
         {
             "Meldedatum": "2021-05-03T00:00:00.000Z",
-            "Anzahl": 48848
+            "Anzahl": 180.9
         },
         {
             "Meldedatum": "2021-05-04T00:00:00.000Z",
-            "Anzahl": 49099
+            "Anzahl": 183.2
         },
         {
             "Meldedatum": "2021-05-05T00:00:00.000Z",
-            "Anzahl": 49411
+            "Anzahl": 183.9
         },
         {
             "Meldedatum": "2021-05-06T00:00:00.000Z",
-            "Anzahl": 49655
+            "Anzahl": 179.3
         },
         {
             "Meldedatum": "2021-05-07T00:00:00.000Z",
-            "Anzahl": 49863
+            "Anzahl": 171.6
         },
         {
             "Meldedatum": "2021-05-08T00:00:00.000Z",
-            "Anzahl": 50118
+            "Anzahl": 157.0
         },
         {
             "Meldedatum": "2021-05-09T00:00:00.000Z",
-            "Anzahl": 50307
+            "Anzahl": 151.2
         },
         {
             "Meldedatum": "2021-05-10T00:00:00.000Z",
-            "Anzahl": 50381
+            "Anzahl": 140.9
         },
         {
             "Meldedatum": "2021-05-11T00:00:00.000Z",
-            "Anzahl": 50555
+            "Anzahl": 133.8
         },
         {
             "Meldedatum": "2021-05-12T00:00:00.000Z",
-            "Anzahl": 50751
+            "Anzahl": 123.2
         },
         {
             "Meldedatum": "2021-05-13T00:00:00.000Z",
-            "Anzahl": 50878
+            "Anzahl": 112.4
         },
         {
             "Meldedatum": "2021-05-14T00:00:00.000Z",
-            "Anzahl": 50947
+            "Anzahl": 99.6
         },
         {
             "Meldedatum": "2021-05-15T00:00:00.000Z",
-            "Anzahl": 51157
+            "Anzahl": 95.5
         },
         {
             "Meldedatum": "2021-05-16T00:00:00.000Z",
-            "Anzahl": 51456
+            "Anzahl": 105.6
         },
         {
             "Meldedatum": "2021-05-17T00:00:00.000Z",
-            "Anzahl": 51515
+            "Anzahl": 104.2
         },
         {
             "Meldedatum": "2021-05-18T00:00:00.000Z",
-            "Anzahl": 51692
+            "Anzahl": 104.5
         },
         {
             "Meldedatum": "2021-05-19T00:00:00.000Z",
-            "Anzahl": 51804
+            "Anzahl": 96.8
         },
         {
             "Meldedatum": "2021-05-20T00:00:00.000Z",
-            "Anzahl": 51912
+            "Anzahl": 95.0
         },
         {
             "Meldedatum": "2021-05-21T00:00:00.000Z",
-            "Anzahl": 52067
+            "Anzahl": 103.0
         },
         {
             "Meldedatum": "2021-05-22T00:00:00.000Z",
-            "Anzahl": 52154
+            "Anzahl": 91.6
         },
         {
             "Meldedatum": "2021-05-23T00:00:00.000Z",
-            "Anzahl": 52210
+            "Anzahl": 69.3
         },
         {
             "Meldedatum": "2021-05-24T00:00:00.000Z",
-            "Anzahl": 52289
+            "Anzahl": 71.1
         },
         {
             "Meldedatum": "2021-05-25T00:00:00.000Z",
-            "Anzahl": 52333
+            "Anzahl": 58.9
         },
         {
             "Meldedatum": "2021-05-26T00:00:00.000Z",
-            "Anzahl": 52416
+            "Anzahl": 56.3
         },
         {
             "Meldedatum": "2021-05-27T00:00:00.000Z",
-            "Anzahl": 52510
+            "Anzahl": 55.0
         },
         {
             "Meldedatum": "2021-05-28T00:00:00.000Z",
-            "Anzahl": 52568
+            "Anzahl": 46.1
         },
         {
             "Meldedatum": "2021-05-29T00:00:00.000Z",
-            "Anzahl": 52643
+            "Anzahl": 45.0
         },
         {
             "Meldedatum": "2021-05-30T00:00:00.000Z",
-            "Anzahl": 52674
+            "Anzahl": 42.7
         },
         {
             "Meldedatum": "2021-05-31T00:00:00.000Z",
-            "Anzahl": 52722
+            "Anzahl": 39.8
         },
         {
             "Meldedatum": "2021-06-01T00:00:00.000Z",
-            "Anzahl": 52784
+            "Anzahl": 41.5
         },
         {
             "Meldedatum": "2021-06-02T00:00:00.000Z",
-            "Anzahl": 52858
+            "Anzahl": 40.6
         },
         {
             "Meldedatum": "2021-06-03T00:00:00.000Z",
-            "Anzahl": 52887
+            "Anzahl": 34.7
         },
         {
             "Meldedatum": "2021-06-04T00:00:00.000Z",
-            "Anzahl": 52922
+            "Anzahl": 32.5
         },
         {
             "Meldedatum": "2021-06-05T00:00:00.000Z",
-            "Anzahl": 52954
+            "Anzahl": 28.6
         },
         {
             "Meldedatum": "2021-06-06T00:00:00.000Z",
-            "Anzahl": 52972
+            "Anzahl": 27.4
         },
         {
             "Meldedatum": "2021-06-07T00:00:00.000Z",
-            "Anzahl": 52994
+            "Anzahl": 25.0
         },
         {
             "Meldedatum": "2021-06-08T00:00:00.000Z",
-            "Anzahl": 53046
+            "Anzahl": 24.1
         },
         {
             "Meldedatum": "2021-06-09T00:00:00.000Z",
-            "Anzahl": 53094
+            "Anzahl": 21.7
         },
         {
             "Meldedatum": "2021-06-10T00:00:00.000Z",
-            "Anzahl": 53144
+            "Anzahl": 23.6
         },
         {
             "Meldedatum": "2021-06-11T00:00:00.000Z",
-            "Anzahl": 53170
+            "Anzahl": 22.8
         },
         {
             "Meldedatum": "2021-06-12T00:00:00.000Z",
-            "Anzahl": 53189
+            "Anzahl": 21.6
         },
         {
             "Meldedatum": "2021-06-13T00:00:00.000Z",
-            "Anzahl": 53206
+            "Anzahl": 21.5
         },
         {
             "Meldedatum": "2021-06-14T00:00:00.000Z",
-            "Anzahl": 53229
+            "Anzahl": 21.6
         },
         {
             "Meldedatum": "2021-06-15T00:00:00.000Z",
-            "Anzahl": 53249
+            "Anzahl": 18.7
         },
         {
             "Meldedatum": "2021-06-16T00:00:00.000Z",
-            "Anzahl": 53270
+            "Anzahl": 16.2
         },
         {
             "Meldedatum": "2021-06-17T00:00:00.000Z",
-            "Anzahl": 53285
+            "Anzahl": 13.0
         },
         {
             "Meldedatum": "2021-06-18T00:00:00.000Z",
-            "Anzahl": 53305
+            "Anzahl": 12.4
         },
         {
             "Meldedatum": "2021-06-19T00:00:00.000Z",
-            "Anzahl": 53324
+            "Anzahl": 12.4
         },
         {
             "Meldedatum": "2021-06-20T00:00:00.000Z",
-            "Anzahl": 53336
+            "Anzahl": 12.0
         },
         {
             "Meldedatum": "2021-06-21T00:00:00.000Z",
-            "Anzahl": 53342
+            "Anzahl": 10.4
         },
         {
             "Meldedatum": "2021-06-22T00:00:00.000Z",
-            "Anzahl": 53354
+            "Anzahl": 9.7
         },
         {
             "Meldedatum": "2021-06-23T00:00:00.000Z",
-            "Anzahl": 53373
+            "Anzahl": 9.5
         },
         {
             "Meldedatum": "2021-06-24T00:00:00.000Z",
-            "Anzahl": 53393
+            "Anzahl": 9.9
         },
         {
             "Meldedatum": "2021-06-25T00:00:00.000Z",
-            "Anzahl": 53406
+            "Anzahl": 9.3
         },
         {
             "Meldedatum": "2021-06-26T00:00:00.000Z",
-            "Anzahl": 53419
+            "Anzahl": 8.7
         },
         {
             "Meldedatum": "2021-06-27T00:00:00.000Z",
-            "Anzahl": 53428
+            "Anzahl": 8.5
         },
         {
             "Meldedatum": "2021-06-28T00:00:00.000Z",
-            "Anzahl": 53448
+            "Anzahl": 9.7
         },
         {
             "Meldedatum": "2021-06-29T00:00:00.000Z",
-            "Anzahl": 53458
+            "Anzahl": 9.6
         },
         {
             "Meldedatum": "2021-06-30T00:00:00.000Z",
-            "Anzahl": 53483
+            "Anzahl": 10.1
         },
         {
             "Meldedatum": "2021-07-01T00:00:00.000Z",
-            "Anzahl": 53501
+            "Anzahl": 9.9
         },
         {
             "Meldedatum": "2021-07-02T00:00:00.000Z",
-            "Anzahl": 53515
+            "Anzahl": 10.0
         },
         {
             "Meldedatum": "2021-07-03T00:00:00.000Z",
-            "Anzahl": 53531
+            "Anzahl": 10.3
         },
         {
             "Meldedatum": "2021-07-04T00:00:00.000Z",
-            "Anzahl": 53551
+            "Anzahl": 11.3
         },
         {
             "Meldedatum": "2021-07-05T00:00:00.000Z",
-            "Anzahl": 53558
+            "Anzahl": 10.1
         },
         {
             "Meldedatum": "2021-07-06T00:00:00.000Z",
-            "Anzahl": 53581
+            "Anzahl": 11.3
         },
         {
             "Meldedatum": "2021-07-07T00:00:00.000Z",
-            "Anzahl": 53617
+            "Anzahl": 12.3
         },
         {
             "Meldedatum": "2021-07-08T00:00:00.000Z",
-            "Anzahl": 53643
+            "Anzahl": 13.1
         },
         {
             "Meldedatum": "2021-07-09T00:00:00.000Z",
-            "Anzahl": 53679
+            "Anzahl": 15.1
         },
         {
             "Meldedatum": "2021-07-10T00:00:00.000Z",
-            "Anzahl": 53710
+            "Anzahl": 16.5
         },
         {
             "Meldedatum": "2021-07-11T00:00:00.000Z",
-            "Anzahl": 53724
+            "Anzahl": 15.9
         },
         {
             "Meldedatum": "2021-07-12T00:00:00.000Z",
-            "Anzahl": 53750
+            "Anzahl": 17.6
         },
         {
             "Meldedatum": "2021-07-13T00:00:00.000Z",
-            "Anzahl": 53778
+            "Anzahl": 18.1
         }
     ]
 }
