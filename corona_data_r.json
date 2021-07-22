@@ -1610,31 +1610,31 @@
         },
         {
             "Meldedatum": "2021-03-24T00:00:00.000Z",
-            "Anzahl": 118.0
+            "Anzahl": 117.9
         },
         {
             "Meldedatum": "2021-03-25T00:00:00.000Z",
-            "Anzahl": 131.8
+            "Anzahl": 131.7
         },
         {
             "Meldedatum": "2021-03-26T00:00:00.000Z",
-            "Anzahl": 135.3
+            "Anzahl": 135.2
         },
         {
             "Meldedatum": "2021-03-27T00:00:00.000Z",
-            "Anzahl": 140.3
+            "Anzahl": 140.2
         },
         {
             "Meldedatum": "2021-03-28T00:00:00.000Z",
-            "Anzahl": 138.1
+            "Anzahl": 138.0
         },
         {
             "Meldedatum": "2021-03-29T00:00:00.000Z",
-            "Anzahl": 137.8
+            "Anzahl": 137.7
         },
         {
             "Meldedatum": "2021-03-30T00:00:00.000Z",
-            "Anzahl": 139.4
+            "Anzahl": 139.3
         },
         {
             "Meldedatum": "2021-03-31T00:00:00.000Z",
@@ -1662,15 +1662,15 @@
         },
         {
             "Meldedatum": "2021-04-06T00:00:00.000Z",
-            "Anzahl": 144.3
+            "Anzahl": 144.2
         },
         {
             "Meldedatum": "2021-04-07T00:00:00.000Z",
-            "Anzahl": 145.8
+            "Anzahl": 145.7
         },
         {
             "Meldedatum": "2021-04-08T00:00:00.000Z",
-            "Anzahl": 146.3
+            "Anzahl": 146.2
         },
         {
             "Meldedatum": "2021-04-09T00:00:00.000Z",
@@ -1678,11 +1678,11 @@
         },
         {
             "Meldedatum": "2021-04-10T00:00:00.000Z",
-            "Anzahl": 143.0
+            "Anzahl": 142.9
         },
         {
             "Meldedatum": "2021-04-11T00:00:00.000Z",
-            "Anzahl": 163.1
+            "Anzahl": 163.0
         },
         {
             "Meldedatum": "2021-04-12T00:00:00.000Z",
@@ -1770,51 +1770,51 @@
         },
         {
             "Meldedatum": "2021-05-03T00:00:00.000Z",
-            "Anzahl": 180.9
+            "Anzahl": 180.8
         },
         {
             "Meldedatum": "2021-05-04T00:00:00.000Z",
-            "Anzahl": 183.2
+            "Anzahl": 183.1
         },
         {
             "Meldedatum": "2021-05-05T00:00:00.000Z",
-            "Anzahl": 183.9
+            "Anzahl": 183.8
         },
         {
             "Meldedatum": "2021-05-06T00:00:00.000Z",
-            "Anzahl": 179.3
+            "Anzahl": 179.1
         },
         {
             "Meldedatum": "2021-05-07T00:00:00.000Z",
-            "Anzahl": 171.5
+            "Anzahl": 171.3
         },
         {
             "Meldedatum": "2021-05-08T00:00:00.000Z",
-            "Anzahl": 156.7
+            "Anzahl": 156.5
         },
         {
             "Meldedatum": "2021-05-09T00:00:00.000Z",
-            "Anzahl": 150.8
+            "Anzahl": 150.6
         },
         {
             "Meldedatum": "2021-05-10T00:00:00.000Z",
-            "Anzahl": 140.6
+            "Anzahl": 140.4
         },
         {
             "Meldedatum": "2021-05-11T00:00:00.000Z",
-            "Anzahl": 133.3
+            "Anzahl": 133.1
         },
         {
             "Meldedatum": "2021-05-12T00:00:00.000Z",
-            "Anzahl": 122.5
+            "Anzahl": 122.4
         },
         {
             "Meldedatum": "2021-05-13T00:00:00.000Z",
-            "Anzahl": 111.9
+            "Anzahl": 111.8
         },
         {
             "Meldedatum": "2021-05-14T00:00:00.000Z",
-            "Anzahl": 99.1
+            "Anzahl": 99.0
         },
         {
             "Meldedatum": "2021-05-15T00:00:00.000Z",
@@ -2054,39 +2054,43 @@
         },
         {
             "Meldedatum": "2021-07-13T00:00:00.000Z",
-            "Anzahl": 19.7
+            "Anzahl": 19.8
         },
         {
             "Meldedatum": "2021-07-14T00:00:00.000Z",
-            "Anzahl": 20.5
+            "Anzahl": 20.6
         },
         {
             "Meldedatum": "2021-07-15T00:00:00.000Z",
-            "Anzahl": 20.9
+            "Anzahl": 21.1
         },
         {
             "Meldedatum": "2021-07-16T00:00:00.000Z",
-            "Anzahl": 20.8
+            "Anzahl": 21.0
         },
         {
             "Meldedatum": "2021-07-17T00:00:00.000Z",
-            "Anzahl": 24.4
+            "Anzahl": 24.5
         },
         {
             "Meldedatum": "2021-07-18T00:00:00.000Z",
-            "Anzahl": 25.0
+            "Anzahl": 25.5
         },
         {
             "Meldedatum": "2021-07-19T00:00:00.000Z",
-            "Anzahl": 25.0
+            "Anzahl": 25.9
         },
         {
             "Meldedatum": "2021-07-20T00:00:00.000Z",
-            "Anzahl": 23.3
+            "Anzahl": 25.3
         },
         {
             "Meldedatum": "2021-07-21T00:00:00.000Z",
-            "Anzahl": 22.3
+            "Anzahl": 24.6
+        },
+        {
+            "Meldedatum": "2021-07-22T00:00:00.000Z",
+            "Anzahl": 25.9
         }
     ]
 }
