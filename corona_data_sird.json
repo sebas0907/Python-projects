@@ -4223,6 +4223,14 @@
             "Genesen": 52800,
             "Gemeldet": 54376,
             "Inzidenz": 32.7
+        },
+	{
+            "Datum": "2021-07-28T00:00:00.000Z",
+            "Verstorben": 732,
+            "Aktive": 830,
+            "Genesen": 52800,
+            "Gemeldet": 54448,
+            "Inzidenz": 36.1
         }
     ]
 }
