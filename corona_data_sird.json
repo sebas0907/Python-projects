@@ -4287,6 +4287,14 @@
             "Genesen": 53300,
             "Gemeldet": 54908,
             "Inzidenz": 41.8
+        },
+	{
+            "Datum": "2021-08-05T00:00:00.000Z",
+            "Verstorben": 730,
+            "Aktive": 920,
+            "Genesen": 53300,
+            "Gemeldet": 54963,
+            "Inzidenz": 41.0
         }
     ]
 }
