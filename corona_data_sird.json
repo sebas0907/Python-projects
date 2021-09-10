@@ -4569,6 +4569,14 @@
             "Inzidenz": 118.7
         },
         {
+            "Datum": "2021-09-09T00:00:00.000Z",
+            "Verstorben": 734,
+            "Aktive": 5700,
+            "Genesen": 55100,
+            "Gemeldet": 61593,
+            "Inzidenz": 115.3
+        },
+	{
             "Datum": "2021-09-10T00:00:00.000Z",
             "Verstorben": 734,
             "Aktive": 5700,
