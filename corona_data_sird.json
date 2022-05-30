@@ -443,7 +443,7 @@
         {
             "Datum": "2020-04-11T00:00:00.000Z",
             "Verstorben": 61,
-            "Aktive": 850,
+            "Aktive": 840,
             "Genesen": 1200,
             "Gemeldet": 2001,
             "Inzidenz": 25.9
@@ -483,7 +483,7 @@
         {
             "Datum": "2020-04-16T00:00:00.000Z",
             "Verstorben": 73,
-            "Aktive": 590,
+            "Aktive": 580,
             "Genesen": 1500,
             "Gemeldet": 2107,
             "Inzidenz": 14.5
@@ -507,7 +507,7 @@
         {
             "Datum": "2020-04-19T00:00:00.000Z",
             "Verstorben": 77,
-            "Aktive": 530,
+            "Aktive": 520,
             "Genesen": 1600,
             "Gemeldet": 2147,
             "Inzidenz": 10.7
@@ -547,7 +547,7 @@
         {
             "Datum": "2020-04-24T00:00:00.000Z",
             "Verstorben": 87,
-            "Aktive": 340,
+            "Aktive": 330,
             "Genesen": 1900,
             "Gemeldet": 2213,
             "Inzidenz": 7.3
@@ -1869,63 +1869,63 @@
             "Verstorben": 127,
             "Aktive": 1300,
             "Genesen": 4500,
-            "Gemeldet": 5473,
-            "Inzidenz": 42.9
+            "Gemeldet": 5472,
+            "Inzidenz": 42.8
         },
         {
             "Datum": "2020-10-07T00:00:00.000Z",
             "Verstorben": 127,
             "Aktive": 1400,
             "Genesen": 4500,
-            "Gemeldet": 5624,
-            "Inzidenz": 49.6
+            "Gemeldet": 5623,
+            "Inzidenz": 49.5
         },
         {
             "Datum": "2020-10-08T00:00:00.000Z",
             "Verstorben": 129,
             "Aktive": 1400,
             "Genesen": 4600,
-            "Gemeldet": 5763,
-            "Inzidenz": 54.3
+            "Gemeldet": 5762,
+            "Inzidenz": 54.2
         },
         {
             "Datum": "2020-10-09T00:00:00.000Z",
             "Verstorben": 130,
             "Aktive": 1500,
             "Genesen": 4600,
-            "Gemeldet": 5885,
-            "Inzidenz": 60.2
+            "Gemeldet": 5884,
+            "Inzidenz": 60.1
         },
         {
             "Datum": "2020-10-10T00:00:00.000Z",
             "Verstorben": 131,
             "Aktive": 1600,
             "Genesen": 4700,
-            "Gemeldet": 5982,
-            "Inzidenz": 63.6
+            "Gemeldet": 5981,
+            "Inzidenz": 63.5
         },
         {
             "Datum": "2020-10-11T00:00:00.000Z",
             "Verstorben": 132,
             "Aktive": 1700,
             "Genesen": 4700,
-            "Gemeldet": 6077,
-            "Inzidenz": 68.7
+            "Gemeldet": 6076,
+            "Inzidenz": 68.6
         },
         {
             "Datum": "2020-10-12T00:00:00.000Z",
             "Verstorben": 133,
             "Aktive": 1800,
             "Genesen": 4800,
-            "Gemeldet": 6160,
-            "Inzidenz": 70.8
+            "Gemeldet": 6159,
+            "Inzidenz": 70.7
         },
         {
             "Datum": "2020-10-13T00:00:00.000Z",
             "Verstorben": 134,
             "Aktive": 1900,
             "Genesen": 4800,
-            "Gemeldet": 6289,
+            "Gemeldet": 6288,
             "Inzidenz": 75.3
         },
         {
@@ -1933,7 +1933,7 @@
             "Verstorben": 135,
             "Aktive": 2000,
             "Genesen": 4900,
-            "Gemeldet": 6468,
+            "Gemeldet": 6467,
             "Inzidenz": 77.9
         },
         {
@@ -1941,7 +1941,7 @@
             "Verstorben": 137,
             "Aktive": 2100,
             "Genesen": 5000,
-            "Gemeldet": 6670,
+            "Gemeldet": 6669,
             "Inzidenz": 83.7
         },
         {
@@ -1949,7 +1949,7 @@
             "Verstorben": 138,
             "Aktive": 2200,
             "Genesen": 5100,
-            "Gemeldet": 6830,
+            "Gemeldet": 6829,
             "Inzidenz": 87.2
         },
         {
@@ -1957,7 +1957,7 @@
             "Verstorben": 139,
             "Aktive": 2400,
             "Genesen": 5200,
-            "Gemeldet": 6993,
+            "Gemeldet": 6992,
             "Inzidenz": 93.3
         },
         {
@@ -1965,7 +1965,7 @@
             "Verstorben": 139,
             "Aktive": 2500,
             "Genesen": 5200,
-            "Gemeldet": 7157,
+            "Gemeldet": 7156,
             "Inzidenz": 99.7
         },
         {
@@ -1973,7 +1973,7 @@
             "Verstorben": 139,
             "Aktive": 2600,
             "Genesen": 5300,
-            "Gemeldet": 7305,
+            "Gemeldet": 7304,
             "Inzidenz": 105.7
         },
         {
@@ -1981,7 +1981,7 @@
             "Verstorben": 142,
             "Aktive": 2800,
             "Genesen": 5400,
-            "Gemeldet": 7555,
+            "Gemeldet": 7554,
             "Inzidenz": 116.8
         },
         {
@@ -1990,7 +1990,7 @@
             "Aktive": 3100,
             "Genesen": 5500,
             "Gemeldet": 7876,
-            "Inzidenz": 129.9
+            "Inzidenz": 130.0
         },
         {
             "Datum": "2020-10-22T00:00:00.000Z",
@@ -1998,7 +1998,7 @@
             "Aktive": 3400,
             "Genesen": 5600,
             "Gemeldet": 8242,
-            "Inzidenz": 145.1
+            "Inzidenz": 145.2
         },
         {
             "Datum": "2020-10-23T00:00:00.000Z",
@@ -2006,7 +2006,7 @@
             "Aktive": 3700,
             "Genesen": 5700,
             "Gemeldet": 8619,
-            "Inzidenz": 165.1
+            "Inzidenz": 165.2
         },
         {
             "Datum": "2020-10-24T00:00:00.000Z",
@@ -2014,7 +2014,7 @@
             "Aktive": 3900,
             "Genesen": 5800,
             "Gemeldet": 8922,
-            "Inzidenz": 178.0
+            "Inzidenz": 178.1
         },
         {
             "Datum": "2020-10-25T00:00:00.000Z",
@@ -2022,7 +2022,7 @@
             "Aktive": 4100,
             "Genesen": 5900,
             "Gemeldet": 9191,
-            "Inzidenz": 187.7
+            "Inzidenz": 187.8
         },
         {
             "Datum": "2020-10-26T00:00:00.000Z",
@@ -2030,7 +2030,7 @@
             "Aktive": 4300,
             "Genesen": 6000,
             "Gemeldet": 9402,
-            "Inzidenz": 193.5
+            "Inzidenz": 193.6
         },
         {
             "Datum": "2020-10-27T00:00:00.000Z",
@@ -2038,7 +2038,7 @@
             "Aktive": 4500,
             "Genesen": 6200,
             "Gemeldet": 9838,
-            "Inzidenz": 210.7
+            "Inzidenz": 210.8
         },
         {
             "Datum": "2020-10-28T00:00:00.000Z",
@@ -2389,63 +2389,63 @@
             "Verstorben": 282,
             "Aktive": 4100,
             "Genesen": 17700,
-            "Gemeldet": 21491,
-            "Inzidenz": 130.3
+            "Gemeldet": 21492,
+            "Inzidenz": 130.4
         },
         {
             "Datum": "2020-12-11T00:00:00.000Z",
             "Verstorben": 290,
             "Aktive": 4100,
             "Genesen": 18000,
-            "Gemeldet": 21735,
-            "Inzidenz": 130.3
+            "Gemeldet": 21736,
+            "Inzidenz": 130.4
         },
         {
             "Datum": "2020-12-12T00:00:00.000Z",
             "Verstorben": 295,
             "Aktive": 4100,
             "Genesen": 18200,
-            "Gemeldet": 21920,
-            "Inzidenz": 132.5
+            "Gemeldet": 21921,
+            "Inzidenz": 132.6
         },
         {
             "Datum": "2020-12-13T00:00:00.000Z",
             "Verstorben": 298,
             "Aktive": 4100,
             "Genesen": 18300,
-            "Gemeldet": 22066,
-            "Inzidenz": 138.9
+            "Gemeldet": 22067,
+            "Inzidenz": 139.0
         },
         {
             "Datum": "2020-12-14T00:00:00.000Z",
             "Verstorben": 303,
             "Aktive": 4100,
             "Genesen": 18500,
-            "Gemeldet": 22251,
-            "Inzidenz": 139.6
+            "Gemeldet": 22252,
+            "Inzidenz": 139.7
         },
         {
             "Datum": "2020-12-15T00:00:00.000Z",
             "Verstorben": 305,
             "Aktive": 4200,
             "Genesen": 18800,
-            "Gemeldet": 22599,
-            "Inzidenz": 146.7
+            "Gemeldet": 22600,
+            "Inzidenz": 146.8
         },
         {
             "Datum": "2020-12-16T00:00:00.000Z",
             "Verstorben": 306,
             "Aktive": 4200,
             "Genesen": 19000,
-            "Gemeldet": 22895,
-            "Inzidenz": 148.1
+            "Gemeldet": 22896,
+            "Inzidenz": 148.2
         },
         {
             "Datum": "2020-12-17T00:00:00.000Z",
             "Verstorben": 311,
             "Aktive": 4100,
             "Genesen": 19300,
-            "Gemeldet": 23180,
+            "Gemeldet": 23181,
             "Inzidenz": 155.9
         },
         {
@@ -2453,7 +2453,7 @@
             "Verstorben": 314,
             "Aktive": 4100,
             "Genesen": 19600,
-            "Gemeldet": 23485,
+            "Gemeldet": 23486,
             "Inzidenz": 161.5
         },
         {
@@ -2461,7 +2461,7 @@
             "Verstorben": 318,
             "Aktive": 4100,
             "Genesen": 19800,
-            "Gemeldet": 23766,
+            "Gemeldet": 23767,
             "Inzidenz": 170.4
         },
         {
@@ -2469,7 +2469,7 @@
             "Verstorben": 319,
             "Aktive": 4100,
             "Genesen": 20000,
-            "Gemeldet": 23923,
+            "Gemeldet": 23924,
             "Inzidenz": 171.4
         },
         {
@@ -2477,7 +2477,7 @@
             "Verstorben": 322,
             "Aktive": 4100,
             "Genesen": 20200,
-            "Gemeldet": 24128,
+            "Gemeldet": 24129,
             "Inzidenz": 173.2
         },
         {
@@ -2485,7 +2485,7 @@
             "Verstorben": 325,
             "Aktive": 4000,
             "Genesen": 20500,
-            "Gemeldet": 24399,
+            "Gemeldet": 24400,
             "Inzidenz": 166.1
         },
         {
@@ -2493,7 +2493,7 @@
             "Verstorben": 329,
             "Aktive": 4100,
             "Genesen": 20700,
-            "Gemeldet": 24749,
+            "Gemeldet": 24750,
             "Inzidenz": 171.1
         },
         {
@@ -2501,7 +2501,7 @@
             "Verstorben": 333,
             "Aktive": 4100,
             "Genesen": 20900,
-            "Gemeldet": 24974,
+            "Gemeldet": 24975,
             "Inzidenz": 165.6
         },
         {
@@ -2509,7 +2509,7 @@
             "Verstorben": 336,
             "Aktive": 4000,
             "Genesen": 21200,
-            "Gemeldet": 25063,
+            "Gemeldet": 25064,
             "Inzidenz": 145.6
         },
         {
@@ -2517,7 +2517,7 @@
             "Verstorben": 337,
             "Aktive": 3900,
             "Genesen": 21400,
-            "Gemeldet": 25173,
+            "Gemeldet": 25174,
             "Inzidenz": 129.9
         },
         {
@@ -2525,7 +2525,7 @@
             "Verstorben": 342,
             "Aktive": 3900,
             "Genesen": 21500,
-            "Gemeldet": 25297,
+            "Gemeldet": 25298,
             "Inzidenz": 126.8
         },
         {
@@ -2533,7 +2533,7 @@
             "Verstorben": 348,
             "Aktive": 3800,
             "Genesen": 21800,
-            "Gemeldet": 25462,
+            "Gemeldet": 25463,
             "Inzidenz": 123.1
         },
         {
@@ -2541,7 +2541,7 @@
             "Verstorben": 351,
             "Aktive": 3700,
             "Genesen": 22100,
-            "Gemeldet": 25704,
+            "Gemeldet": 25705,
             "Inzidenz": 120.4
         },
         {
@@ -2549,7 +2549,7 @@
             "Verstorben": 358,
             "Aktive": 3600,
             "Genesen": 22300,
-            "Gemeldet": 25922,
+            "Gemeldet": 25923,
             "Inzidenz": 108.3
         },
         {
@@ -2557,7 +2557,7 @@
             "Verstorben": 359,
             "Aktive": 3500,
             "Genesen": 22600,
-            "Gemeldet": 26036,
+            "Gemeldet": 26037,
             "Inzidenz": 98.0
         },
         {
@@ -2565,7 +2565,7 @@
             "Verstorben": 364,
             "Aktive": 3400,
             "Genesen": 22800,
-            "Gemeldet": 26132,
+            "Gemeldet": 26133,
             "Inzidenz": 98.7
         },
         {
@@ -2573,7 +2573,7 @@
             "Verstorben": 367,
             "Aktive": 3300,
             "Genesen": 23000,
-            "Gemeldet": 26246,
+            "Gemeldet": 26247,
             "Inzidenz": 99.0
         },
         {
@@ -2581,7 +2581,7 @@
             "Verstorben": 367,
             "Aktive": 3300,
             "Genesen": 23200,
-            "Gemeldet": 26315,
+            "Gemeldet": 26316,
             "Inzidenz": 94.0
         },
         {
@@ -2589,7 +2589,7 @@
             "Verstorben": 372,
             "Aktive": 3400,
             "Genesen": 23300,
-            "Gemeldet": 26489,
+            "Gemeldet": 26490,
             "Inzidenz": 94.8
         },
         {
@@ -2597,7 +2597,7 @@
             "Verstorben": 376,
             "Aktive": 3300,
             "Genesen": 23600,
-            "Gemeldet": 26750,
+            "Gemeldet": 26751,
             "Inzidenz": 96.5
         },
         {
@@ -2605,7 +2605,7 @@
             "Verstorben": 377,
             "Aktive": 3100,
             "Genesen": 23900,
-            "Gemeldet": 26939,
+            "Gemeldet": 26940,
             "Inzidenz": 93.9
         },
         {
@@ -2613,7 +2613,7 @@
             "Verstorben": 378,
             "Aktive": 3100,
             "Genesen": 24100,
-            "Gemeldet": 27156,
+            "Gemeldet": 27157,
             "Inzidenz": 103.4
         },
         {
@@ -2621,7 +2621,7 @@
             "Verstorben": 381,
             "Aktive": 3100,
             "Genesen": 24300,
-            "Gemeldet": 27364,
+            "Gemeldet": 27365,
             "Inzidenz": 113.7
         },
         {
@@ -2629,7 +2629,7 @@
             "Verstorben": 383,
             "Aktive": 3100,
             "Genesen": 24500,
-            "Gemeldet": 27539,
+            "Gemeldet": 27540,
             "Inzidenz": 119.3
         },
         {
@@ -2637,7 +2637,7 @@
             "Verstorben": 384,
             "Aktive": 3100,
             "Genesen": 24600,
-            "Gemeldet": 27618,
+            "Gemeldet": 27619,
             "Inzidenz": 120.3
         },
         {
@@ -2645,7 +2645,7 @@
             "Verstorben": 390,
             "Aktive": 3100,
             "Genesen": 24800,
-            "Gemeldet": 27757,
+            "Gemeldet": 27758,
             "Inzidenz": 117.0
         },
         {
@@ -2653,64 +2653,64 @@
             "Verstorben": 395,
             "Aktive": 3000,
             "Genesen": 25000,
-            "Gemeldet": 27974,
-            "Inzidenz": 113.0
+            "Gemeldet": 27976,
+            "Inzidenz": 113.1
         },
         {
             "Datum": "2021-01-13T00:00:00.000Z",
             "Verstorben": 395,
             "Aktive": 3000,
             "Genesen": 25200,
-            "Gemeldet": 28165,
-            "Inzidenz": 113.2
+            "Gemeldet": 28169,
+            "Inzidenz": 113.4
         },
         {
             "Datum": "2021-01-14T00:00:00.000Z",
             "Verstorben": 397,
             "Aktive": 3000,
             "Genesen": 25400,
-            "Gemeldet": 28353,
-            "Inzidenz": 110.5
+            "Gemeldet": 28357,
+            "Inzidenz": 110.8
         },
         {
             "Datum": "2021-01-15T00:00:00.000Z",
             "Verstorben": 402,
             "Aktive": 3000,
             "Genesen": 25500,
-            "Gemeldet": 28521,
-            "Inzidenz": 106.8
+            "Gemeldet": 28524,
+            "Inzidenz": 107.0
         },
         {
             "Datum": "2021-01-16T00:00:00.000Z",
             "Verstorben": 406,
             "Aktive": 2900,
             "Genesen": 25700,
-            "Gemeldet": 28664,
-            "Inzidenz": 103.8
+            "Gemeldet": 28666,
+            "Inzidenz": 103.9
         },
         {
             "Datum": "2021-01-17T00:00:00.000Z",
             "Verstorben": 408,
             "Aktive": 2900,
             "Genesen": 25900,
-            "Gemeldet": 28751,
-            "Inzidenz": 104.6
+            "Gemeldet": 28753,
+            "Inzidenz": 104.7
         },
         {
             "Datum": "2021-01-18T00:00:00.000Z",
             "Verstorben": 409,
             "Aktive": 2800,
             "Genesen": 26100,
-            "Gemeldet": 28869,
-            "Inzidenz": 102.6
+            "Gemeldet": 28871,
+            "Inzidenz": 102.7
         },
         {
             "Datum": "2021-01-19T00:00:00.000Z",
             "Verstorben": 410,
             "Aktive": 2700,
             "Genesen": 26300,
-            "Gemeldet": 29089,
-            "Inzidenz": 102.9
+            "Gemeldet": 29090,
+            "Inzidenz": 102.8
         },
         {
             "Datum": "2021-01-20T00:00:00.000Z",
@@ -2718,127 +2718,127 @@
             "Aktive": 2700,
             "Genesen": 26500,
             "Gemeldet": 29258,
-            "Inzidenz": 100.9
+            "Inzidenz": 100.5
         },
         {
             "Datum": "2021-01-21T00:00:00.000Z",
             "Verstorben": 414,
             "Aktive": 2700,
             "Genesen": 26700,
-            "Gemeldet": 29405,
-            "Inzidenz": 97.1
+            "Gemeldet": 29404,
+            "Inzidenz": 96.6
         },
         {
             "Datum": "2021-01-22T00:00:00.000Z",
             "Verstorben": 418,
             "Aktive": 2700,
             "Genesen": 26800,
-            "Gemeldet": 29595,
-            "Inzidenz": 99.1
+            "Gemeldet": 29594,
+            "Inzidenz": 98.8
         },
         {
             "Datum": "2021-01-23T00:00:00.000Z",
             "Verstorben": 425,
             "Aktive": 2600,
             "Genesen": 26900,
-            "Gemeldet": 29680,
-            "Inzidenz": 93.8
+            "Gemeldet": 29679,
+            "Inzidenz": 93.5
         },
         {
             "Datum": "2021-01-24T00:00:00.000Z",
             "Verstorben": 426,
             "Aktive": 2600,
             "Genesen": 27100,
-            "Gemeldet": 29759,
-            "Inzidenz": 93.0
+            "Gemeldet": 29758,
+            "Inzidenz": 92.8
         },
         {
             "Datum": "2021-01-25T00:00:00.000Z",
             "Verstorben": 431,
             "Aktive": 2600,
             "Genesen": 27200,
-            "Gemeldet": 29856,
-            "Inzidenz": 91.1
+            "Gemeldet": 29855,
+            "Inzidenz": 90.8
         },
         {
             "Datum": "2021-01-26T00:00:00.000Z",
             "Verstorben": 433,
             "Aktive": 2600,
             "Genesen": 27400,
-            "Gemeldet": 30006,
-            "Inzidenz": 84.6
+            "Gemeldet": 30005,
+            "Inzidenz": 84.4
         },
         {
             "Datum": "2021-01-27T00:00:00.000Z",
             "Verstorben": 441,
             "Aktive": 2600,
             "Genesen": 27500,
-            "Gemeldet": 30156,
-            "Inzidenz": 82.9
+            "Gemeldet": 30154,
+            "Inzidenz": 82.7
         },
         {
             "Datum": "2021-01-28T00:00:00.000Z",
             "Verstorben": 448,
-            "Aktive": 2600,
-            "Genesen": 27600,
-            "Gemeldet": 30225,
-            "Inzidenz": 75.7
+            "Aktive": 2500,
+            "Genesen": 27700,
+            "Gemeldet": 30221,
+            "Inzidenz": 75.4
         },
         {
             "Datum": "2021-01-29T00:00:00.000Z",
             "Verstorben": 450,
             "Aktive": 2600,
             "Genesen": 27800,
-            "Gemeldet": 30421,
-            "Inzidenz": 76.2
+            "Gemeldet": 30417,
+            "Inzidenz": 76.0
         },
         {
             "Datum": "2021-01-30T00:00:00.000Z",
             "Verstorben": 450,
-            "Aktive": 2600,
+            "Aktive": 2500,
             "Genesen": 27900,
-            "Gemeldet": 30536,
-            "Inzidenz": 79.0
+            "Gemeldet": 30532,
+            "Inzidenz": 78.7
         },
         {
             "Datum": "2021-01-31T00:00:00.000Z",
             "Verstorben": 452,
             "Aktive": 2600,
             "Genesen": 28000,
-            "Gemeldet": 30632,
-            "Inzidenz": 80.6
+            "Gemeldet": 30628,
+            "Inzidenz": 80.3
         },
         {
             "Datum": "2021-02-01T00:00:00.000Z",
             "Verstorben": 457,
-            "Aktive": 2600,
+            "Aktive": 2500,
             "Genesen": 28100,
-            "Gemeldet": 30735,
-            "Inzidenz": 81.1
+            "Gemeldet": 30733,
+            "Inzidenz": 81.0
         },
         {
             "Datum": "2021-02-02T00:00:00.000Z",
             "Verstorben": 458,
             "Aktive": 2500,
             "Genesen": 28300,
-            "Gemeldet": 30829,
-            "Inzidenz": 76.0
+            "Gemeldet": 30826,
+            "Inzidenz": 75.8
         },
         {
             "Datum": "2021-02-03T00:00:00.000Z",
             "Verstorben": 460,
-            "Aktive": 2500,
-            "Genesen": 28400,
-            "Gemeldet": 30983,
-            "Inzidenz": 76.3
+            "Aktive": 2400,
+            "Genesen": 28500,
+            "Gemeldet": 30978,
+            "Inzidenz": 76.0
         },
         {
             "Datum": "2021-02-04T00:00:00.000Z",
             "Verstorben": 461,
             "Aktive": 2500,
             "Genesen": 28600,
-            "Gemeldet": 31189,
-            "Inzidenz": 89.0
+            "Gemeldet": 31184,
+            "Inzidenz": 88.9
         },
         {
             "Datum": "2021-02-05T00:00:00.000Z",
@@ -2846,102 +2846,102 @@
             "Aktive": 2400,
             "Genesen": 28800,
             "Gemeldet": 31317,
-            "Inzidenz": 82.7
+            "Inzidenz": 83.1
         },
         {
             "Datum": "2021-02-06T00:00:00.000Z",
             "Verstorben": 465,
             "Aktive": 2400,
             "Genesen": 28900,
-            "Gemeldet": 31442,
-            "Inzidenz": 83.6
+            "Gemeldet": 31437,
+            "Inzidenz": 83.5
         },
         {
             "Datum": "2021-02-07T00:00:00.000Z",
             "Verstorben": 471,
             "Aktive": 2300,
             "Genesen": 29000,
-            "Gemeldet": 31484,
-            "Inzidenz": 78.6
+            "Gemeldet": 31479,
+            "Inzidenz": 78.5
         },
         {
             "Datum": "2021-02-08T00:00:00.000Z",
             "Verstorben": 474,
             "Aktive": 2300,
             "Genesen": 29200,
-            "Gemeldet": 31571,
-            "Inzidenz": 77.2
+            "Gemeldet": 31563,
+            "Inzidenz": 76.6
         },
         {
             "Datum": "2021-02-09T00:00:00.000Z",
             "Verstorben": 476,
             "Aktive": 2200,
             "Genesen": 29300,
-            "Gemeldet": 31677,
-            "Inzidenz": 78.3
+            "Gemeldet": 31670,
+            "Inzidenz": 77.9
         },
         {
             "Datum": "2021-02-10T00:00:00.000Z",
             "Verstorben": 481,
             "Aktive": 2200,
             "Genesen": 29500,
-            "Gemeldet": 31785,
-            "Inzidenz": 74.0
+            "Gemeldet": 31781,
+            "Inzidenz": 74.1
         },
         {
             "Datum": "2021-02-11T00:00:00.000Z",
             "Verstorben": 485,
             "Aktive": 2100,
             "Genesen": 29700,
-            "Gemeldet": 31933,
-            "Inzidenz": 68.7
+            "Gemeldet": 31926,
+            "Inzidenz": 68.5
         },
         {
             "Datum": "2021-02-12T00:00:00.000Z",
             "Verstorben": 488,
             "Aktive": 2100,
             "Genesen": 29800,
-            "Gemeldet": 32046,
-            "Inzidenz": 67.3
+            "Gemeldet": 32040,
+            "Inzidenz": 66.7
         },
         {
             "Datum": "2021-02-13T00:00:00.000Z",
             "Verstorben": 494,
             "Aktive": 2000,
             "Genesen": 30000,
-            "Gemeldet": 32151,
-            "Inzidenz": 65.4
+            "Gemeldet": 32145,
+            "Inzidenz": 65.3
         },
         {
             "Datum": "2021-02-14T00:00:00.000Z",
             "Verstorben": 497,
             "Aktive": 2000,
             "Genesen": 30100,
-            "Gemeldet": 32236,
-            "Inzidenz": 69.4
+            "Gemeldet": 32230,
+            "Inzidenz": 69.3
         },
         {
             "Datum": "2021-02-15T00:00:00.000Z",
             "Verstorben": 498,
             "Aktive": 2000,
             "Genesen": 30200,
-            "Gemeldet": 32311,
-            "Inzidenz": 68.3
+            "Gemeldet": 32305,
+            "Inzidenz": 68.5
         },
         {
             "Datum": "2021-02-16T00:00:00.000Z",
             "Verstorben": 502,
             "Aktive": 2000,
             "Genesen": 30300,
-            "Gemeldet": 32381,
-            "Inzidenz": 65.0
+            "Gemeldet": 32377,
+            "Inzidenz": 65.3
         },
         {
             "Datum": "2021-02-17T00:00:00.000Z",
             "Verstorben": 505,
             "Aktive": 2000,
-            "Genesen": 30400,
-            "Gemeldet": 32548,
+            "Genesen": 30500,
+            "Gemeldet": 32544,
             "Inzidenz": 70.4
         },
         {
@@ -2949,15 +2949,15 @@
             "Verstorben": 510,
             "Aktive": 1900,
             "Genesen": 30600,
-            "Gemeldet": 32659,
-            "Inzidenz": 67.0
+            "Gemeldet": 32654,
+            "Inzidenz": 67.2
         },
         {
             "Datum": "2021-02-19T00:00:00.000Z",
             "Verstorben": 516,
             "Aktive": 1900,
             "Genesen": 30700,
-            "Gemeldet": 32780,
+            "Gemeldet": 32774,
             "Inzidenz": 67.7
         },
         {
@@ -2965,15 +2965,15 @@
             "Verstorben": 521,
             "Aktive": 1900,
             "Genesen": 30800,
-            "Gemeldet": 32892,
-            "Inzidenz": 68.4
+            "Gemeldet": 32887,
+            "Inzidenz": 68.5
         },
         {
             "Datum": "2021-02-21T00:00:00.000Z",
             "Verstorben": 526,
             "Aktive": 1900,
             "Genesen": 30900,
-            "Gemeldet": 32977,
+            "Gemeldet": 32971,
             "Inzidenz": 68.4
         },
         {
@@ -2981,23 +2981,23 @@
             "Verstorben": 528,
             "Aktive": 1900,
             "Genesen": 31000,
-            "Gemeldet": 33032,
-            "Inzidenz": 66.5
+            "Gemeldet": 33027,
+            "Inzidenz": 66.6
         },
         {
             "Datum": "2021-02-23T00:00:00.000Z",
             "Verstorben": 531,
             "Aktive": 1900,
             "Genesen": 31100,
-            "Gemeldet": 33161,
-            "Inzidenz": 72.0
+            "Gemeldet": 33155,
+            "Inzidenz": 71.8
         },
         {
             "Datum": "2021-02-24T00:00:00.000Z",
             "Verstorben": 531,
             "Aktive": 1900,
             "Genesen": 31200,
-            "Gemeldet": 33308,
+            "Gemeldet": 33303,
             "Inzidenz": 70.1
         },
         {
@@ -3005,95 +3005,95 @@
             "Verstorben": 534,
             "Aktive": 1900,
             "Genesen": 31300,
-            "Gemeldet": 33416,
-            "Inzidenz": 69.9
+            "Gemeldet": 33409,
+            "Inzidenz": 69.7
         },
         {
             "Datum": "2021-02-26T00:00:00.000Z",
             "Verstorben": 535,
             "Aktive": 1900,
             "Genesen": 31500,
-            "Gemeldet": 33544,
-            "Inzidenz": 70.5
+            "Gemeldet": 33537,
+            "Inzidenz": 70.4
         },
         {
             "Datum": "2021-02-27T00:00:00.000Z",
             "Verstorben": 536,
             "Aktive": 2000,
             "Genesen": 31500,
-            "Gemeldet": 33678,
-            "Inzidenz": 72.5
+            "Gemeldet": 33671,
+            "Inzidenz": 72.4
         },
         {
             "Datum": "2021-02-28T00:00:00.000Z",
             "Verstorben": 536,
             "Aktive": 2000,
             "Genesen": 31600,
-            "Gemeldet": 33770,
-            "Inzidenz": 73.2
+            "Gemeldet": 33763,
+            "Inzidenz": 73.1
         },
         {
             "Datum": "2021-03-01T00:00:00.000Z",
             "Verstorben": 537,
             "Aktive": 2000,
             "Genesen": 31700,
-            "Gemeldet": 33874,
-            "Inzidenz": 77.7
+            "Gemeldet": 33867,
+            "Inzidenz": 77.5
         },
         {
             "Datum": "2021-03-02T00:00:00.000Z",
             "Verstorben": 541,
             "Aktive": 2000,
             "Genesen": 31800,
-            "Gemeldet": 34005,
-            "Inzidenz": 77.9
+            "Gemeldet": 33998,
+            "Inzidenz": 77.8
         },
         {
             "Datum": "2021-03-03T00:00:00.000Z",
             "Verstorben": 542,
             "Aktive": 2000,
             "Genesen": 31900,
-            "Gemeldet": 34095,
-            "Inzidenz": 72.6
+            "Gemeldet": 34087,
+            "Inzidenz": 72.4
         },
         {
             "Datum": "2021-03-04T00:00:00.000Z",
             "Verstorben": 542,
             "Aktive": 2000,
             "Genesen": 32100,
-            "Gemeldet": 34206,
-            "Inzidenz": 72.9
+            "Gemeldet": 34198,
+            "Inzidenz": 72.8
         },
         {
             "Datum": "2021-03-05T00:00:00.000Z",
             "Verstorben": 544,
             "Aktive": 2000,
             "Genesen": 32200,
-            "Gemeldet": 34346,
-            "Inzidenz": 74.0
+            "Gemeldet": 34338,
+            "Inzidenz": 73.9
         },
         {
             "Datum": "2021-03-06T00:00:00.000Z",
             "Verstorben": 549,
             "Aktive": 2000,
             "Genesen": 32300,
-            "Gemeldet": 34445,
-            "Inzidenz": 70.8
+            "Gemeldet": 34437,
+            "Inzidenz": 70.7
         },
         {
             "Datum": "2021-03-07T00:00:00.000Z",
             "Verstorben": 550,
             "Aktive": 2000,
             "Genesen": 32400,
-            "Gemeldet": 34477,
-            "Inzidenz": 65.3
+            "Gemeldet": 34469,
+            "Inzidenz": 65.2
         },
         {
             "Datum": "2021-03-08T00:00:00.000Z",
             "Verstorben": 552,
             "Aktive": 2100,
             "Genesen": 32500,
-            "Gemeldet": 34584,
+            "Gemeldet": 34577,
             "Inzidenz": 65.5
         },
         {
@@ -3101,7 +3101,7 @@
             "Verstorben": 553,
             "Aktive": 2100,
             "Genesen": 32600,
-            "Gemeldet": 34737,
+            "Gemeldet": 34730,
             "Inzidenz": 67.6
         },
         {
@@ -3109,31 +3109,31 @@
             "Verstorben": 555,
             "Aktive": 2200,
             "Genesen": 32700,
-            "Gemeldet": 34910,
-            "Inzidenz": 75.2
+            "Gemeldet": 34906,
+            "Inzidenz": 75.6
         },
         {
             "Datum": "2021-03-11T00:00:00.000Z",
             "Verstorben": 555,
             "Aktive": 2300,
             "Genesen": 32800,
-            "Gemeldet": 35149,
-            "Inzidenz": 87.0
+            "Gemeldet": 35142,
+            "Inzidenz": 87.1
         },
         {
             "Datum": "2021-03-12T00:00:00.000Z",
             "Verstorben": 558,
             "Aktive": 2300,
             "Genesen": 32900,
-            "Gemeldet": 35322,
-            "Inzidenz": 90.1
+            "Gemeldet": 35317,
+            "Inzidenz": 90.4
         },
         {
             "Datum": "2021-03-13T00:00:00.000Z",
             "Verstorben": 558,
             "Aktive": 2400,
             "Genesen": 33000,
-            "Gemeldet": 35474,
+            "Gemeldet": 35466,
             "Inzidenz": 95.0
         },
         {
@@ -3141,7 +3141,7 @@
             "Verstorben": 558,
             "Aktive": 2400,
             "Genesen": 33200,
-            "Gemeldet": 35557,
+            "Gemeldet": 35549,
             "Inzidenz": 99.7
         },
         {
@@ -3149,15 +3149,15 @@
             "Verstorben": 559,
             "Aktive": 2500,
             "Genesen": 33300,
-            "Gemeldet": 35739,
-            "Inzidenz": 106.6
+            "Gemeldet": 35733,
+            "Inzidenz": 106.7
         },
         {
             "Datum": "2021-03-16T00:00:00.000Z",
             "Verstorben": 563,
             "Aktive": 2500,
             "Genesen": 33400,
-            "Gemeldet": 35869,
+            "Gemeldet": 35862,
             "Inzidenz": 104.5
         },
         {
@@ -3165,47 +3165,47 @@
             "Verstorben": 565,
             "Aktive": 2600,
             "Genesen": 33500,
-            "Gemeldet": 36130,
-            "Inzidenz": 112.6
+            "Gemeldet": 36123,
+            "Inzidenz": 112.3
         },
         {
             "Datum": "2021-03-18T00:00:00.000Z",
             "Verstorben": 568,
             "Aktive": 2700,
             "Genesen": 33600,
-            "Gemeldet": 36292,
-            "Inzidenz": 105.5
+            "Gemeldet": 36286,
+            "Inzidenz": 105.6
         },
         {
             "Datum": "2021-03-19T00:00:00.000Z",
             "Verstorben": 570,
             "Aktive": 2800,
             "Genesen": 33800,
-            "Gemeldet": 36455,
-            "Inzidenz": 104.6
+            "Gemeldet": 36448,
+            "Inzidenz": 104.4
         },
         {
             "Datum": "2021-03-20T00:00:00.000Z",
             "Verstorben": 571,
             "Aktive": 2800,
             "Genesen": 33900,
-            "Gemeldet": 36640,
-            "Inzidenz": 107.6
+            "Gemeldet": 36634,
+            "Inzidenz": 107.8
         },
         {
             "Datum": "2021-03-21T00:00:00.000Z",
             "Verstorben": 573,
             "Aktive": 2900,
             "Genesen": 34000,
-            "Gemeldet": 36791,
-            "Inzidenz": 113.9
+            "Gemeldet": 36785,
+            "Inzidenz": 114.1
         },
         {
             "Datum": "2021-03-22T00:00:00.000Z",
             "Verstorben": 575,
             "Aktive": 3000,
             "Genesen": 34100,
-            "Gemeldet": 36961,
+            "Gemeldet": 36955,
             "Inzidenz": 112.8
         },
         {
@@ -3213,7 +3213,7 @@
             "Verstorben": 575,
             "Aktive": 3000,
             "Genesen": 34300,
-            "Gemeldet": 37170,
+            "Gemeldet": 37163,
             "Inzidenz": 120.1
         },
         {
@@ -3221,15 +3221,15 @@
             "Verstorben": 578,
             "Aktive": 3100,
             "Genesen": 34400,
-            "Gemeldet": 37405,
-            "Inzidenz": 117.7
+            "Gemeldet": 37399,
+            "Inzidenz": 117.8
         },
         {
             "Datum": "2021-03-25T00:00:00.000Z",
             "Verstorben": 578,
             "Aktive": 3200,
             "Genesen": 34600,
-            "Gemeldet": 37718,
+            "Gemeldet": 37712,
             "Inzidenz": 131.6
         },
         {
@@ -3237,31 +3237,31 @@
             "Verstorben": 579,
             "Aktive": 3200,
             "Genesen": 34800,
-            "Gemeldet": 37921,
-            "Inzidenz": 135.3
+            "Gemeldet": 37915,
+            "Inzidenz": 135.4
         },
         {
             "Datum": "2021-03-27T00:00:00.000Z",
             "Verstorben": 582,
             "Aktive": 3300,
             "Genesen": 34900,
-            "Gemeldet": 38160,
-            "Inzidenz": 140.3
+            "Gemeldet": 38153,
+            "Inzidenz": 140.2
         },
         {
             "Datum": "2021-03-28T00:00:00.000Z",
             "Verstorben": 583,
             "Aktive": 3400,
             "Genesen": 35100,
-            "Gemeldet": 38287,
-            "Inzidenz": 138.1
+            "Gemeldet": 38280,
+            "Inzidenz": 138.0
         },
         {
             "Datum": "2021-03-29T00:00:00.000Z",
             "Verstorben": 585,
             "Aktive": 3400,
             "Genesen": 35200,
-            "Gemeldet": 38457,
+            "Gemeldet": 38451,
             "Inzidenz": 138.1
         },
         {
@@ -3269,15 +3269,15 @@
             "Verstorben": 587,
             "Aktive": 3500,
             "Genesen": 35400,
-            "Gemeldet": 38679,
-            "Inzidenz": 139.3
+            "Gemeldet": 38673,
+            "Inzidenz": 139.4
         },
         {
             "Datum": "2021-03-31T00:00:00.000Z",
             "Verstorben": 588,
             "Aktive": 3600,
             "Genesen": 35600,
-            "Gemeldet": 38925,
+            "Gemeldet": 38919,
             "Inzidenz": 140.3
         },
         {
@@ -3285,71 +3285,71 @@
             "Verstorben": 591,
             "Aktive": 3700,
             "Genesen": 35700,
-            "Gemeldet": 39186,
-            "Inzidenz": 135.5
+            "Gemeldet": 39181,
+            "Inzidenz": 135.6
         },
         {
             "Datum": "2021-04-02T00:00:00.000Z",
             "Verstorben": 591,
             "Aktive": 3700,
             "Genesen": 35900,
-            "Gemeldet": 39468,
-            "Inzidenz": 142.8
+            "Gemeldet": 39464,
+            "Inzidenz": 143.0
         },
         {
             "Datum": "2021-04-03T00:00:00.000Z",
             "Verstorben": 591,
             "Aktive": 3800,
             "Genesen": 36100,
-            "Gemeldet": 39725,
-            "Inzidenz": 144.4
+            "Gemeldet": 39720,
+            "Inzidenz": 144.6
         },
         {
             "Datum": "2021-04-04T00:00:00.000Z",
             "Verstorben": 596,
             "Aktive": 3800,
             "Genesen": 36200,
-            "Gemeldet": 39856,
-            "Inzidenz": 144.8
+            "Gemeldet": 39851,
+            "Inzidenz": 145.0
         },
         {
             "Datum": "2021-04-05T00:00:00.000Z",
             "Verstorben": 598,
             "Aktive": 3800,
             "Genesen": 36400,
-            "Gemeldet": 40067,
-            "Inzidenz": 148.6
+            "Gemeldet": 40063,
+            "Inzidenz": 148.8
         },
         {
             "Datum": "2021-04-06T00:00:00.000Z",
             "Verstorben": 601,
             "Aktive": 3900,
             "Genesen": 36600,
-            "Gemeldet": 40222,
-            "Inzidenz": 142.4
+            "Gemeldet": 40218,
+            "Inzidenz": 142.6
         },
         {
             "Datum": "2021-04-07T00:00:00.000Z",
             "Verstorben": 602,
             "Aktive": 4000,
             "Genesen": 36900,
-            "Gemeldet": 40488,
+            "Gemeldet": 40483,
             "Inzidenz": 144.3
         },
         {
             "Datum": "2021-04-08T00:00:00.000Z",
             "Verstorben": 605,
-            "Aktive": 3900,
+            "Aktive": 4000,
             "Genesen": 37100,
-            "Gemeldet": 40749,
-            "Inzidenz": 144.3
+            "Gemeldet": 40748,
+            "Inzidenz": 144.6
         },
         {
             "Datum": "2021-04-09T00:00:00.000Z",
             "Verstorben": 608,
             "Aktive": 4000,
             "Genesen": 37300,
-            "Gemeldet": 40966,
+            "Gemeldet": 40962,
             "Inzidenz": 138.3
         },
         {
@@ -3357,39 +3357,39 @@
             "Verstorben": 610,
             "Aktive": 4100,
             "Genesen": 37600,
-            "Gemeldet": 41261,
-            "Inzidenz": 141.8
+            "Gemeldet": 41257,
+            "Inzidenz": 141.9
         },
         {
             "Datum": "2021-04-11T00:00:00.000Z",
             "Verstorben": 611,
             "Aktive": 4200,
             "Genesen": 37700,
-            "Gemeldet": 41609,
-            "Inzidenz": 161.8
+            "Gemeldet": 41602,
+            "Inzidenz": 161.6
         },
         {
             "Datum": "2021-04-12T00:00:00.000Z",
             "Verstorben": 612,
             "Aktive": 4300,
             "Genesen": 38000,
-            "Gemeldet": 41786,
-            "Inzidenz": 158.7
+            "Gemeldet": 41779,
+            "Inzidenz": 158.4
         },
         {
             "Datum": "2021-04-13T00:00:00.000Z",
             "Verstorben": 615,
             "Aktive": 4300,
             "Genesen": 38200,
-            "Gemeldet": 42089,
-            "Inzidenz": 172.3
+            "Gemeldet": 42084,
+            "Inzidenz": 172.2
         },
         {
             "Datum": "2021-04-14T00:00:00.000Z",
             "Verstorben": 619,
             "Aktive": 4500,
             "Genesen": 38400,
-            "Gemeldet": 42428,
+            "Gemeldet": 42423,
             "Inzidenz": 179.0
         },
         {
@@ -3397,15 +3397,15 @@
             "Verstorben": 621,
             "Aktive": 4500,
             "Genesen": 38600,
-            "Gemeldet": 42674,
-            "Inzidenz": 177.7
+            "Gemeldet": 42669,
+            "Inzidenz": 177.3
         },
         {
             "Datum": "2021-04-16T00:00:00.000Z",
             "Verstorben": 624,
             "Aktive": 4700,
             "Genesen": 38900,
-            "Gemeldet": 43030,
+            "Gemeldet": 43026,
             "Inzidenz": 190.5
         },
         {
@@ -3413,23 +3413,23 @@
             "Verstorben": 625,
             "Aktive": 4800,
             "Genesen": 39100,
-            "Gemeldet": 43352,
-            "Inzidenz": 193.0
+            "Gemeldet": 43347,
+            "Inzidenz": 192.9
         },
         {
             "Datum": "2021-04-18T00:00:00.000Z",
             "Verstorben": 628,
             "Aktive": 5000,
             "Genesen": 39300,
-            "Gemeldet": 43748,
-            "Inzidenz": 197.4
+            "Gemeldet": 43740,
+            "Inzidenz": 197.3
         },
         {
             "Datum": "2021-04-19T00:00:00.000Z",
             "Verstorben": 630,
             "Aktive": 5100,
             "Genesen": 39500,
-            "Gemeldet": 44056,
+            "Gemeldet": 44049,
             "Inzidenz": 209.5
         },
         {
@@ -3437,31 +3437,31 @@
             "Verstorben": 631,
             "Aktive": 5200,
             "Genesen": 39700,
-            "Gemeldet": 44389,
-            "Inzidenz": 212.3
+            "Gemeldet": 44385,
+            "Inzidenz": 212.4
         },
         {
             "Datum": "2021-04-21T00:00:00.000Z",
             "Verstorben": 632,
             "Aktive": 5300,
             "Genesen": 40000,
-            "Gemeldet": 44822,
-            "Inzidenz": 221.0
+            "Gemeldet": 44814,
+            "Inzidenz": 220.7
         },
         {
             "Datum": "2021-04-22T00:00:00.000Z",
             "Verstorben": 637,
             "Aktive": 5500,
             "Genesen": 40200,
-            "Gemeldet": 45337,
-            "Inzidenz": 245.8
+            "Gemeldet": 45331,
+            "Inzidenz": 245.7
         },
         {
             "Datum": "2021-04-23T00:00:00.000Z",
             "Verstorben": 640,
             "Aktive": 5600,
             "Genesen": 40500,
-            "Gemeldet": 45748,
+            "Gemeldet": 45745,
             "Inzidenz": 250.9
         },
         {
@@ -3469,15 +3469,15 @@
             "Verstorben": 643,
             "Aktive": 5700,
             "Genesen": 40800,
-            "Gemeldet": 46083,
-            "Inzidenz": 252.1
+            "Gemeldet": 46077,
+            "Inzidenz": 252.0
         },
         {
             "Datum": "2021-04-25T00:00:00.000Z",
             "Verstorben": 645,
             "Aktive": 5700,
             "Genesen": 41000,
-            "Gemeldet": 46397,
+            "Gemeldet": 46389,
             "Inzidenz": 244.5
         },
         {
@@ -3485,175 +3485,175 @@
             "Verstorben": 645,
             "Aktive": 5800,
             "Genesen": 41300,
-            "Gemeldet": 46656,
-            "Inzidenz": 240.0
+            "Gemeldet": 46648,
+            "Inzidenz": 239.9
         },
         {
             "Datum": "2021-04-27T00:00:00.000Z",
             "Verstorben": 649,
             "Aktive": 5700,
-            "Genesen": 41500,
-            "Gemeldet": 46881,
-            "Inzidenz": 230.0
+            "Genesen": 41600,
+            "Gemeldet": 46874,
+            "Inzidenz": 229.7
         },
         {
             "Datum": "2021-04-28T00:00:00.000Z",
             "Verstorben": 651,
             "Aktive": 5700,
             "Genesen": 41900,
-            "Gemeldet": 47180,
-            "Inzidenz": 217.6
+            "Gemeldet": 47174,
+            "Inzidenz": 217.8
         },
         {
             "Datum": "2021-04-29T00:00:00.000Z",
             "Verstorben": 653,
             "Aktive": 5700,
             "Genesen": 42200,
-            "Gemeldet": 47471,
-            "Inzidenz": 197.0
+            "Gemeldet": 47467,
+            "Inzidenz": 197.1
         },
         {
             "Datum": "2021-04-30T00:00:00.000Z",
             "Verstorben": 655,
             "Aktive": 5600,
             "Genesen": 42500,
-            "Gemeldet": 47760,
-            "Inzidenz": 185.7
+            "Gemeldet": 47758,
+            "Inzidenz": 185.8
         },
         {
             "Datum": "2021-05-01T00:00:00.000Z",
             "Verstorben": 659,
             "Aktive": 5600,
             "Genesen": 42800,
-            "Gemeldet": 48174,
-            "Inzidenz": 193.0
+            "Gemeldet": 48171,
+            "Inzidenz": 193.3
         },
         {
             "Datum": "2021-05-02T00:00:00.000Z",
             "Verstorben": 660,
             "Aktive": 5500,
             "Genesen": 43100,
-            "Gemeldet": 48421,
-            "Inzidenz": 186.8
+            "Gemeldet": 48415,
+            "Inzidenz": 187.0
         },
         {
             "Datum": "2021-05-03T00:00:00.000Z",
             "Verstorben": 662,
             "Aktive": 5300,
             "Genesen": 43500,
-            "Gemeldet": 48604,
-            "Inzidenz": 179.8
+            "Gemeldet": 48598,
+            "Inzidenz": 180.0
         },
         {
             "Datum": "2021-05-04T00:00:00.000Z",
             "Verstorben": 664,
             "Aktive": 5200,
             "Genesen": 43800,
-            "Gemeldet": 48852,
-            "Inzidenz": 181.9
+            "Gemeldet": 48848,
+            "Inzidenz": 182.2
         },
         {
             "Datum": "2021-05-05T00:00:00.000Z",
             "Verstorben": 667,
             "Aktive": 5100,
             "Genesen": 44200,
-            "Gemeldet": 49164,
-            "Inzidenz": 183.1
+            "Gemeldet": 49159,
+            "Inzidenz": 183.2
         },
         {
             "Datum": "2021-05-06T00:00:00.000Z",
             "Verstorben": 667,
             "Aktive": 4900,
-            "Genesen": 44500,
-            "Gemeldet": 49404,
-            "Inzidenz": 178.4
+            "Genesen": 44600,
+            "Gemeldet": 49397,
+            "Inzidenz": 178.1
         },
         {
             "Datum": "2021-05-07T00:00:00.000Z",
             "Verstorben": 671,
             "Aktive": 4700,
             "Genesen": 44900,
-            "Gemeldet": 49610,
-            "Inzidenz": 170.7
+            "Gemeldet": 49602,
+            "Inzidenz": 170.2
         },
         {
             "Datum": "2021-05-08T00:00:00.000Z",
             "Verstorben": 674,
             "Aktive": 4600,
             "Genesen": 45200,
-            "Gemeldet": 49861,
-            "Inzidenz": 155.7
+            "Gemeldet": 49852,
+            "Inzidenz": 155.1
         },
         {
             "Datum": "2021-05-09T00:00:00.000Z",
             "Verstorben": 680,
             "Aktive": 4400,
             "Genesen": 45500,
-            "Gemeldet": 50047,
-            "Inzidenz": 150.1
+            "Gemeldet": 50038,
+            "Inzidenz": 149.8
         },
         {
             "Datum": "2021-05-10T00:00:00.000Z",
             "Verstorben": 682,
             "Aktive": 4300,
             "Genesen": 45900,
-            "Gemeldet": 50120,
-            "Inzidenz": 139.9
+            "Gemeldet": 50111,
+            "Inzidenz": 139.6
         },
         {
             "Datum": "2021-05-11T00:00:00.000Z",
             "Verstorben": 687,
             "Aktive": 4100,
             "Genesen": 46100,
-            "Gemeldet": 50290,
-            "Inzidenz": 132.7
+            "Gemeldet": 50282,
+            "Inzidenz": 132.3
         },
         {
             "Datum": "2021-05-12T00:00:00.000Z",
             "Verstorben": 689,
             "Aktive": 4000,
             "Genesen": 46400,
-            "Gemeldet": 50484,
-            "Inzidenz": 121.8
+            "Gemeldet": 50475,
+            "Inzidenz": 121.5
         },
         {
             "Datum": "2021-05-13T00:00:00.000Z",
             "Verstorben": 691,
             "Aktive": 3800,
             "Genesen": 46700,
-            "Gemeldet": 50605,
-            "Inzidenz": 110.8
+            "Gemeldet": 50596,
+            "Inzidenz": 110.7
         },
         {
             "Datum": "2021-05-14T00:00:00.000Z",
             "Verstorben": 692,
-            "Aktive": 3700,
+            "Aktive": 3600,
             "Genesen": 47000,
-            "Gemeldet": 50673,
-            "Inzidenz": 98.1
+            "Gemeldet": 50664,
+            "Inzidenz": 98.0
         },
         {
             "Datum": "2021-05-15T00:00:00.000Z",
             "Verstorben": 695,
             "Aktive": 3500,
             "Genesen": 47300,
-            "Gemeldet": 50882,
-            "Inzidenz": 94.2
+            "Gemeldet": 50872,
+            "Inzidenz": 94.1
         },
         {
             "Datum": "2021-05-16T00:00:00.000Z",
             "Verstorben": 696,
             "Aktive": 3400,
             "Genesen": 47500,
-            "Gemeldet": 51173,
-            "Inzidenz": 103.9
+            "Gemeldet": 51163,
+            "Inzidenz": 103.8
         },
         {
             "Datum": "2021-05-17T00:00:00.000Z",
             "Verstorben": 699,
             "Aktive": 3200,
             "Genesen": 47800,
-            "Gemeldet": 51230,
+            "Gemeldet": 51220,
             "Inzidenz": 102.4
         },
         {
@@ -3661,39 +3661,39 @@
             "Verstorben": 699,
             "Aktive": 3100,
             "Genesen": 48000,
-            "Gemeldet": 51403,
-            "Inzidenz": 102.7
+            "Gemeldet": 51393,
+            "Inzidenz": 102.5
         },
         {
             "Datum": "2021-05-19T00:00:00.000Z",
             "Verstorben": 699,
             "Aktive": 2900,
             "Genesen": 48300,
-            "Gemeldet": 51513,
-            "Inzidenz": 95.0
+            "Gemeldet": 51503,
+            "Inzidenz": 94.9
         },
         {
             "Datum": "2021-05-20T00:00:00.000Z",
             "Verstorben": 701,
             "Aktive": 2800,
             "Genesen": 48500,
-            "Gemeldet": 51621,
-            "Inzidenz": 93.8
+            "Gemeldet": 51611,
+            "Inzidenz": 93.7
         },
         {
             "Datum": "2021-05-21T00:00:00.000Z",
             "Verstorben": 703,
             "Aktive": 2600,
             "Genesen": 48800,
-            "Gemeldet": 51774,
-            "Inzidenz": 101.6
+            "Gemeldet": 51764,
+            "Inzidenz": 101.5
         },
         {
             "Datum": "2021-05-22T00:00:00.000Z",
             "Verstorben": 704,
             "Aktive": 2500,
             "Genesen": 49000,
-            "Gemeldet": 51861,
+            "Gemeldet": 51852,
             "Inzidenz": 90.4
         },
         {
@@ -3701,55 +3701,55 @@
             "Verstorben": 706,
             "Aktive": 2400,
             "Genesen": 49200,
-            "Gemeldet": 51916,
-            "Inzidenz": 68.6
+            "Gemeldet": 51907,
+            "Inzidenz": 68.7
         },
         {
             "Datum": "2021-05-24T00:00:00.000Z",
             "Verstorben": 708,
             "Aktive": 2200,
             "Genesen": 49300,
-            "Gemeldet": 51993,
-            "Inzidenz": 70.4
+            "Gemeldet": 51984,
+            "Inzidenz": 70.5
         },
         {
             "Datum": "2021-05-25T00:00:00.000Z",
             "Verstorben": 712,
             "Aktive": 2100,
             "Genesen": 49500,
-            "Gemeldet": 52038,
-            "Inzidenz": 58.6
+            "Gemeldet": 52029,
+            "Inzidenz": 58.7
         },
         {
             "Datum": "2021-05-26T00:00:00.000Z",
             "Verstorben": 713,
             "Aktive": 2000,
             "Genesen": 49700,
-            "Gemeldet": 52122,
-            "Inzidenz": 56.2
+            "Gemeldet": 52114,
+            "Inzidenz": 56.4
         },
         {
             "Datum": "2021-05-27T00:00:00.000Z",
             "Verstorben": 714,
             "Aktive": 1900,
             "Genesen": 49800,
-            "Gemeldet": 52217,
-            "Inzidenz": 55.0
+            "Gemeldet": 52208,
+            "Inzidenz": 55.1
         },
         {
             "Datum": "2021-05-28T00:00:00.000Z",
             "Verstorben": 714,
             "Aktive": 1800,
             "Genesen": 50000,
-            "Gemeldet": 52273,
+            "Gemeldet": 52264,
             "Inzidenz": 46.1
         },
         {
             "Datum": "2021-05-29T00:00:00.000Z",
             "Verstorben": 714,
             "Aktive": 1700,
-            "Genesen": 50100,
-            "Gemeldet": 52347,
+            "Genesen": 50200,
+            "Gemeldet": 52338,
             "Inzidenz": 44.9
         },
         {
@@ -3757,7 +3757,7 @@
             "Verstorben": 714,
             "Aktive": 1600,
             "Genesen": 50300,
-            "Gemeldet": 52376,
+            "Gemeldet": 52367,
             "Inzidenz": 42.5
         },
         {
@@ -3765,7 +3765,7 @@
             "Verstorben": 716,
             "Aktive": 1500,
             "Genesen": 50400,
-            "Gemeldet": 52424,
+            "Gemeldet": 52415,
             "Inzidenz": 39.8
         },
         {
@@ -3773,7 +3773,7 @@
             "Verstorben": 717,
             "Aktive": 1400,
             "Genesen": 50600,
-            "Gemeldet": 52484,
+            "Gemeldet": 52475,
             "Inzidenz": 41.2
         },
         {
@@ -3781,15 +3781,15 @@
             "Verstorben": 717,
             "Aktive": 1300,
             "Genesen": 50700,
-            "Gemeldet": 52558,
-            "Inzidenz": 40.2
+            "Gemeldet": 52549,
+            "Inzidenz": 40.1
         },
         {
             "Datum": "2021-06-03T00:00:00.000Z",
             "Verstorben": 718,
             "Aktive": 1200,
             "Genesen": 50800,
-            "Gemeldet": 52587,
+            "Gemeldet": 52578,
             "Inzidenz": 34.1
         },
         {
@@ -3797,7 +3797,7 @@
             "Verstorben": 719,
             "Aktive": 1100,
             "Genesen": 51000,
-            "Gemeldet": 52622,
+            "Gemeldet": 52613,
             "Inzidenz": 32.2
         },
         {
@@ -3805,7 +3805,7 @@
             "Verstorben": 719,
             "Aktive": 1000,
             "Genesen": 51100,
-            "Gemeldet": 52654,
+            "Gemeldet": 52645,
             "Inzidenz": 28.3
         },
         {
@@ -3813,7 +3813,7 @@
             "Verstorben": 720,
             "Aktive": 990,
             "Genesen": 51200,
-            "Gemeldet": 52672,
+            "Gemeldet": 52663,
             "Inzidenz": 27.3
         },
         {
@@ -3821,7 +3821,7 @@
             "Verstorben": 721,
             "Aktive": 940,
             "Genesen": 51200,
-            "Gemeldet": 52694,
+            "Gemeldet": 52685,
             "Inzidenz": 24.9
         },
         {
@@ -3829,7 +3829,7 @@
             "Verstorben": 721,
             "Aktive": 900,
             "Genesen": 51300,
-            "Gemeldet": 52744,
+            "Gemeldet": 52735,
             "Inzidenz": 24.0
         },
         {
@@ -3837,7 +3837,7 @@
             "Verstorben": 722,
             "Aktive": 850,
             "Genesen": 51400,
-            "Gemeldet": 52792,
+            "Gemeldet": 52783,
             "Inzidenz": 21.6
         },
         {
@@ -3845,63 +3845,63 @@
             "Verstorben": 723,
             "Aktive": 800,
             "Genesen": 51500,
-            "Gemeldet": 52843,
-            "Inzidenz": 23.6
+            "Gemeldet": 52835,
+            "Inzidenz": 23.7
         },
         {
             "Datum": "2021-06-11T00:00:00.000Z",
             "Verstorben": 723,
             "Aktive": 760,
             "Genesen": 51500,
-            "Gemeldet": 52869,
-            "Inzidenz": 22.8
+            "Gemeldet": 52861,
+            "Inzidenz": 22.9
         },
         {
             "Datum": "2021-06-12T00:00:00.000Z",
             "Verstorben": 723,
             "Aktive": 700,
             "Genesen": 51600,
-            "Gemeldet": 52887,
-            "Inzidenz": 21.5
+            "Gemeldet": 52879,
+            "Inzidenz": 21.6
         },
         {
             "Datum": "2021-06-13T00:00:00.000Z",
             "Verstorben": 723,
-            "Aktive": 660,
+            "Aktive": 670,
             "Genesen": 51700,
-            "Gemeldet": 52904,
-            "Inzidenz": 21.4
+            "Gemeldet": 52896,
+            "Inzidenz": 21.5
         },
         {
             "Datum": "2021-06-14T00:00:00.000Z",
             "Verstorben": 723,
-            "Aktive": 620,
+            "Aktive": 630,
             "Genesen": 51700,
-            "Gemeldet": 52927,
-            "Inzidenz": 21.5
+            "Gemeldet": 52919,
+            "Inzidenz": 21.6
         },
         {
             "Datum": "2021-06-15T00:00:00.000Z",
             "Verstorben": 723,
             "Aktive": 590,
             "Genesen": 51800,
-            "Gemeldet": 52947,
-            "Inzidenz": 18.7
+            "Gemeldet": 52939,
+            "Inzidenz": 18.8
         },
         {
             "Datum": "2021-06-16T00:00:00.000Z",
             "Verstorben": 723,
             "Aktive": 530,
             "Genesen": 51900,
-            "Gemeldet": 52969,
-            "Inzidenz": 16.3
+            "Gemeldet": 52961,
+            "Inzidenz": 16.4
         },
         {
             "Datum": "2021-06-17T00:00:00.000Z",
             "Verstorben": 723,
             "Aktive": 510,
             "Genesen": 51900,
-            "Gemeldet": 52984,
+            "Gemeldet": 52976,
             "Inzidenz": 13.0
         },
         {
@@ -3909,7 +3909,7 @@
             "Verstorben": 723,
             "Aktive": 480,
             "Genesen": 51900,
-            "Gemeldet": 53004,
+            "Gemeldet": 52996,
             "Inzidenz": 12.5
         },
         {
@@ -3917,7 +3917,7 @@
             "Verstorben": 724,
             "Aktive": 460,
             "Genesen": 52000,
-            "Gemeldet": 53022,
+            "Gemeldet": 53014,
             "Inzidenz": 12.5
         },
         {
@@ -3925,15 +3925,15 @@
             "Verstorben": 724,
             "Aktive": 440,
             "Genesen": 52000,
-            "Gemeldet": 53034,
+            "Gemeldet": 53026,
             "Inzidenz": 12.0
         },
         {
             "Datum": "2021-06-21T00:00:00.000Z",
             "Verstorben": 726,
             "Aktive": 410,
-            "Genesen": 52000,
-            "Gemeldet": 53040,
+            "Genesen": 52100,
+            "Gemeldet": 53032,
             "Inzidenz": 10.4
         },
         {
@@ -3941,7 +3941,7 @@
             "Verstorben": 726,
             "Aktive": 380,
             "Genesen": 52100,
-            "Gemeldet": 53052,
+            "Gemeldet": 53044,
             "Inzidenz": 9.7
         },
         {
@@ -3949,7 +3949,7 @@
             "Verstorben": 726,
             "Aktive": 360,
             "Genesen": 52100,
-            "Gemeldet": 53072,
+            "Gemeldet": 53064,
             "Inzidenz": 9.5
         },
         {
@@ -3957,15 +3957,15 @@
             "Verstorben": 727,
             "Aktive": 340,
             "Genesen": 52200,
-            "Gemeldet": 53092,
+            "Gemeldet": 53084,
             "Inzidenz": 10.0
         },
         {
             "Datum": "2021-06-25T00:00:00.000Z",
             "Verstorben": 727,
-            "Aktive": 320,
+            "Aktive": 330,
             "Genesen": 52200,
-            "Gemeldet": 53105,
+            "Gemeldet": 53097,
             "Inzidenz": 9.3
         },
         {
@@ -3973,7 +3973,7 @@
             "Verstorben": 727,
             "Aktive": 310,
             "Genesen": 52200,
-            "Gemeldet": 53119,
+            "Gemeldet": 53111,
             "Inzidenz": 9.0
         },
         {
@@ -3981,15 +3981,15 @@
             "Verstorben": 727,
             "Aktive": 290,
             "Genesen": 52200,
-            "Gemeldet": 53128,
+            "Gemeldet": 53120,
             "Inzidenz": 8.7
         },
         {
             "Datum": "2021-06-28T00:00:00.000Z",
             "Verstorben": 727,
-            "Aktive": 280,
+            "Aktive": 290,
             "Genesen": 52300,
-            "Gemeldet": 53149,
+            "Gemeldet": 53141,
             "Inzidenz": 10.1
         },
         {
@@ -3997,15 +3997,15 @@
             "Verstorben": 727,
             "Aktive": 270,
             "Genesen": 52300,
-            "Gemeldet": 53160,
+            "Gemeldet": 53152,
             "Inzidenz": 10.0
         },
         {
             "Datum": "2021-06-30T00:00:00.000Z",
             "Verstorben": 727,
-            "Aktive": 270,
+            "Aktive": 280,
             "Genesen": 52300,
-            "Gemeldet": 53185,
+            "Gemeldet": 53177,
             "Inzidenz": 10.4
         },
         {
@@ -4013,15 +4013,15 @@
             "Verstorben": 727,
             "Aktive": 270,
             "Genesen": 52300,
-            "Gemeldet": 53203,
+            "Gemeldet": 53195,
             "Inzidenz": 10.2
         },
         {
             "Datum": "2021-07-02T00:00:00.000Z",
             "Verstorben": 727,
-            "Aktive": 260,
+            "Aktive": 270,
             "Genesen": 52400,
-            "Gemeldet": 53217,
+            "Gemeldet": 53209,
             "Inzidenz": 10.3
         },
         {
@@ -4029,7 +4029,7 @@
             "Verstorben": 727,
             "Aktive": 260,
             "Genesen": 52400,
-            "Gemeldet": 53233,
+            "Gemeldet": 53225,
             "Inzidenz": 10.5
         },
         {
@@ -4037,7 +4037,7 @@
             "Verstorben": 728,
             "Aktive": 260,
             "Genesen": 52400,
-            "Gemeldet": 53252,
+            "Gemeldet": 53244,
             "Inzidenz": 11.4
         },
         {
@@ -4045,7 +4045,7 @@
             "Verstorben": 728,
             "Aktive": 280,
             "Genesen": 52400,
-            "Gemeldet": 53259,
+            "Gemeldet": 53251,
             "Inzidenz": 10.2
         },
         {
@@ -4053,15 +4053,15 @@
             "Verstorben": 728,
             "Aktive": 290,
             "Genesen": 52400,
-            "Gemeldet": 53281,
+            "Gemeldet": 53273,
             "Inzidenz": 11.2
         },
         {
             "Datum": "2021-07-07T00:00:00.000Z",
             "Verstorben": 728,
-            "Aktive": 300,
-            "Genesen": 52400,
-            "Gemeldet": 53316,
+            "Aktive": 310,
+            "Genesen": 52500,
+            "Gemeldet": 53308,
             "Inzidenz": 12.1
         },
         {
@@ -4069,7 +4069,7 @@
             "Verstorben": 729,
             "Aktive": 320,
             "Genesen": 52500,
-            "Gemeldet": 53341,
+            "Gemeldet": 53333,
             "Inzidenz": 12.7
         },
         {
@@ -4077,7 +4077,7 @@
             "Verstorben": 729,
             "Aktive": 340,
             "Genesen": 52500,
-            "Gemeldet": 53374,
+            "Gemeldet": 53366,
             "Inzidenz": 14.5
         },
         {
@@ -4085,87 +4085,87 @@
             "Verstorben": 729,
             "Aktive": 360,
             "Genesen": 52500,
-            "Gemeldet": 53404,
-            "Inzidenz": 15.8
+            "Gemeldet": 53395,
+            "Inzidenz": 15.7
         },
         {
             "Datum": "2021-07-11T00:00:00.000Z",
             "Verstorben": 729,
             "Aktive": 380,
             "Genesen": 52500,
-            "Gemeldet": 53421,
-            "Inzidenz": 15.6
+            "Gemeldet": 53412,
+            "Inzidenz": 15.5
         },
         {
             "Datum": "2021-07-12T00:00:00.000Z",
             "Verstorben": 730,
             "Aktive": 400,
             "Genesen": 52500,
-            "Gemeldet": 53449,
-            "Inzidenz": 17.5
+            "Gemeldet": 53440,
+            "Inzidenz": 17.4
         },
         {
             "Datum": "2021-07-13T00:00:00.000Z",
             "Verstorben": 730,
-            "Aktive": 430,
+            "Aktive": 420,
             "Genesen": 52500,
-            "Gemeldet": 53493,
-            "Inzidenz": 19.6
+            "Gemeldet": 53483,
+            "Inzidenz": 19.4
         },
         {
             "Datum": "2021-07-14T00:00:00.000Z",
             "Verstorben": 730,
             "Aktive": 470,
             "Genesen": 52600,
-            "Gemeldet": 53538,
-            "Inzidenz": 20.5
+            "Gemeldet": 53528,
+            "Inzidenz": 20.3
         },
         {
             "Datum": "2021-07-15T00:00:00.000Z",
             "Verstorben": 730,
-            "Aktive": 490,
+            "Aktive": 480,
             "Genesen": 52600,
-            "Gemeldet": 53571,
-            "Inzidenz": 21.2
+            "Gemeldet": 53561,
+            "Inzidenz": 21.0
         },
         {
             "Datum": "2021-07-16T00:00:00.000Z",
             "Verstorben": 730,
             "Aktive": 510,
             "Genesen": 52600,
-            "Gemeldet": 53605,
-            "Inzidenz": 21.3
+            "Gemeldet": 53595,
+            "Inzidenz": 21.1
         },
         {
             "Datum": "2021-07-17T00:00:00.000Z",
             "Verstorben": 730,
             "Aktive": 540,
             "Genesen": 52600,
-            "Gemeldet": 53673,
-            "Inzidenz": 24.8
+            "Gemeldet": 53663,
+            "Inzidenz": 24.7
         },
         {
             "Datum": "2021-07-18T00:00:00.000Z",
             "Verstorben": 730,
-            "Aktive": 570,
+            "Aktive": 560,
             "Genesen": 52600,
-            "Gemeldet": 53697,
-            "Inzidenz": 25.5
+            "Gemeldet": 53687,
+            "Inzidenz": 25.4
         },
         {
             "Datum": "2021-07-19T00:00:00.000Z",
             "Verstorben": 730,
             "Aktive": 590,
             "Genesen": 52600,
-            "Gemeldet": 53733,
-            "Inzidenz": 26.2
+            "Gemeldet": 53723,
+            "Inzidenz": 26.1
         },
         {
             "Datum": "2021-07-20T00:00:00.000Z",
             "Verstorben": 730,
             "Aktive": 630,
             "Genesen": 52700,
-            "Gemeldet": 53773,
+            "Gemeldet": 53763,
             "Inzidenz": 25.8
         },
         {
@@ -4173,7 +4173,7 @@
             "Verstorben": 730,
             "Aktive": 650,
             "Genesen": 52700,
-            "Gemeldet": 53826,
+            "Gemeldet": 53816,
             "Inzidenz": 26.6
         },
         {
@@ -4181,15 +4181,15 @@
             "Verstorben": 730,
             "Aktive": 670,
             "Genesen": 52700,
-            "Gemeldet": 53906,
+            "Gemeldet": 53896,
             "Inzidenz": 30.9
         },
         {
             "Datum": "2021-07-23T00:00:00.000Z",
             "Verstorben": 730,
-            "Aktive": 700,
+            "Aktive": 690,
             "Genesen": 52800,
-            "Gemeldet": 53974,
+            "Gemeldet": 53964,
             "Inzidenz": 34.1
         },
         {
@@ -4197,7 +4197,7 @@
             "Verstorben": 730,
             "Aktive": 720,
             "Genesen": 52800,
-            "Gemeldet": 54029,
+            "Gemeldet": 54019,
             "Inzidenz": 32.9
         },
         {
@@ -4205,15 +4205,15 @@
             "Verstorben": 730,
             "Aktive": 740,
             "Genesen": 52800,
-            "Gemeldet": 54056,
+            "Gemeldet": 54046,
             "Inzidenz": 33.1
         },
         {
             "Datum": "2021-07-26T00:00:00.000Z",
             "Verstorben": 730,
-            "Aktive": 760,
+            "Aktive": 750,
             "Genesen": 52900,
-            "Gemeldet": 54074,
+            "Gemeldet": 54064,
             "Inzidenz": 31.5
         },
         {
@@ -4221,7 +4221,7 @@
             "Verstorben": 730,
             "Aktive": 790,
             "Genesen": 52900,
-            "Gemeldet": 54155,
+            "Gemeldet": 54145,
             "Inzidenz": 35.3
         },
         {
@@ -4229,7 +4229,7 @@
             "Verstorben": 730,
             "Aktive": 810,
             "Genesen": 53000,
-            "Gemeldet": 54220,
+            "Gemeldet": 54210,
             "Inzidenz": 36.4
         },
         {
@@ -4237,63 +4237,63 @@
             "Verstorben": 730,
             "Aktive": 830,
             "Genesen": 53000,
-            "Gemeldet": 54292,
-            "Inzidenz": 35.6
+            "Gemeldet": 54283,
+            "Inzidenz": 35.7
         },
         {
             "Datum": "2021-07-30T00:00:00.000Z",
             "Verstorben": 730,
             "Aktive": 860,
             "Genesen": 53000,
-            "Gemeldet": 54342,
-            "Inzidenz": 34.0
+            "Gemeldet": 54333,
+            "Inzidenz": 34.1
         },
         {
             "Datum": "2021-07-31T00:00:00.000Z",
             "Verstorben": 730,
             "Aktive": 890,
             "Genesen": 53100,
-            "Gemeldet": 54426,
-            "Inzidenz": 36.6
+            "Gemeldet": 54417,
+            "Inzidenz": 36.7
         },
         {
             "Datum": "2021-08-01T00:00:00.000Z",
             "Verstorben": 730,
             "Aktive": 920,
             "Genesen": 53100,
-            "Gemeldet": 54445,
-            "Inzidenz": 35.9
+            "Gemeldet": 54436,
+            "Inzidenz": 36.0
         },
         {
             "Datum": "2021-08-02T00:00:00.000Z",
             "Verstorben": 730,
             "Aktive": 970,
             "Genesen": 53100,
-            "Gemeldet": 54544,
-            "Inzidenz": 43.4
+            "Gemeldet": 54535,
+            "Inzidenz": 43.5
         },
         {
             "Datum": "2021-08-03T00:00:00.000Z",
             "Verstorben": 730,
             "Aktive": 1000,
             "Genesen": 53200,
-            "Gemeldet": 54642,
-            "Inzidenz": 44.9
+            "Gemeldet": 54633,
+            "Inzidenz": 45.0
         },
         {
             "Datum": "2021-08-04T00:00:00.000Z",
             "Verstorben": 730,
             "Aktive": 1100,
             "Genesen": 53200,
-            "Gemeldet": 54692,
-            "Inzidenz": 43.6
+            "Gemeldet": 54683,
+            "Inzidenz": 43.7
         },
         {
             "Datum": "2021-08-05T00:00:00.000Z",
             "Verstorben": 730,
             "Aktive": 1100,
             "Genesen": 53300,
-            "Gemeldet": 54807,
+            "Gemeldet": 54798,
             "Inzidenz": 47.5
         },
         {
@@ -4301,7 +4301,7 @@
             "Verstorben": 730,
             "Aktive": 1200,
             "Genesen": 53300,
-            "Gemeldet": 54867,
+            "Gemeldet": 54858,
             "Inzidenz": 48.5
         },
         {
@@ -4309,7 +4309,7 @@
             "Verstorben": 730,
             "Aktive": 1200,
             "Genesen": 53400,
-            "Gemeldet": 54985,
+            "Gemeldet": 54976,
             "Inzidenz": 51.6
         },
         {
@@ -4317,7 +4317,7 @@
             "Verstorben": 730,
             "Aktive": 1300,
             "Genesen": 53400,
-            "Gemeldet": 55037,
+            "Gemeldet": 55028,
             "Inzidenz": 54.6
         },
         {
@@ -4325,7 +4325,7 @@
             "Verstorben": 730,
             "Aktive": 1400,
             "Genesen": 53400,
-            "Gemeldet": 55119,
+            "Gemeldet": 55110,
             "Inzidenz": 53.1
         },
         {
@@ -4333,15 +4333,15 @@
             "Verstorben": 731,
             "Aktive": 1500,
             "Genesen": 53500,
-            "Gemeldet": 55200,
+            "Gemeldet": 55191,
             "Inzidenz": 51.5
         },
         {
             "Datum": "2021-08-11T00:00:00.000Z",
             "Verstorben": 731,
             "Aktive": 1600,
-            "Genesen": 53500,
-            "Gemeldet": 55326,
+            "Genesen": 53600,
+            "Gemeldet": 55317,
             "Inzidenz": 58.5
         },
         {
@@ -4349,15 +4349,15 @@
             "Verstorben": 731,
             "Aktive": 1700,
             "Genesen": 53600,
-            "Gemeldet": 55505,
-            "Inzidenz": 64.4
+            "Gemeldet": 55497,
+            "Inzidenz": 64.5
         },
         {
             "Datum": "2021-08-13T00:00:00.000Z",
             "Verstorben": 731,
             "Aktive": 1800,
             "Genesen": 53700,
-            "Gemeldet": 55689,
+            "Gemeldet": 55680,
             "Inzidenz": 75.9
         },
         {
@@ -4365,7 +4365,7 @@
             "Verstorben": 731,
             "Aktive": 1900,
             "Genesen": 53700,
-            "Gemeldet": 55850,
+            "Gemeldet": 55841,
             "Inzidenz": 79.8
         },
         {
@@ -4373,7 +4373,7 @@
             "Verstorben": 731,
             "Aktive": 2100,
             "Genesen": 53800,
-            "Gemeldet": 55979,
+            "Gemeldet": 55970,
             "Inzidenz": 86.9
         },
         {
@@ -4381,7 +4381,7 @@
             "Verstorben": 731,
             "Aktive": 2200,
             "Genesen": 53800,
-            "Gemeldet": 56094,
+            "Gemeldet": 56085,
             "Inzidenz": 90.0
         },
         {
@@ -4389,7 +4389,7 @@
             "Verstorben": 731,
             "Aktive": 2300,
             "Genesen": 53900,
-            "Gemeldet": 56297,
+            "Gemeldet": 56288,
             "Inzidenz": 101.2
         },
         {
@@ -4397,7 +4397,7 @@
             "Verstorben": 731,
             "Aktive": 2500,
             "Genesen": 54000,
-            "Gemeldet": 56563,
+            "Gemeldet": 56554,
             "Inzidenz": 114.2
         },
         {
@@ -4405,15 +4405,15 @@
             "Verstorben": 731,
             "Aktive": 2600,
             "Genesen": 54100,
-            "Gemeldet": 56815,
-            "Inzidenz": 120.9
+            "Gemeldet": 56806,
+            "Inzidenz": 120.8
         },
         {
             "Datum": "2021-08-20T00:00:00.000Z",
             "Verstorben": 731,
             "Aktive": 2800,
             "Genesen": 54200,
-            "Gemeldet": 57068,
+            "Gemeldet": 57059,
             "Inzidenz": 127.3
         },
         {
@@ -4421,7 +4421,7 @@
             "Verstorben": 731,
             "Aktive": 3000,
             "Genesen": 54300,
-            "Gemeldet": 57363,
+            "Gemeldet": 57354,
             "Inzidenz": 139.6
         },
         {
@@ -4429,23 +4429,23 @@
             "Verstorben": 731,
             "Aktive": 3100,
             "Genesen": 54400,
-            "Gemeldet": 57546,
-            "Inzidenz": 144.6
+            "Gemeldet": 57536,
+            "Inzidenz": 144.5
         },
         {
             "Datum": "2021-08-23T00:00:00.000Z",
             "Verstorben": 733,
             "Aktive": 3300,
             "Genesen": 54500,
-            "Gemeldet": 57774,
-            "Inzidenz": 155.1
+            "Gemeldet": 57764,
+            "Inzidenz": 155.0
         },
         {
             "Datum": "2021-08-24T00:00:00.000Z",
             "Verstorben": 733,
             "Aktive": 3400,
-            "Genesen": 54600,
-            "Gemeldet": 58056,
+            "Genesen": 54700,
+            "Gemeldet": 58046,
             "Inzidenz": 162.3
         },
         {
@@ -4453,7 +4453,7 @@
             "Verstorben": 733,
             "Aktive": 3500,
             "Genesen": 54800,
-            "Gemeldet": 58257,
+            "Gemeldet": 58247,
             "Inzidenz": 156.3
         },
         {
@@ -4461,63 +4461,63 @@
             "Verstorben": 733,
             "Aktive": 3600,
             "Genesen": 55000,
-            "Gemeldet": 58592,
-            "Inzidenz": 164.0
+            "Gemeldet": 58582,
+            "Inzidenz": 163.9
         },
         {
             "Datum": "2021-08-27T00:00:00.000Z",
             "Verstorben": 734,
             "Aktive": 3700,
             "Genesen": 55100,
-            "Gemeldet": 58883,
-            "Inzidenz": 167.5
+            "Gemeldet": 58873,
+            "Inzidenz": 167.4
         },
         {
             "Datum": "2021-08-28T00:00:00.000Z",
             "Verstorben": 734,
             "Aktive": 3800,
             "Genesen": 55200,
-            "Gemeldet": 59195,
-            "Inzidenz": 169.1
+            "Gemeldet": 59184,
+            "Inzidenz": 168.9
         },
         {
             "Datum": "2021-08-29T00:00:00.000Z",
             "Verstorben": 734,
             "Aktive": 3800,
             "Genesen": 55400,
-            "Gemeldet": 59372,
-            "Inzidenz": 168.5
+            "Gemeldet": 59361,
+            "Inzidenz": 168.4
         },
         {
             "Datum": "2021-08-30T00:00:00.000Z",
             "Verstorben": 734,
             "Aktive": 3800,
             "Genesen": 55600,
-            "Gemeldet": 59498,
-            "Inzidenz": 159.1
+            "Gemeldet": 59487,
+            "Inzidenz": 159.0
         },
         {
             "Datum": "2021-08-31T00:00:00.000Z",
             "Verstorben": 734,
             "Aktive": 3700,
-            "Genesen": 55800,
-            "Gemeldet": 59730,
-            "Inzidenz": 154.5
+            "Genesen": 55900,
+            "Gemeldet": 59718,
+            "Inzidenz": 154.3
         },
         {
             "Datum": "2021-09-01T00:00:00.000Z",
             "Verstorben": 734,
             "Aktive": 3700,
             "Genesen": 56100,
-            "Gemeldet": 59974,
-            "Inzidenz": 158.5
+            "Gemeldet": 59965,
+            "Inzidenz": 158.6
         },
         {
             "Datum": "2021-09-02T00:00:00.000Z",
             "Verstorben": 734,
             "Aktive": 3700,
             "Genesen": 56300,
-            "Gemeldet": 60168,
+            "Gemeldet": 60159,
             "Inzidenz": 145.5
         },
         {
@@ -4525,79 +4525,79 @@
             "Verstorben": 734,
             "Aktive": 3600,
             "Genesen": 56500,
-            "Gemeldet": 60402,
-            "Inzidenz": 140.2
+            "Gemeldet": 60394,
+            "Inzidenz": 140.4
         },
         {
             "Datum": "2021-09-04T00:00:00.000Z",
             "Verstorben": 734,
             "Aktive": 3500,
             "Genesen": 56800,
-            "Gemeldet": 60582,
-            "Inzidenz": 128.0
+            "Gemeldet": 60574,
+            "Inzidenz": 128.3
         },
         {
             "Datum": "2021-09-05T00:00:00.000Z",
             "Verstorben": 735,
             "Aktive": 3500,
             "Genesen": 57000,
-            "Gemeldet": 60767,
-            "Inzidenz": 128.7
+            "Gemeldet": 60758,
+            "Inzidenz": 128.9
         },
         {
             "Datum": "2021-09-06T00:00:00.000Z",
             "Verstorben": 736,
             "Aktive": 3400,
             "Genesen": 57200,
-            "Gemeldet": 60895,
-            "Inzidenz": 128.9
+            "Gemeldet": 60887,
+            "Inzidenz": 129.2
         },
         {
             "Datum": "2021-09-07T00:00:00.000Z",
             "Verstorben": 736,
             "Aktive": 3300,
             "Genesen": 57500,
-            "Gemeldet": 61109,
-            "Inzidenz": 127.3
+            "Gemeldet": 61100,
+            "Inzidenz": 127.5
         },
         {
             "Datum": "2021-09-08T00:00:00.000Z",
             "Verstorben": 736,
             "Aktive": 3300,
             "Genesen": 57700,
-            "Gemeldet": 61292,
+            "Gemeldet": 61282,
             "Inzidenz": 121.6
         },
         {
             "Datum": "2021-09-09T00:00:00.000Z",
             "Verstorben": 738,
             "Aktive": 3200,
-            "Genesen": 57900,
-            "Gemeldet": 61485,
+            "Genesen": 58000,
+            "Gemeldet": 61476,
             "Inzidenz": 121.6
         },
         {
             "Datum": "2021-09-10T00:00:00.000Z",
             "Verstorben": 738,
             "Aktive": 3100,
-            "Genesen": 58100,
-            "Gemeldet": 61670,
-            "Inzidenz": 117.0
+            "Genesen": 58200,
+            "Gemeldet": 61661,
+            "Inzidenz": 116.9
         },
         {
             "Datum": "2021-09-11T00:00:00.000Z",
             "Verstorben": 739,
             "Aktive": 3000,
             "Genesen": 58400,
-            "Gemeldet": 61810,
-            "Inzidenz": 113.3
+            "Gemeldet": 61801,
+            "Inzidenz": 113.2
         },
         {
             "Datum": "2021-09-12T00:00:00.000Z",
             "Verstorben": 740,
             "Aktive": 3000,
             "Genesen": 58500,
-            "Gemeldet": 61930,
+            "Gemeldet": 61921,
             "Inzidenz": 107.3
         },
         {
@@ -4605,15 +4605,15 @@
             "Verstorben": 742,
             "Aktive": 3000,
             "Genesen": 58700,
-            "Gemeldet": 62082,
-            "Inzidenz": 109.6
+            "Gemeldet": 62072,
+            "Inzidenz": 109.4
         },
         {
             "Datum": "2021-09-14T00:00:00.000Z",
             "Verstorben": 744,
             "Aktive": 2900,
             "Genesen": 58900,
-            "Gemeldet": 62222,
+            "Gemeldet": 62213,
             "Inzidenz": 102.7
         },
         {
@@ -4621,7 +4621,7 @@
             "Verstorben": 746,
             "Aktive": 2800,
             "Genesen": 59100,
-            "Gemeldet": 62362,
+            "Gemeldet": 62353,
             "Inzidenz": 98.8
         },
         {
@@ -4629,87 +4629,87 @@
             "Verstorben": 747,
             "Aktive": 2700,
             "Genesen": 59300,
-            "Gemeldet": 62459,
-            "Inzidenz": 89.9
+            "Gemeldet": 62448,
+            "Inzidenz": 89.7
         },
         {
             "Datum": "2021-09-17T00:00:00.000Z",
             "Verstorben": 748,
             "Aktive": 2500,
             "Genesen": 59500,
-            "Gemeldet": 62654,
-            "Inzidenz": 90.8
+            "Gemeldet": 62646,
+            "Inzidenz": 90.9
         },
         {
             "Datum": "2021-09-18T00:00:00.000Z",
             "Verstorben": 748,
             "Aktive": 2400,
             "Genesen": 59700,
-            "Gemeldet": 62750,
+            "Gemeldet": 62741,
             "Inzidenz": 86.8
         },
         {
             "Datum": "2021-09-19T00:00:00.000Z",
             "Verstorben": 749,
             "Aktive": 2300,
-            "Genesen": 59800,
-            "Gemeldet": 62815,
-            "Inzidenz": 81.7
+            "Genesen": 59900,
+            "Gemeldet": 62804,
+            "Inzidenz": 81.5
         },
         {
             "Datum": "2021-09-20T00:00:00.000Z",
             "Verstorben": 749,
             "Aktive": 2200,
-            "Genesen": 60000,
-            "Gemeldet": 62910,
-            "Inzidenz": 76.4
+            "Genesen": 60100,
+            "Gemeldet": 62893,
+            "Inzidenz": 75.8
         },
         {
             "Datum": "2021-09-21T00:00:00.000Z",
             "Verstorben": 750,
             "Aktive": 2100,
             "Genesen": 60200,
-            "Gemeldet": 62998,
-            "Inzidenz": 71.6
+            "Gemeldet": 62985,
+            "Inzidenz": 71.3
         },
         {
             "Datum": "2021-09-22T00:00:00.000Z",
             "Verstorben": 751,
             "Aktive": 2100,
             "Genesen": 60400,
-            "Gemeldet": 63144,
-            "Inzidenz": 72.2
+            "Gemeldet": 63137,
+            "Inzidenz": 72.4
         },
         {
             "Datum": "2021-09-23T00:00:00.000Z",
             "Verstorben": 751,
             "Aktive": 2000,
             "Genesen": 60600,
-            "Gemeldet": 63218,
-            "Inzidenz": 70.1
+            "Gemeldet": 63209,
+            "Inzidenz": 70.2
         },
         {
             "Datum": "2021-09-24T00:00:00.000Z",
             "Verstorben": 752,
             "Aktive": 1900,
             "Genesen": 60800,
-            "Gemeldet": 63326,
-            "Inzidenz": 62.0
+            "Gemeldet": 63315,
+            "Inzidenz": 61.7
         },
         {
             "Datum": "2021-09-25T00:00:00.000Z",
             "Verstorben": 753,
             "Aktive": 1800,
             "Genesen": 60900,
-            "Gemeldet": 63422,
-            "Inzidenz": 62.0
+            "Gemeldet": 63410,
+            "Inzidenz": 61.7
         },
         {
             "Datum": "2021-09-26T00:00:00.000Z",
             "Verstorben": 754,
             "Aktive": 1700,
             "Genesen": 61100,
-            "Gemeldet": 63477,
+            "Gemeldet": 63466,
             "Inzidenz": 61.1
         },
         {
@@ -4717,1792 +4717,1960 @@
             "Verstorben": 757,
             "Aktive": 1700,
             "Genesen": 61200,
-            "Gemeldet": 63548,
-            "Inzidenz": 58.9
+            "Gemeldet": 63541,
+            "Inzidenz": 59.8
         },
         {
             "Datum": "2021-09-28T00:00:00.000Z",
             "Verstorben": 757,
             "Aktive": 1600,
-            "Genesen": 61300,
-            "Gemeldet": 63658,
-            "Inzidenz": 60.9
+            "Genesen": 61400,
+            "Gemeldet": 63655,
+            "Inzidenz": 61.8
         },
         {
             "Datum": "2021-09-29T00:00:00.000Z",
             "Verstorben": 757,
             "Aktive": 1700,
             "Genesen": 61500,
-            "Gemeldet": 63842,
-            "Inzidenz": 64.4
+            "Gemeldet": 63833,
+            "Inzidenz": 64.2
         },
         {
             "Datum": "2021-09-30T00:00:00.000Z",
             "Verstorben": 758,
             "Aktive": 1700,
-            "Genesen": 61500,
-            "Gemeldet": 63942,
-            "Inzidenz": 66.8
+            "Genesen": 61600,
+            "Gemeldet": 63935,
+            "Inzidenz": 67.0
         },
         {
             "Datum": "2021-10-01T00:00:00.000Z",
             "Verstorben": 758,
             "Aktive": 1700,
             "Genesen": 61700,
-            "Gemeldet": 64020,
-            "Inzidenz": 64.1
+            "Gemeldet": 64013,
+            "Inzidenz": 64.4
         },
         {
             "Datum": "2021-10-02T00:00:00.000Z",
             "Verstorben": 758,
             "Aktive": 1700,
             "Genesen": 61700,
-            "Gemeldet": 64131,
-            "Inzidenz": 65.4
+            "Gemeldet": 64126,
+            "Inzidenz": 66.1
         },
         {
             "Datum": "2021-10-03T00:00:00.000Z",
             "Verstorben": 758,
             "Aktive": 1800,
-            "Genesen": 61700,
-            "Gemeldet": 64205,
-            "Inzidenz": 67.2
+            "Genesen": 61800,
+            "Gemeldet": 64197,
+            "Inzidenz": 67.5
         },
         {
             "Datum": "2021-10-04T00:00:00.000Z",
             "Verstorben": 758,
             "Aktive": 1800,
             "Genesen": 61800,
-            "Gemeldet": 64267,
-            "Inzidenz": 66.4
+            "Gemeldet": 64261,
+            "Inzidenz": 66.5
         },
         {
             "Datum": "2021-10-05T00:00:00.000Z",
             "Verstorben": 758,
             "Aktive": 1900,
-            "Genesen": 61800,
-            "Gemeldet": 64388,
-            "Inzidenz": 67.4
+            "Genesen": 61900,
+            "Gemeldet": 64379,
+            "Inzidenz": 66.8
         },
         {
             "Datum": "2021-10-06T00:00:00.000Z",
             "Verstorben": 758,
-            "Aktive": 2000,
-            "Genesen": 61800,
-            "Gemeldet": 64501,
+            "Aktive": 1900,
+            "Genesen": 61900,
+            "Gemeldet": 64492,
             "Inzidenz": 60.8
         },
         {
             "Datum": "2021-10-07T00:00:00.000Z",
             "Verstorben": 758,
-            "Aktive": 2100,
-            "Genesen": 61900,
-            "Gemeldet": 64615,
+            "Aktive": 1900,
+            "Genesen": 62000,
+            "Gemeldet": 64608,
             "Inzidenz": 62.1
         },
         {
             "Datum": "2021-10-08T00:00:00.000Z",
             "Verstorben": 758,
-            "Aktive": 2200,
-            "Genesen": 61900,
-            "Gemeldet": 64738,
-            "Inzidenz": 66.3
+            "Aktive": 2000,
+            "Genesen": 62100,
+            "Gemeldet": 64734,
+            "Inzidenz": 66.5
         },
         {
             "Datum": "2021-10-09T00:00:00.000Z",
             "Verstorben": 760,
-            "Aktive": 2300,
-            "Genesen": 61900,
-            "Gemeldet": 64859,
-            "Inzidenz": 67.2
+            "Aktive": 2100,
+            "Genesen": 62100,
+            "Gemeldet": 64851,
+            "Inzidenz": 66.9
         },
         {
             "Datum": "2021-10-10T00:00:00.000Z",
             "Verstorben": 760,
-            "Aktive": 2200,
-            "Genesen": 61900,
-            "Gemeldet": 64875,
-            "Inzidenz": 61.8
+            "Aktive": 2100,
+            "Genesen": 62100,
+            "Gemeldet": 64866,
+            "Inzidenz": 61.7
         },
         {
             "Datum": "2021-10-11T00:00:00.000Z",
             "Verstorben": 760,
-            "Aktive": 2300,
-            "Genesen": 62000,
-            "Gemeldet": 64923,
-            "Inzidenz": 60.5
+            "Aktive": 2100,
+            "Genesen": 62200,
+            "Gemeldet": 64918,
+            "Inzidenz": 60.6
         },
         {
             "Datum": "2021-10-12T00:00:00.000Z",
             "Verstorben": 760,
-            "Aktive": 2400,
-            "Genesen": 62000,
-            "Gemeldet": 65036,
-            "Inzidenz": 59.8
+            "Aktive": 2200,
+            "Genesen": 62200,
+            "Gemeldet": 65034,
+            "Inzidenz": 60.5
         },
         {
             "Datum": "2021-10-13T00:00:00.000Z",
             "Verstorben": 760,
-            "Aktive": 2500,
-            "Genesen": 62000,
-            "Gemeldet": 65155,
-            "Inzidenz": 60.4
+            "Aktive": 2200,
+            "Genesen": 62300,
+            "Gemeldet": 65142,
+            "Inzidenz": 60.0
         },
         {
             "Datum": "2021-10-14T00:00:00.000Z",
             "Verstorben": 760,
-            "Aktive": 2600,
-            "Genesen": 62000,
-            "Gemeldet": 65279,
-            "Inzidenz": 61.3
+            "Aktive": 2300,
+            "Genesen": 62300,
+            "Gemeldet": 65270,
+            "Inzidenz": 61.1
         },
         {
             "Datum": "2021-10-15T00:00:00.000Z",
             "Verstorben": 761,
-            "Aktive": 2700,
-            "Genesen": 62100,
-            "Gemeldet": 65411,
-            "Inzidenz": 62.1
+            "Aktive": 2400,
+            "Genesen": 62300,
+            "Gemeldet": 65405,
+            "Inzidenz": 61.9
         },
         {
             "Datum": "2021-10-16T00:00:00.000Z",
             "Verstorben": 761,
-            "Aktive": 2700,
-            "Genesen": 62100,
-            "Gemeldet": 65488,
-            "Inzidenz": 58.1
+            "Aktive": 2500,
+            "Genesen": 62400,
+            "Gemeldet": 65482,
+            "Inzidenz": 58.2
         },
         {
             "Datum": "2021-10-17T00:00:00.000Z",
             "Verstorben": 762,
-            "Aktive": 2700,
-            "Genesen": 62200,
-            "Gemeldet": 65568,
-            "Inzidenz": 64.0
+            "Aktive": 2500,
+            "Genesen": 62400,
+            "Gemeldet": 65562,
+            "Inzidenz": 64.2
         },
         {
             "Datum": "2021-10-18T00:00:00.000Z",
             "Verstorben": 763,
-            "Aktive": 2700,
-            "Genesen": 62300,
-            "Gemeldet": 65648,
-            "Inzidenz": 66.9
+            "Aktive": 2500,
+            "Genesen": 62500,
+            "Gemeldet": 65644,
+            "Inzidenz": 67.0
         },
         {
             "Datum": "2021-10-19T00:00:00.000Z",
             "Verstorben": 763,
-            "Aktive": 2800,
-            "Genesen": 62400,
-            "Gemeldet": 65842,
+            "Aktive": 2600,
+            "Genesen": 62600,
+            "Gemeldet": 65840,
             "Inzidenz": 74.4
         },
         {
             "Datum": "2021-10-20T00:00:00.000Z",
             "Verstorben": 763,
-            "Aktive": 2800,
-            "Genesen": 62500,
-            "Gemeldet": 66015,
-            "Inzidenz": 79.4
+            "Aktive": 2700,
+            "Genesen": 62700,
+            "Gemeldet": 66005,
+            "Inzidenz": 79.6
         },
         {
             "Datum": "2021-10-21T00:00:00.000Z",
             "Verstorben": 763,
-            "Aktive": 2900,
-            "Genesen": 62600,
-            "Gemeldet": 66188,
-            "Inzidenz": 83.9
+            "Aktive": 2700,
+            "Genesen": 62800,
+            "Gemeldet": 66180,
+            "Inzidenz": 84.0
         },
         {
             "Datum": "2021-10-22T00:00:00.000Z",
             "Verstorben": 764,
-            "Aktive": 3000,
-            "Genesen": 62700,
-            "Gemeldet": 66350,
-            "Inzidenz": 86.7
+            "Aktive": 2800,
+            "Genesen": 62900,
+            "Gemeldet": 66343,
+            "Inzidenz": 86.6
         },
         {
             "Datum": "2021-10-23T00:00:00.000Z",
             "Verstorben": 764,
-            "Aktive": 3100,
-            "Genesen": 62800,
-            "Gemeldet": 66542,
+            "Aktive": 2900,
+            "Genesen": 63000,
+            "Gemeldet": 66536,
             "Inzidenz": 97.3
         },
         {
             "Datum": "2021-10-24T00:00:00.000Z",
             "Verstorben": 764,
-            "Aktive": 3100,
-            "Genesen": 62800,
-            "Gemeldet": 66611,
-            "Inzidenz": 96.3
+            "Aktive": 2900,
+            "Genesen": 63000,
+            "Gemeldet": 66606,
+            "Inzidenz": 96.4
         },
         {
             "Datum": "2021-10-25T00:00:00.000Z",
             "Verstorben": 764,
-            "Aktive": 3200,
-            "Genesen": 62900,
+            "Aktive": 3000,
+            "Genesen": 63100,
             "Gemeldet": 66762,
-            "Inzidenz": 102.8
+            "Inzidenz": 103.2
         },
         {
             "Datum": "2021-10-26T00:00:00.000Z",
             "Verstorben": 765,
-            "Aktive": 3300,
-            "Genesen": 63000,
-            "Gemeldet": 67023,
-            "Inzidenz": 109.0
+            "Aktive": 3200,
+            "Genesen": 63200,
+            "Gemeldet": 67028,
+            "Inzidenz": 109.6
         },
         {
             "Datum": "2021-10-27T00:00:00.000Z",
             "Verstorben": 767,
-            "Aktive": 3400,
-            "Genesen": 63200,
-            "Gemeldet": 67331,
-            "Inzidenz": 121.5
+            "Aktive": 3300,
+            "Genesen": 63400,
+            "Gemeldet": 67326,
+            "Inzidenz": 121.9
         },
         {
             "Datum": "2021-10-28T00:00:00.000Z",
             "Verstorben": 767,
-            "Aktive": 3700,
-            "Genesen": 63300,
-            "Gemeldet": 67649,
-            "Inzidenz": 134.8
+            "Aktive": 3500,
+            "Genesen": 63500,
+            "Gemeldet": 67654,
+            "Inzidenz": 136.0
         },
         {
             "Datum": "2021-10-29T00:00:00.000Z",
             "Verstorben": 769,
-            "Aktive": 3900,
-            "Genesen": 63400,
-            "Gemeldet": 67985,
-            "Inzidenz": 150.9
+            "Aktive": 3800,
+            "Genesen": 63600,
+            "Gemeldet": 67982,
+            "Inzidenz": 151.3
         },
         {
             "Datum": "2021-10-30T00:00:00.000Z",
             "Verstorben": 769,
-            "Aktive": 4100,
-            "Genesen": 63500,
-            "Gemeldet": 68252,
-            "Inzidenz": 157.8
+            "Aktive": 3900,
+            "Genesen": 63700,
+            "Gemeldet": 68243,
+            "Inzidenz": 157.5
         },
         {
             "Datum": "2021-10-31T00:00:00.000Z",
             "Verstorben": 771,
-            "Aktive": 4100,
-            "Genesen": 63600,
-            "Gemeldet": 68368,
-            "Inzidenz": 162.2
+            "Aktive": 4000,
+            "Genesen": 63700,
+            "Gemeldet": 68362,
+            "Inzidenz": 162.1
         },
         {
             "Datum": "2021-11-01T00:00:00.000Z",
             "Verstorben": 771,
-            "Aktive": 4100,
-            "Genesen": 63600,
-            "Gemeldet": 68455,
-            "Inzidenz": 156.3
+            "Aktive": 4000,
+            "Genesen": 63800,
+            "Gemeldet": 68447,
+            "Inzidenz": 155.5
         },
         {
             "Datum": "2021-11-02T00:00:00.000Z",
             "Verstorben": 771,
-            "Aktive": 4200,
-            "Genesen": 63800,
-            "Gemeldet": 68651,
-            "Inzidenz": 150.3
+            "Aktive": 4000,
+            "Genesen": 64000,
+            "Gemeldet": 68640,
+            "Inzidenz": 148.8
         },
         {
             "Datum": "2021-11-03T00:00:00.000Z",
             "Verstorben": 772,
-            "Aktive": 4400,
-            "Genesen": 63900,
-            "Gemeldet": 68932,
-            "Inzidenz": 147.8
+            "Aktive": 4200,
+            "Genesen": 64100,
+            "Gemeldet": 68936,
+            "Inzidenz": 148.6
         },
         {
             "Datum": "2021-11-04T00:00:00.000Z",
             "Verstorben": 775,
-            "Aktive": 4700,
-            "Genesen": 64000,
-            "Gemeldet": 69361,
-            "Inzidenz": 158.0
+            "Aktive": 4500,
+            "Genesen": 64200,
+            "Gemeldet": 69360,
+            "Inzidenz": 157.5
         },
         {
             "Datum": "2021-11-05T00:00:00.000Z",
             "Verstorben": 777,
-            "Aktive": 5000,
-            "Genesen": 64100,
-            "Gemeldet": 69798,
-            "Inzidenz": 167.3
+            "Aktive": 4800,
+            "Genesen": 64400,
+            "Gemeldet": 69799,
+            "Inzidenz": 167.7
         },
         {
             "Datum": "2021-11-06T00:00:00.000Z",
             "Verstorben": 780,
-            "Aktive": 5300,
-            "Genesen": 64200,
-            "Gemeldet": 70218,
-            "Inzidenz": 181.4
+            "Aktive": 5100,
+            "Genesen": 64500,
+            "Gemeldet": 70210,
+            "Inzidenz": 181.5
         },
         {
             "Datum": "2021-11-07T00:00:00.000Z",
             "Verstorben": 781,
-            "Aktive": 5500,
-            "Genesen": 64300,
-            "Gemeldet": 70466,
-            "Inzidenz": 193.6
+            "Aktive": 5300,
+            "Genesen": 64500,
+            "Gemeldet": 70453,
+            "Inzidenz": 193.0
         },
         {
             "Datum": "2021-11-08T00:00:00.000Z",
             "Verstorben": 783,
-            "Aktive": 5700,
-            "Genesen": 64300,
-            "Gemeldet": 70689,
-            "Inzidenz": 206.2
+            "Aktive": 5400,
+            "Genesen": 64600,
+            "Gemeldet": 70675,
+            "Inzidenz": 205.6
         },
         {
             "Datum": "2021-11-09T00:00:00.000Z",
             "Verstorben": 785,
-            "Aktive": 5900,
-            "Genesen": 64400,
-            "Gemeldet": 71078,
-            "Inzidenz": 224.0
+            "Aktive": 5700,
+            "Genesen": 64700,
+            "Gemeldet": 71093,
+            "Inzidenz": 226.4
         },
         {
             "Datum": "2021-11-10T00:00:00.000Z",
             "Verstorben": 788,
-            "Aktive": 6200,
-            "Genesen": 64600,
-            "Gemeldet": 71477,
-            "Inzidenz": 234.9
+            "Aktive": 6000,
+            "Genesen": 64800,
+            "Gemeldet": 71483,
+            "Inzidenz": 235.1
         },
         {
             "Datum": "2021-11-11T00:00:00.000Z",
             "Verstorben": 790,
-            "Aktive": 6400,
-            "Genesen": 64700,
-            "Gemeldet": 71858,
-            "Inzidenz": 230.5
+            "Aktive": 6200,
+            "Genesen": 65000,
+            "Gemeldet": 71860,
+            "Inzidenz": 230.7
         },
         {
             "Datum": "2021-11-12T00:00:00.000Z",
             "Verstorben": 791,
-            "Aktive": 6700,
-            "Genesen": 64900,
-            "Gemeldet": 72228,
-            "Inzidenz": 224.3
+            "Aktive": 6400,
+            "Genesen": 65200,
+            "Gemeldet": 72254,
+            "Inzidenz": 226.6
         },
         {
             "Datum": "2021-11-13T00:00:00.000Z",
             "Verstorben": 793,
-            "Aktive": 7100,
-            "Genesen": 65000,
-            "Gemeldet": 72718,
-            "Inzidenz": 230.7
+            "Aktive": 6800,
+            "Genesen": 65300,
+            "Gemeldet": 72736,
+            "Inzidenz": 233.1
         },
         {
             "Datum": "2021-11-14T00:00:00.000Z",
             "Verstorben": 794,
-            "Aktive": 7400,
-            "Genesen": 65000,
-            "Gemeldet": 73148,
-            "Inzidenz": 247.5
+            "Aktive": 7100,
+            "Genesen": 65400,
+            "Gemeldet": 73145,
+            "Inzidenz": 248.5
         },
         {
             "Datum": "2021-11-15T00:00:00.000Z",
             "Verstorben": 795,
-            "Aktive": 7500,
-            "Genesen": 65100,
-            "Gemeldet": 73388,
-            "Inzidenz": 249.1
+            "Aktive": 7300,
+            "Genesen": 65400,
+            "Gemeldet": 73401,
+            "Inzidenz": 251.6
         },
         {
             "Datum": "2021-11-16T00:00:00.000Z",
             "Verstorben": 795,
-            "Aktive": 7800,
-            "Genesen": 65300,
-            "Gemeldet": 73848,
-            "Inzidenz": 255.7
+            "Aktive": 7600,
+            "Genesen": 65600,
+            "Gemeldet": 73873,
+            "Inzidenz": 256.6
         },
         {
             "Datum": "2021-11-17T00:00:00.000Z",
             "Verstorben": 795,
-            "Aktive": 8100,
-            "Genesen": 65500,
-            "Gemeldet": 74333,
-            "Inzidenz": 263.6
+            "Aktive": 7800,
+            "Genesen": 65800,
+            "Gemeldet": 74362,
+            "Inzidenz": 265.7
         },
         {
             "Datum": "2021-11-18T00:00:00.000Z",
             "Verstorben": 797,
-            "Aktive": 8500,
-            "Genesen": 65800,
-            "Gemeldet": 74957,
-            "Inzidenz": 286.0
+            "Aktive": 8300,
+            "Genesen": 66000,
+            "Gemeldet": 74975,
+            "Inzidenz": 287.5
         },
         {
             "Datum": "2021-11-19T00:00:00.000Z",
             "Verstorben": 799,
-            "Aktive": 8900,
-            "Genesen": 66000,
-            "Gemeldet": 75619,
-            "Inzidenz": 313.0
+            "Aktive": 8600,
+            "Genesen": 66300,
+            "Gemeldet": 75642,
+            "Inzidenz": 312.7
         },
         {
             "Datum": "2021-11-20T00:00:00.000Z",
             "Verstorben": 799,
-            "Aktive": 9200,
-            "Genesen": 66300,
-            "Gemeldet": 76241,
-            "Inzidenz": 325.2
+            "Aktive": 9000,
+            "Genesen": 66600,
+            "Gemeldet": 76275,
+            "Inzidenz": 326.6
         },
         {
             "Datum": "2021-11-21T00:00:00.000Z",
             "Verstorben": 800,
-            "Aktive": 9600,
-            "Genesen": 66400,
-            "Gemeldet": 76805,
-            "Inzidenz": 337.5
+            "Aktive": 9400,
+            "Genesen": 66700,
+            "Gemeldet": 76845,
+            "Inzidenz": 341.5
         },
         {
             "Datum": "2021-11-22T00:00:00.000Z",
             "Verstorben": 806,
-            "Aktive": 9900,
-            "Genesen": 66700,
-            "Gemeldet": 77239,
-            "Inzidenz": 355.4
+            "Aktive": 9700,
+            "Genesen": 66900,
+            "Gemeldet": 77262,
+            "Inzidenz": 356.3
         },
         {
             "Datum": "2021-11-23T00:00:00.000Z",
             "Verstorben": 808,
-            "Aktive": 9900,
-            "Genesen": 67000,
-            "Gemeldet": 77663,
-            "Inzidenz": 352.1
+            "Aktive": 9700,
+            "Genesen": 67300,
+            "Gemeldet": 77684,
+            "Inzidenz": 351.7
         },
         {
             "Datum": "2021-11-24T00:00:00.000Z",
             "Verstorben": 809,
-            "Aktive": 9900,
-            "Genesen": 67500,
-            "Gemeldet": 78103,
-            "Inzidenz": 347.9
+            "Aktive": 9700,
+            "Genesen": 67700,
+            "Gemeldet": 78134,
+            "Inzidenz": 348.1
         },
         {
             "Datum": "2021-11-25T00:00:00.000Z",
             "Verstorben": 809,
-            "Aktive": 9800,
-            "Genesen": 67900,
-            "Gemeldet": 78426,
-            "Inzidenz": 320.2
+            "Aktive": 9600,
+            "Genesen": 68200,
+            "Gemeldet": 78457,
+            "Inzidenz": 321.4
         },
         {
             "Datum": "2021-11-26T00:00:00.000Z",
             "Verstorben": 813,
-            "Aktive": 9900,
-            "Genesen": 68500,
-            "Gemeldet": 79133,
-            "Inzidenz": 324.3
+            "Aktive": 9700,
+            "Genesen": 68800,
+            "Gemeldet": 79174,
+            "Inzidenz": 326.0
         },
         {
             "Datum": "2021-11-27T00:00:00.000Z",
             "Verstorben": 816,
-            "Aktive": 9800,
-            "Genesen": 69200,
-            "Gemeldet": 79752,
-            "Inzidenz": 324.0
+            "Aktive": 9700,
+            "Genesen": 69400,
+            "Gemeldet": 79800,
+            "Inzidenz": 325.3
         },
         {
             "Datum": "2021-11-28T00:00:00.000Z",
             "Verstorben": 819,
-            "Aktive": 10000,
-            "Genesen": 69700,
-            "Gemeldet": 80434,
+            "Aktive": 9900,
+            "Genesen": 69900,
+            "Gemeldet": 80474,
             "Inzidenz": 334.9
         },
         {
             "Datum": "2021-11-29T00:00:00.000Z",
             "Verstorben": 820,
-            "Aktive": 10600,
-            "Genesen": 69900,
-            "Gemeldet": 81214,
-            "Inzidenz": 366.9
+            "Aktive": 10400,
+            "Genesen": 70200,
+            "Gemeldet": 81260,
+            "Inzidenz": 369.0
         },
         {
             "Datum": "2021-11-30T00:00:00.000Z",
             "Verstorben": 822,
-            "Aktive": 10800,
-            "Genesen": 70400,
-            "Gemeldet": 82015,
-            "Inzidenz": 401.7
+            "Aktive": 10700,
+            "Genesen": 70700,
+            "Gemeldet": 82065,
+            "Inzidenz": 404.3
         },
         {
             "Datum": "2021-12-01T00:00:00.000Z",
             "Verstorben": 825,
-            "Aktive": 11000,
-            "Genesen": 71100,
-            "Gemeldet": 82788,
-            "Inzidenz": 432.4
+            "Aktive": 10800,
+            "Genesen": 71300,
+            "Gemeldet": 82839,
+            "Inzidenz": 434.2
         },
         {
             "Datum": "2021-12-02T00:00:00.000Z",
             "Verstorben": 828,
-            "Aktive": 10800,
-            "Genesen": 71900,
-            "Gemeldet": 83421,
-            "Inzidenz": 461.0
+            "Aktive": 10600,
+            "Genesen": 72100,
+            "Gemeldet": 83476,
+            "Inzidenz": 463.2
         },
         {
             "Datum": "2021-12-03T00:00:00.000Z",
             "Verstorben": 831,
-            "Aktive": 10800,
-            "Genesen": 72700,
-            "Gemeldet": 84209,
-            "Inzidenz": 468.5
+            "Aktive": 10600,
+            "Genesen": 72900,
+            "Gemeldet": 84260,
+            "Inzidenz": 469.4
         },
         {
             "Datum": "2021-12-04T00:00:00.000Z",
             "Verstorben": 834,
-            "Aktive": 10800,
-            "Genesen": 73500,
-            "Gemeldet": 85021,
-            "Inzidenz": 486.3
+            "Aktive": 10600,
+            "Genesen": 73700,
+            "Gemeldet": 85061,
+            "Inzidenz": 485.6
         },
         {
             "Datum": "2021-12-05T00:00:00.000Z",
             "Verstorben": 835,
-            "Aktive": 10800,
-            "Genesen": 74200,
-            "Gemeldet": 85727,
-            "Inzidenz": 488.5
+            "Aktive": 10600,
+            "Genesen": 74400,
+            "Gemeldet": 85754,
+            "Inzidenz": 487.3
         },
         {
             "Datum": "2021-12-06T00:00:00.000Z",
             "Verstorben": 837,
-            "Aktive": 11400,
-            "Genesen": 74600,
-            "Gemeldet": 86744,
-            "Inzidenz": 510.4
+            "Aktive": 11200,
+            "Genesen": 74900,
+            "Gemeldet": 86753,
+            "Inzidenz": 507.0
         },
         {
             "Datum": "2021-12-07T00:00:00.000Z",
             "Verstorben": 839,
-            "Aktive": 12000,
-            "Genesen": 75200,
-            "Gemeldet": 88013,
-            "Inzidenz": 553.6
+            "Aktive": 11800,
+            "Genesen": 75500,
+            "Gemeldet": 88015,
+            "Inzidenz": 549.1
         },
         {
             "Datum": "2021-12-08T00:00:00.000Z",
             "Verstorben": 840,
-            "Aktive": 12100,
-            "Genesen": 75800,
-            "Gemeldet": 88675,
-            "Inzidenz": 543.3
+            "Aktive": 11900,
+            "Genesen": 76100,
+            "Gemeldet": 88676,
+            "Inzidenz": 538.7
         },
         {
             "Datum": "2021-12-09T00:00:00.000Z",
             "Verstorben": 841,
-            "Aktive": 12100,
-            "Genesen": 76300,
+            "Aktive": 11900,
+            "Genesen": 76500,
             "Gemeldet": 89183,
-            "Inzidenz": 531.8
+            "Inzidenz": 526.7
         },
         {
             "Datum": "2021-12-10T00:00:00.000Z",
             "Verstorben": 843,
-            "Aktive": 12300,
-            "Genesen": 77000,
-            "Gemeldet": 90051,
-            "Inzidenz": 539.2
+            "Aktive": 12100,
+            "Genesen": 77200,
+            "Gemeldet": 90048,
+            "Inzidenz": 534.2
         },
         {
             "Datum": "2021-12-11T00:00:00.000Z",
             "Verstorben": 844,
-            "Aktive": 12000,
-            "Genesen": 77600,
-            "Gemeldet": 90358,
-            "Inzidenz": 492.6
+            "Aktive": 11800,
+            "Genesen": 77800,
+            "Gemeldet": 90356,
+            "Inzidenz": 488.7
         },
         {
             "Datum": "2021-12-12T00:00:00.000Z",
             "Verstorben": 847,
-            "Aktive": 11600,
-            "Genesen": 78200,
-            "Gemeldet": 90516,
-            "Inzidenz": 442.0
+            "Aktive": 11400,
+            "Genesen": 78400,
+            "Gemeldet": 90514,
+            "Inzidenz": 439.3
         },
         {
             "Datum": "2021-12-13T00:00:00.000Z",
             "Verstorben": 850,
-            "Aktive": 11300,
-            "Genesen": 78900,
-            "Gemeldet": 90877,
-            "Inzidenz": 381.4
+            "Aktive": 11100,
+            "Genesen": 79100,
+            "Gemeldet": 90875,
+            "Inzidenz": 380.4
         },
         {
             "Datum": "2021-12-14T00:00:00.000Z",
             "Verstorben": 853,
-            "Aktive": 11200,
-            "Genesen": 79700,
-            "Gemeldet": 91560,
-            "Inzidenz": 327.4
+            "Aktive": 11000,
+            "Genesen": 79900,
+            "Gemeldet": 91558,
+            "Inzidenz": 327.0
         },
         {
             "Datum": "2021-12-15T00:00:00.000Z",
             "Verstorben": 855,
-            "Aktive": 10900,
-            "Genesen": 80400,
-            "Gemeldet": 92090,
-            "Inzidenz": 315.2
+            "Aktive": 10800,
+            "Genesen": 80600,
+            "Gemeldet": 92085,
+            "Inzidenz": 314.6
         },
         {
             "Datum": "2021-12-16T00:00:00.000Z",
             "Verstorben": 857,
-            "Aktive": 10600,
-            "Genesen": 81200,
-            "Gemeldet": 92561,
-            "Inzidenz": 311.8
+            "Aktive": 10500,
+            "Genesen": 81400,
+            "Gemeldet": 92554,
+            "Inzidenz": 311.1
         },
         {
             "Datum": "2021-12-17T00:00:00.000Z",
             "Verstorben": 857,
-            "Aktive": 10200,
-            "Genesen": 82100,
-            "Gemeldet": 93051,
-            "Inzidenz": 276.9
+            "Aktive": 10100,
+            "Genesen": 82300,
+            "Gemeldet": 93047,
+            "Inzidenz": 276.8
         },
         {
             "Datum": "2021-12-18T00:00:00.000Z",
             "Verstorben": 864,
-            "Aktive": 9700,
-            "Genesen": 82900,
-            "Gemeldet": 93355,
-            "Inzidenz": 276.6
+            "Aktive": 9600,
+            "Genesen": 83100,
+            "Gemeldet": 93351,
+            "Inzidenz": 276.4
         },
         {
             "Datum": "2021-12-19T00:00:00.000Z",
             "Verstorben": 867,
-            "Aktive": 9100,
-            "Genesen": 83700,
-            "Gemeldet": 93516,
-            "Inzidenz": 276.9
+            "Aktive": 9000,
+            "Genesen": 83800,
+            "Gemeldet": 93511,
+            "Inzidenz": 276.6
         },
         {
             "Datum": "2021-12-20T00:00:00.000Z",
             "Verstorben": 870,
-            "Aktive": 8400,
-            "Genesen": 84700,
-            "Gemeldet": 93831,
-            "Inzidenz": 272.6
+            "Aktive": 8300,
+            "Genesen": 84800,
+            "Gemeldet": 93827,
+            "Inzidenz": 272.5
         },
         {
             "Datum": "2021-12-21T00:00:00.000Z",
             "Verstorben": 872,
-            "Aktive": 7700,
-            "Genesen": 86000,
-            "Gemeldet": 94424,
-            "Inzidenz": 264.3
+            "Aktive": 7600,
+            "Genesen": 86100,
+            "Gemeldet": 94416,
+            "Inzidenz": 263.8
         },
         {
             "Datum": "2021-12-22T00:00:00.000Z",
             "Verstorben": 873,
-            "Aktive": 7400,
+            "Aktive": 7300,
             "Genesen": 86700,
-            "Gemeldet": 94798,
-            "Inzidenz": 249.9
+            "Gemeldet": 94791,
+            "Inzidenz": 249.7
         },
         {
             "Datum": "2021-12-23T00:00:00.000Z",
             "Verstorben": 879,
-            "Aktive": 7300,
-            "Genesen": 87200,
-            "Gemeldet": 95270,
-            "Inzidenz": 250.0
+            "Aktive": 7200,
+            "Genesen": 87300,
+            "Gemeldet": 95262,
+            "Inzidenz": 249.9
         },
         {
             "Datum": "2021-12-24T00:00:00.000Z",
             "Verstorben": 880,
             "Aktive": 6600,
-            "Genesen": 88100,
-            "Gemeldet": 95516,
-            "Inzidenz": 227.5
+            "Genesen": 88200,
+            "Gemeldet": 95507,
+            "Inzidenz": 227.0
         },
         {
             "Datum": "2021-12-25T00:00:00.000Z",
             "Verstorben": 884,
-            "Aktive": 6500,
-            "Genesen": 88500,
-            "Gemeldet": 95683,
-            "Inzidenz": 214.9
+            "Aktive": 6400,
+            "Genesen": 88600,
+            "Gemeldet": 95675,
+            "Inzidenz": 214.5
         },
         {
             "Datum": "2021-12-26T00:00:00.000Z",
             "Verstorben": 885,
-            "Aktive": 6600,
+            "Aktive": 6500,
             "Genesen": 88800,
-            "Gemeldet": 96024,
-            "Inzidenz": 231.5
+            "Gemeldet": 96015,
+            "Inzidenz": 231.1
         },
         {
             "Datum": "2021-12-27T00:00:00.000Z",
             "Verstorben": 885,
             "Aktive": 6400,
             "Genesen": 89300,
-            "Gemeldet": 96357,
-            "Inzidenz": 233.1
+            "Gemeldet": 96346,
+            "Inzidenz": 232.5
         },
         {
             "Datum": "2021-12-28T00:00:00.000Z",
             "Verstorben": 886,
             "Aktive": 6200,
             "Genesen": 90100,
-            "Gemeldet": 96972,
-            "Inzidenz": 235.2
+            "Gemeldet": 96962,
+            "Inzidenz": 235.0
         },
         {
             "Datum": "2021-12-29T00:00:00.000Z",
             "Verstorben": 886,
             "Aktive": 6200,
             "Genesen": 90700,
-            "Gemeldet": 97569,
-            "Inzidenz": 255.7
+            "Gemeldet": 97560,
+            "Inzidenz": 255.6
         },
         {
             "Datum": "2021-12-30T00:00:00.000Z",
             "Verstorben": 891,
             "Aktive": 6200,
             "Genesen": 91200,
-            "Gemeldet": 98190,
-            "Inzidenz": 269.5
+            "Gemeldet": 98178,
+            "Inzidenz": 269.1
         },
         {
             "Datum": "2021-12-31T00:00:00.000Z",
             "Verstorben": 894,
             "Aktive": 6100,
             "Genesen": 91700,
-            "Gemeldet": 98599,
-            "Inzidenz": 284.5
+            "Gemeldet": 98585,
+            "Inzidenz": 284.1
         },
         {
             "Datum": "2022-01-01T00:00:00.000Z",
             "Verstorben": 895,
             "Aktive": 6100,
             "Genesen": 92100,
-            "Gemeldet": 98929,
-            "Inzidenz": 299.6
+            "Gemeldet": 98915,
+            "Inzidenz": 299.0
         },
         {
             "Datum": "2022-01-02T00:00:00.000Z",
             "Verstorben": 896,
             "Aktive": 6100,
             "Genesen": 92300,
-            "Gemeldet": 99133,
-            "Inzidenz": 286.9
+            "Gemeldet": 99118,
+            "Inzidenz": 286.4
         },
         {
             "Datum": "2022-01-03T00:00:00.000Z",
             "Verstorben": 896,
             "Aktive": 6200,
             "Genesen": 92700,
-            "Gemeldet": 99678,
-            "Inzidenz": 306.5
+            "Gemeldet": 99665,
+            "Inzidenz": 306.3
         },
         {
             "Datum": "2022-01-04T00:00:00.000Z",
             "Verstorben": 896,
             "Aktive": 6700,
             "Genesen": 93300,
-            "Gemeldet": 100857,
-            "Inzidenz": 358.6
+            "Gemeldet": 100848,
+            "Inzidenz": 358.7
         },
         {
             "Datum": "2022-01-05T00:00:00.000Z",
             "Verstorben": 896,
             "Aktive": 7400,
             "Genesen": 93700,
-            "Gemeldet": 101894,
-            "Inzidenz": 399.2
+            "Gemeldet": 101886,
+            "Inzidenz": 399.3
         },
         {
             "Datum": "2022-01-06T00:00:00.000Z",
             "Verstorben": 900,
             "Aktive": 7800,
             "Genesen": 94200,
-            "Gemeldet": 102768,
-            "Inzidenz": 422.5
+            "Gemeldet": 102760,
+            "Inzidenz": 422.9
         },
         {
             "Datum": "2022-01-07T00:00:00.000Z",
             "Verstorben": 900,
             "Aktive": 9000,
             "Genesen": 94500,
-            "Gemeldet": 104332,
-            "Inzidenz": 529.1
+            "Gemeldet": 104324,
+            "Inzidenz": 529.7
         },
         {
             "Datum": "2022-01-08T00:00:00.000Z",
             "Verstorben": 900,
             "Aktive": 9500,
             "Genesen": 94700,
-            "Gemeldet": 104997,
-            "Inzidenz": 560.0
+            "Gemeldet": 104992,
+            "Inzidenz": 560.9
         },
         {
             "Datum": "2022-01-09T00:00:00.000Z",
             "Verstorben": 900,
             "Aktive": 9500,
             "Genesen": 95100,
-            "Gemeldet": 105351,
-            "Inzidenz": 573.9
+            "Gemeldet": 105345,
+            "Inzidenz": 574.7
         },
         {
             "Datum": "2022-01-10T00:00:00.000Z",
             "Verstorben": 900,
             "Aktive": 10300,
             "Genesen": 95400,
-            "Gemeldet": 106521,
-            "Inzidenz": 631.6
+            "Gemeldet": 106514,
+            "Inzidenz": 632.1
         },
         {
             "Datum": "2022-01-11T00:00:00.000Z",
             "Verstorben": 900,
             "Aktive": 11300,
             "Genesen": 96000,
-            "Gemeldet": 108147,
-            "Inzidenz": 672.8
+            "Gemeldet": 108141,
+            "Inzidenz": 673.1
         },
         {
             "Datum": "2022-01-12T00:00:00.000Z",
             "Verstorben": 901,
-            "Aktive": 12400,
+            "Aktive": 12300,
             "Genesen": 96600,
-            "Gemeldet": 109748,
-            "Inzidenz": 724.9
+            "Gemeldet": 109742,
+            "Inzidenz": 725.1
         },
         {
             "Datum": "2022-01-13T00:00:00.000Z",
             "Verstorben": 902,
             "Aktive": 13100,
             "Genesen": 97100,
-            "Gemeldet": 111086,
-            "Inzidenz": 767.7
+            "Gemeldet": 111082,
+            "Inzidenz": 768.1
         },
         {
             "Datum": "2022-01-14T00:00:00.000Z",
             "Verstorben": 904,
             "Aktive": 14500,
-            "Genesen": 97500,
-            "Gemeldet": 112835,
-            "Inzidenz": 784.8
+            "Genesen": 97600,
+            "Gemeldet": 112838,
+            "Inzidenz": 785.8
         },
         {
             "Datum": "2022-01-15T00:00:00.000Z",
             "Verstorben": 906,
             "Aktive": 15600,
             "Genesen": 97900,
-            "Gemeldet": 114325,
-            "Inzidenz": 860.9
+            "Gemeldet": 114330,
+            "Inzidenz": 861.8
         },
         {
             "Datum": "2022-01-16T00:00:00.000Z",
             "Verstorben": 907,
             "Aktive": 16300,
             "Genesen": 98100,
-            "Gemeldet": 115166,
-            "Inzidenz": 905.9
+            "Gemeldet": 115170,
+            "Inzidenz": 906.8
         },
         {
             "Datum": "2022-01-17T00:00:00.000Z",
             "Verstorben": 907,
             "Aktive": 17300,
             "Genesen": 98600,
-            "Gemeldet": 116746,
-            "Inzidenz": 943.7
+            "Gemeldet": 116749,
+            "Inzidenz": 944.6
         },
         {
             "Datum": "2022-01-18T00:00:00.000Z",
             "Verstorben": 909,
             "Aktive": 18500,
-            "Genesen": 99700,
-            "Gemeldet": 119063,
-            "Inzidenz": 1007.5
+            "Genesen": 99800,
+            "Gemeldet": 119069,
+            "Inzidenz": 1008.6
         },
         {
             "Datum": "2022-01-19T00:00:00.000Z",
             "Verstorben": 909,
             "Aktive": 20000,
             "Genesen": 100800,
-            "Gemeldet": 121652,
-            "Inzidenz": 1098.7
+            "Gemeldet": 121660,
+            "Inzidenz": 1100.0
         },
         {
             "Datum": "2022-01-20T00:00:00.000Z",
             "Verstorben": 909,
             "Aktive": 21500,
             "Genesen": 101600,
-            "Gemeldet": 123976,
-            "Inzidenz": 1189.7
+            "Gemeldet": 123987,
+            "Inzidenz": 1191.0
         },
         {
             "Datum": "2022-01-21T00:00:00.000Z",
             "Verstorben": 911,
             "Aktive": 23700,
             "Genesen": 103100,
-            "Gemeldet": 127649,
-            "Inzidenz": 1367.2
+            "Gemeldet": 127665,
+            "Inzidenz": 1368.4
         },
         {
             "Datum": "2022-01-22T00:00:00.000Z",
             "Verstorben": 913,
             "Aktive": 25400,
-            "Genesen": 103700,
-            "Gemeldet": 130026,
-            "Inzidenz": 1449.1
+            "Genesen": 103800,
+            "Gemeldet": 130043,
+            "Inzidenz": 1450.2
         },
         {
             "Datum": "2022-01-23T00:00:00.000Z",
             "Verstorben": 913,
             "Aktive": 26200,
             "Genesen": 104100,
-            "Gemeldet": 131118,
-            "Inzidenz": 1472.3
+            "Gemeldet": 131134,
+            "Inzidenz": 1473.4
         },
         {
             "Datum": "2022-01-24T00:00:00.000Z",
             "Verstorben": 915,
-            "Aktive": 28400,
+            "Aktive": 28500,
             "Genesen": 105200,
-            "Gemeldet": 134484,
-            "Inzidenz": 1637.1
+            "Gemeldet": 134503,
+            "Inzidenz": 1638.6
         },
         {
             "Datum": "2022-01-25T00:00:00.000Z",
             "Verstorben": 916,
             "Aktive": 30100,
             "Genesen": 106700,
-            "Gemeldet": 137657,
-            "Inzidenz": 1716.1
+            "Gemeldet": 137681,
+            "Inzidenz": 1717.8
         },
         {
             "Datum": "2022-01-26T00:00:00.000Z",
             "Verstorben": 917,
             "Aktive": 32100,
             "Genesen": 108300,
-            "Gemeldet": 141194,
-            "Inzidenz": 1803.6
+            "Gemeldet": 141228,
+            "Inzidenz": 1806.0
         },
         {
             "Datum": "2022-01-27T00:00:00.000Z",
             "Verstorben": 919,
-            "Aktive": 33200,
+            "Aktive": 33300,
             "Genesen": 109500,
-            "Gemeldet": 143639,
-            "Inzidenz": 1814.8
+            "Gemeldet": 143679,
+            "Inzidenz": 1817.4
         },
         {
             "Datum": "2022-01-28T00:00:00.000Z",
             "Verstorben": 920,
             "Aktive": 34000,
             "Genesen": 111200,
-            "Gemeldet": 146061,
-            "Inzidenz": 1699.3
+            "Gemeldet": 146112,
+            "Inzidenz": 1702.5
         },
         {
             "Datum": "2022-01-29T00:00:00.000Z",
             "Verstorben": 922,
-            "Aktive": 34700,
-            "Genesen": 112600,
-            "Gemeldet": 148253,
-            "Inzidenz": 1682.2
+            "Aktive": 34800,
+            "Genesen": 112700,
+            "Gemeldet": 148308,
+            "Inzidenz": 1685.7
         },
         {
             "Datum": "2022-01-30T00:00:00.000Z",
             "Verstorben": 924,
             "Aktive": 35500,
             "Genesen": 113500,
-            "Gemeldet": 149834,
-            "Inzidenz": 1727.4
+            "Gemeldet": 149890,
+            "Inzidenz": 1731.1
         },
         {
             "Datum": "2022-01-31T00:00:00.000Z",
             "Verstorben": 926,
-            "Aktive": 35700,
+            "Aktive": 35800,
             "Genesen": 115000,
-            "Gemeldet": 151552,
-            "Inzidenz": 1575.3
+            "Gemeldet": 151607,
+            "Inzidenz": 1578.6
         },
         {
             "Datum": "2022-02-01T00:00:00.000Z",
             "Verstorben": 928,
-            "Aktive": 36800,
+            "Aktive": 36900,
             "Genesen": 117200,
-            "Gemeldet": 154887,
-            "Inzidenz": 1590.2
+            "Gemeldet": 154945,
+            "Inzidenz": 1593.4
         },
         {
             "Datum": "2022-02-02T00:00:00.000Z",
             "Verstorben": 930,
-            "Aktive": 38400,
-            "Genesen": 119600,
-            "Gemeldet": 158946,
-            "Inzidenz": 1638.4
+            "Aktive": 38500,
+            "Genesen": 119700,
+            "Gemeldet": 159011,
+            "Inzidenz": 1641.3
         },
         {
             "Datum": "2022-02-03T00:00:00.000Z",
             "Verstorben": 930,
-            "Aktive": 39500,
+            "Aktive": 39600,
             "Genesen": 121900,
-            "Gemeldet": 162312,
-            "Inzidenz": 1723.4
+            "Gemeldet": 162387,
+            "Inzidenz": 1726.6
         },
         {
             "Datum": "2022-02-04T00:00:00.000Z",
             "Verstorben": 931,
-            "Aktive": 39500,
-            "Genesen": 125300,
-            "Gemeldet": 165754,
-            "Inzidenz": 1817.5
+            "Aktive": 39600,
+            "Genesen": 125400,
+            "Gemeldet": 165837,
+            "Inzidenz": 1820.5
         },
         {
             "Datum": "2022-02-05T00:00:00.000Z",
             "Verstorben": 933,
             "Aktive": 39500,
-            "Genesen": 127500,
-            "Gemeldet": 167905,
-            "Inzidenz": 1813.8
+            "Genesen": 127600,
+            "Gemeldet": 167994,
+            "Inzidenz": 1816.9
         },
         {
             "Datum": "2022-02-06T00:00:00.000Z",
             "Verstorben": 934,
             "Aktive": 39900,
             "Genesen": 128600,
-            "Gemeldet": 169339,
-            "Inzidenz": 1800.2
+            "Gemeldet": 169426,
+            "Inzidenz": 1803.0
         },
         {
             "Datum": "2022-02-07T00:00:00.000Z",
             "Verstorben": 936,
-            "Aktive": 38800,
+            "Aktive": 38900,
             "Genesen": 131800,
-            "Gemeldet": 171477,
-            "Inzidenz": 1839.0
+            "Gemeldet": 171569,
+            "Inzidenz": 1842.4
         },
         {
             "Datum": "2022-02-08T00:00:00.000Z",
             "Verstorben": 939,
-            "Aktive": 39300,
-            "Genesen": 134800,
-            "Gemeldet": 175009,
-            "Inzidenz": 1857.1
+            "Aktive": 39400,
+            "Genesen": 134900,
+            "Gemeldet": 175120,
+            "Inzidenz": 1862.0
         },
         {
             "Datum": "2022-02-09T00:00:00.000Z",
             "Verstorben": 945,
-            "Aktive": 39000,
+            "Aktive": 39100,
             "Genesen": 138300,
-            "Gemeldet": 178188,
-            "Inzidenz": 1775.9
+            "Gemeldet": 178316,
+            "Inzidenz": 1781.7
         },
         {
             "Datum": "2022-02-10T00:00:00.000Z",
             "Verstorben": 946,
-            "Aktive": 39000,
-            "Genesen": 140700,
-            "Gemeldet": 180620,
-            "Inzidenz": 1689.7
+            "Aktive": 39100,
+            "Genesen": 140800,
+            "Gemeldet": 180757,
+            "Inzidenz": 1695.4
         },
         {
             "Datum": "2022-02-11T00:00:00.000Z",
             "Verstorben": 948,
-            "Aktive": 40000,
+            "Aktive": 40100,
             "Genesen": 143100,
-            "Gemeldet": 183946,
-            "Inzidenz": 1679.0
+            "Gemeldet": 184092,
+            "Inzidenz": 1684.8
         },
         {
             "Datum": "2022-02-12T00:00:00.000Z",
             "Verstorben": 951,
-            "Aktive": 39500,
-            "Genesen": 145100,
-            "Gemeldet": 185598,
-            "Inzidenz": 1633.0
+            "Aktive": 39600,
+            "Genesen": 145200,
+            "Gemeldet": 185757,
+            "Inzidenz": 1639.4
         },
         {
             "Datum": "2022-02-13T00:00:00.000Z",
             "Verstorben": 952,
-            "Aktive": 39100,
-            "Genesen": 146700,
-            "Gemeldet": 186753,
-            "Inzidenz": 1607.2
+            "Aktive": 39200,
+            "Genesen": 146800,
+            "Gemeldet": 186913,
+            "Inzidenz": 1613.9
         },
         {
             "Datum": "2022-02-14T00:00:00.000Z",
             "Verstorben": 957,
-            "Aktive": 39300,
+            "Aktive": 39400,
             "Genesen": 148400,
-            "Gemeldet": 188630,
-            "Inzidenz": 1583.1
+            "Gemeldet": 188800,
+            "Inzidenz": 1590.3
         },
         {
             "Datum": "2022-02-15T00:00:00.000Z",
             "Verstorben": 958,
-            "Aktive": 39000,
-            "Genesen": 151600,
-            "Gemeldet": 191463,
-            "Inzidenz": 1518.6
+            "Aktive": 39100,
+            "Genesen": 151700,
+            "Gemeldet": 191645,
+            "Inzidenz": 1525.2
         },
         {
             "Datum": "2022-02-16T00:00:00.000Z",
             "Verstorben": 962,
-            "Aktive": 37300,
-            "Genesen": 155600,
-            "Gemeldet": 193818,
-            "Inzidenz": 1442.5
+            "Aktive": 37400,
+            "Genesen": 155700,
+            "Gemeldet": 194012,
+            "Inzidenz": 1448.6
         },
         {
             "Datum": "2022-02-17T00:00:00.000Z",
             "Verstorben": 965,
-            "Aktive": 36400,
-            "Genesen": 158900,
-            "Gemeldet": 196239,
-            "Inzidenz": 1441.5
+            "Aktive": 36500,
+            "Genesen": 159000,
+            "Gemeldet": 196443,
+            "Inzidenz": 1447.7
         },
         {
             "Datum": "2022-02-18T00:00:00.000Z",
             "Verstorben": 966,
-            "Aktive": 35000,
-            "Genesen": 162400,
-            "Gemeldet": 198383,
-            "Inzidenz": 1332.4
+            "Aktive": 35100,
+            "Genesen": 162500,
+            "Gemeldet": 198596,
+            "Inzidenz": 1338.6
         },
         {
             "Datum": "2022-02-19T00:00:00.000Z",
             "Verstorben": 969,
-            "Aktive": 34300,
-            "Genesen": 164600,
-            "Gemeldet": 199862,
-            "Inzidenz": 1316.5
+            "Aktive": 34400,
+            "Genesen": 164700,
+            "Gemeldet": 200080,
+            "Inzidenz": 1321.9
         },
         {
             "Datum": "2022-02-20T00:00:00.000Z",
             "Verstorben": 971,
-            "Aktive": 33500,
-            "Genesen": 166000,
-            "Gemeldet": 200431,
-            "Inzidenz": 1262.4
+            "Aktive": 33600,
+            "Genesen": 166100,
+            "Gemeldet": 200649,
+            "Inzidenz": 1267.7
         },
         {
             "Datum": "2022-02-21T00:00:00.000Z",
             "Verstorben": 971,
-            "Aktive": 32800,
-            "Genesen": 168300,
-            "Gemeldet": 202008,
-            "Inzidenz": 1234.7
+            "Aktive": 32900,
+            "Genesen": 168400,
+            "Gemeldet": 202242,
+            "Inzidenz": 1240.6
         },
         {
             "Datum": "2022-02-22T00:00:00.000Z",
             "Verstorben": 974,
-            "Aktive": 31300,
-            "Genesen": 171900,
-            "Gemeldet": 204245,
-            "Inzidenz": 1179.7
+            "Aktive": 31500,
+            "Genesen": 172100,
+            "Gemeldet": 204492,
+            "Inzidenz": 1185.7
         },
         {
             "Datum": "2022-02-23T00:00:00.000Z",
             "Verstorben": 977,
-            "Aktive": 30400,
-            "Genesen": 175200,
-            "Gemeldet": 206558,
-            "Inzidenz": 1175.8
+            "Aktive": 30500,
+            "Genesen": 175300,
+            "Gemeldet": 206807,
+            "Inzidenz": 1180.9
         },
         {
             "Datum": "2022-02-24T00:00:00.000Z",
             "Verstorben": 978,
-            "Aktive": 29700,
-            "Genesen": 177700,
-            "Gemeldet": 208313,
-            "Inzidenz": 1114.4
+            "Aktive": 29800,
+            "Genesen": 177800,
+            "Gemeldet": 208573,
+            "Inzidenz": 1119.5
         },
         {
             "Datum": "2022-02-25T00:00:00.000Z",
             "Verstorben": 980,
-            "Aktive": 28200,
-            "Genesen": 181000,
-            "Gemeldet": 210144,
-            "Inzidenz": 1085.5
+            "Aktive": 28300,
+            "Genesen": 181200,
+            "Gemeldet": 210406,
+            "Inzidenz": 1090.0
         },
         {
             "Datum": "2022-02-26T00:00:00.000Z",
             "Verstorben": 981,
-            "Aktive": 27600,
-            "Genesen": 182700,
-            "Gemeldet": 211231,
-            "Inzidenz": 1049.3
+            "Aktive": 27700,
+            "Genesen": 182900,
+            "Gemeldet": 211495,
+            "Inzidenz": 1053.5
         },
         {
             "Datum": "2022-02-27T00:00:00.000Z",
             "Verstorben": 981,
-            "Aktive": 27200,
-            "Genesen": 183900,
-            "Gemeldet": 212061,
-            "Inzidenz": 1073.4
+            "Aktive": 27300,
+            "Genesen": 184100,
+            "Gemeldet": 212330,
+            "Inzidenz": 1078.1
         },
         {
             "Datum": "2022-02-28T00:00:00.000Z",
             "Verstorben": 983,
-            "Aktive": 26900,
-            "Genesen": 185800,
-            "Gemeldet": 213683,
-            "Inzidenz": 1077.5
+            "Aktive": 27000,
+            "Genesen": 186000,
+            "Gemeldet": 213962,
+            "Inzidenz": 1081.7
         },
         {
             "Datum": "2022-03-01T00:00:00.000Z",
             "Verstorben": 985,
-            "Aktive": 26900,
-            "Genesen": 188800,
-            "Gemeldet": 216686,
-            "Inzidenz": 1148.2
+            "Aktive": 27000,
+            "Genesen": 189000,
+            "Gemeldet": 216973,
+            "Inzidenz": 1151.9
         },
         {
             "Datum": "2022-03-02T00:00:00.000Z",
             "Verstorben": 987,
-            "Aktive": 28200,
-            "Genesen": 191300,
-            "Gemeldet": 220511,
-            "Inzidenz": 1287.8
+            "Aktive": 28300,
+            "Genesen": 191500,
+            "Gemeldet": 220814,
+            "Inzidenz": 1292.8
         },
         {
             "Datum": "2022-03-03T00:00:00.000Z",
             "Verstorben": 988,
-            "Aktive": 32500,
-            "Genesen": 193900,
-            "Gemeldet": 227347,
-            "Inzidenz": 1756.7
+            "Aktive": 32600,
+            "Genesen": 194100,
+            "Gemeldet": 227669,
+            "Inzidenz": 1762.4
         },
         {
             "Datum": "2022-03-04T00:00:00.000Z",
             "Verstorben": 989,
-            "Aktive": 35300,
-            "Genesen": 196000,
-            "Gemeldet": 232319,
-            "Inzidenz": 2046.6
+            "Aktive": 35400,
+            "Genesen": 196300,
+            "Gemeldet": 232650,
+            "Inzidenz": 2053.0
         },
         {
             "Datum": "2022-03-05T00:00:00.000Z",
             "Verstorben": 990,
-            "Aktive": 35900,
-            "Genesen": 197600,
-            "Gemeldet": 234446,
-            "Inzidenz": 2142.6
+            "Aktive": 36000,
+            "Genesen": 197800,
+            "Gemeldet": 234782,
+            "Inzidenz": 2149.2
         },
         {
             "Datum": "2022-03-06T00:00:00.000Z",
             "Verstorben": 991,
-            "Aktive": 40300,
-            "Genesen": 198200,
-            "Gemeldet": 239549,
-            "Inzidenz": 2537.0
+            "Aktive": 40500,
+            "Genesen": 198500,
+            "Gemeldet": 239891,
+            "Inzidenz": 2543.7
         },
         {
             "Datum": "2022-03-07T00:00:00.000Z",
             "Verstorben": 992,
-            "Aktive": 41800,
-            "Genesen": 199800,
-            "Gemeldet": 242607,
-            "Inzidenz": 2669.5
+            "Aktive": 42000,
+            "Genesen": 200100,
+            "Gemeldet": 242963,
+            "Inzidenz": 2676.6
         },
         {
             "Datum": "2022-03-08T00:00:00.000Z",
-            "Verstorben": 996,
-            "Aktive": 45100,
-            "Genesen": 202100,
-            "Gemeldet": 248104,
-            "Inzidenz": 2899.7
+            "Verstorben": 995,
+            "Aktive": 45200,
+            "Genesen": 202300,
+            "Gemeldet": 248460,
+            "Inzidenz": 2906.1
         },
         {
             "Datum": "2022-03-09T00:00:00.000Z",
-            "Verstorben": 997,
-            "Aktive": 47300,
-            "Genesen": 204300,
-            "Gemeldet": 252632,
-            "Inzidenz": 2964.6
+            "Verstorben": 996,
+            "Aktive": 47500,
+            "Genesen": 204600,
+            "Gemeldet": 252996,
+            "Inzidenz": 2970.2
         },
         {
             "Datum": "2022-03-10T00:00:00.000Z",
-            "Verstorben": 997,
-            "Aktive": 49300,
-            "Genesen": 206100,
-            "Gemeldet": 256341,
-            "Inzidenz": 2676.0
+            "Verstorben": 996,
+            "Aktive": 49500,
+            "Genesen": 206300,
+            "Gemeldet": 256715,
+            "Inzidenz": 2680.8
         },
         {
             "Datum": "2022-03-11T00:00:00.000Z",
-            "Verstorben": 998,
-            "Aktive": 50800,
-            "Genesen": 207900,
-            "Gemeldet": 259688,
-            "Inzidenz": 2526.0
+            "Verstorben": 997,
+            "Aktive": 50900,
+            "Genesen": 208200,
+            "Gemeldet": 260063,
+            "Inzidenz": 2530.0
         },
         {
             "Datum": "2022-03-12T00:00:00.000Z",
-            "Verstorben": 999,
-            "Aktive": 52800,
-            "Genesen": 209100,
-            "Gemeldet": 262911,
-            "Inzidenz": 2627.1
+            "Verstorben": 998,
+            "Aktive": 53000,
+            "Genesen": 209400,
+            "Gemeldet": 263305,
+            "Inzidenz": 2632.5
         },
         {
             "Datum": "2022-03-13T00:00:00.000Z",
-            "Verstorben": 1000,
-            "Aktive": 53600,
-            "Genesen": 209900,
-            "Gemeldet": 264565,
-            "Inzidenz": 2308.8
+            "Verstorben": 999,
+            "Aktive": 53800,
+            "Genesen": 210200,
+            "Gemeldet": 264959,
+            "Inzidenz": 2313.6
         },
         {
             "Datum": "2022-03-14T00:00:00.000Z",
-            "Verstorben": 1002,
-            "Aktive": 54700,
-            "Genesen": 211600,
-            "Gemeldet": 267282,
-            "Inzidenz": 2277.3
+            "Verstorben": 1001,
+            "Aktive": 54900,
+            "Genesen": 211900,
+            "Gemeldet": 267687,
+            "Inzidenz": 2281.9
         },
         {
             "Datum": "2022-03-15T00:00:00.000Z",
-            "Verstorben": 1002,
-            "Aktive": 55500,
-            "Genesen": 214600,
-            "Gemeldet": 271067,
-            "Inzidenz": 2119.3
+            "Verstorben": 1001,
+            "Aktive": 55700,
+            "Genesen": 214900,
+            "Gemeldet": 271485,
+            "Inzidenz": 2125.1
         },
         {
             "Datum": "2022-03-16T00:00:00.000Z",
-            "Verstorben": 1004,
-            "Aktive": 55500,
-            "Genesen": 218300,
-            "Gemeldet": 274841,
-            "Inzidenz": 2049.7
+            "Verstorben": 1003,
+            "Aktive": 55700,
+            "Genesen": 218700,
+            "Gemeldet": 275269,
+            "Inzidenz": 2055.7
         },
         {
             "Datum": "2022-03-17T00:00:00.000Z",
-            "Verstorben": 1006,
-            "Aktive": 52000,
-            "Genesen": 225100,
-            "Gemeldet": 278124,
-            "Inzidenz": 2010.4
+            "Verstorben": 1005,
+            "Aktive": 52200,
+            "Genesen": 225500,
+            "Gemeldet": 278557,
+            "Inzidenz": 2015.9
         },
         {
             "Datum": "2022-03-18T00:00:00.000Z",
-            "Verstorben": 1011,
-            "Aktive": 49800,
-            "Genesen": 230100,
-            "Gemeldet": 280837,
-            "Inzidenz": 1951.9
+            "Verstorben": 1010,
+            "Aktive": 49900,
+            "Genesen": 230400,
+            "Gemeldet": 281274,
+            "Inzidenz": 1957.6
         },
         {
             "Datum": "2022-03-19T00:00:00.000Z",
-            "Verstorben": 1012,
-            "Aktive": 48400,
-            "Genesen": 232200,
-            "Gemeldet": 281554,
-            "Inzidenz": 1720.6
+            "Verstorben": 1011,
+            "Aktive": 48500,
+            "Genesen": 232600,
+            "Gemeldet": 281991,
+            "Inzidenz": 1724.6
         },
         {
             "Datum": "2022-03-20T00:00:00.000Z",
-            "Verstorben": 1013,
-            "Aktive": 45700,
-            "Genesen": 237200,
-            "Gemeldet": 283885,
-            "Inzidenz": 1783.1
+            "Verstorben": 1012,
+            "Aktive": 45800,
+            "Genesen": 237600,
+            "Gemeldet": 284326,
+            "Inzidenz": 1787.5
         },
         {
             "Datum": "2022-03-21T00:00:00.000Z",
-            "Verstorben": 1014,
-            "Aktive": 45000,
-            "Genesen": 240200,
-            "Gemeldet": 286217,
-            "Inzidenz": 1747.6
+            "Verstorben": 1013,
+            "Aktive": 45100,
+            "Genesen": 240700,
+            "Gemeldet": 286660,
+            "Inzidenz": 1751.1
         },
         {
             "Datum": "2022-03-22T00:00:00.000Z",
-            "Verstorben": 1015,
-            "Aktive": 42000,
-            "Genesen": 245700,
-            "Gemeldet": 288722,
-            "Inzidenz": 1629.4
+            "Verstorben": 1014,
+            "Aktive": 42100,
+            "Genesen": 246100,
+            "Gemeldet": 289167,
+            "Inzidenz": 1631.9
         },
         {
             "Datum": "2022-03-23T00:00:00.000Z",
-            "Verstorben": 1016,
-            "Aktive": 40900,
-            "Genesen": 250300,
-            "Gemeldet": 292178,
-            "Inzidenz": 1600.1
+            "Verstorben": 1015,
+            "Aktive": 41000,
+            "Genesen": 250700,
+            "Gemeldet": 292630,
+            "Inzidenz": 1602.3
         },
         {
             "Datum": "2022-03-24T00:00:00.000Z",
-            "Verstorben": 1018,
-            "Aktive": 40000,
-            "Genesen": 254000,
-            "Gemeldet": 295021,
-            "Inzidenz": 1559.5
+            "Verstorben": 1017,
+            "Aktive": 40100,
+            "Genesen": 254400,
+            "Gemeldet": 295476,
+            "Inzidenz": 1561.5
         },
         {
             "Datum": "2022-03-25T00:00:00.000Z",
-            "Verstorben": 1020,
-            "Aktive": 38900,
-            "Genesen": 257300,
-            "Gemeldet": 297264,
-            "Inzidenz": 1516.1
+            "Verstorben": 1019,
+            "Aktive": 39000,
+            "Genesen": 257800,
+            "Gemeldet": 297719,
+            "Inzidenz": 1517.8
         },
         {
             "Datum": "2022-03-26T00:00:00.000Z",
-            "Verstorben": 1020,
-            "Aktive": 37200,
-            "Genesen": 260600,
-            "Gemeldet": 298795,
-            "Inzidenz": 1591.2
+            "Verstorben": 1019,
+            "Aktive": 37300,
+            "Genesen": 261000,
+            "Gemeldet": 299252,
+            "Inzidenz": 1593.1
         },
         {
             "Datum": "2022-03-27T00:00:00.000Z",
             "Verstorben": 1022,
             "Aktive": 36600,
-            "Genesen": 262200,
-            "Gemeldet": 299773,
-            "Inzidenz": 1466.4
+            "Genesen": 262700,
+            "Gemeldet": 300238,
+            "Inzidenz": 1468.6
         },
         {
             "Datum": "2022-03-28T00:00:00.000Z",
             "Verstorben": 1023,
-            "Aktive": 35400,
-            "Genesen": 264900,
-            "Gemeldet": 301374,
-            "Inzidenz": 1398.9
+            "Aktive": 35500,
+            "Genesen": 265400,
+            "Gemeldet": 301840,
+            "Inzidenz": 1401.0
         },
         {
             "Datum": "2022-03-29T00:00:00.000Z",
             "Verstorben": 1023,
             "Aktive": 34300,
-            "Genesen": 268700,
-            "Gemeldet": 304000,
-            "Inzidenz": 1410.1
+            "Genesen": 269200,
+            "Gemeldet": 304469,
+            "Inzidenz": 1412.3
         },
         {
             "Datum": "2022-03-30T00:00:00.000Z",
             "Verstorben": 1024,
             "Aktive": 32400,
-            "Genesen": 272600,
-            "Gemeldet": 305990,
-            "Inzidenz": 1274.8
+            "Genesen": 273000,
+            "Gemeldet": 306468,
+            "Inzidenz": 1277.2
         },
         {
             "Datum": "2022-03-31T00:00:00.000Z",
             "Verstorben": 1024,
             "Aktive": 30900,
-            "Genesen": 275900,
-            "Gemeldet": 307821,
-            "Inzidenz": 1181.4
+            "Genesen": 276400,
+            "Gemeldet": 308303,
+            "Inzidenz": 1183.9
         },
         {
             "Datum": "2022-04-01T00:00:00.000Z",
             "Verstorben": 1024,
             "Aktive": 29500,
-            "Genesen": 278700,
-            "Gemeldet": 309189,
-            "Inzidenz": 1100.6
+            "Genesen": 279200,
+            "Gemeldet": 309671,
+            "Inzidenz": 1103.1
         },
         {
             "Datum": "2022-04-02T00:00:00.000Z",
             "Verstorben": 1024,
             "Aktive": 29600,
-            "Genesen": 279500,
-            "Gemeldet": 310084,
-            "Inzidenz": 1041.9
+            "Genesen": 280000,
+            "Gemeldet": 310564,
+            "Inzidenz": 1044.0
         },
         {
             "Datum": "2022-04-03T00:00:00.000Z",
             "Verstorben": 1025,
             "Aktive": 27800,
-            "Genesen": 281900,
-            "Gemeldet": 310645,
-            "Inzidenz": 1003.4
+            "Genesen": 282400,
+            "Gemeldet": 311123,
+            "Inzidenz": 1004.6
         },
         {
             "Datum": "2022-04-04T00:00:00.000Z",
             "Verstorben": 1026,
             "Aktive": 26600,
-            "Genesen": 284200,
-            "Gemeldet": 311854,
-            "Inzidenz": 967.2
+            "Genesen": 284700,
+            "Gemeldet": 312337,
+            "Inzidenz": 968.8
         },
         {
             "Datum": "2022-04-05T00:00:00.000Z",
             "Verstorben": 1029,
             "Aktive": 25600,
-            "Genesen": 286800,
-            "Gemeldet": 313457,
-            "Inzidenz": 872.8
+            "Genesen": 287300,
+            "Gemeldet": 313948,
+            "Inzidenz": 874.9
         },
         {
             "Datum": "2022-04-06T00:00:00.000Z",
             "Verstorben": 1032,
             "Aktive": 23500,
-            "Genesen": 290300,
-            "Gemeldet": 314758,
-            "Inzidenz": 809.2
+            "Genesen": 290800,
+            "Gemeldet": 315252,
+            "Inzidenz": 810.7
         },
         {
             "Datum": "2022-04-07T00:00:00.000Z",
-            "Verstorben": 1034,
+            "Verstorben": 1035,
             "Aktive": 21900,
-            "Genesen": 293200,
-            "Gemeldet": 316094,
-            "Inzidenz": 763.5
+            "Genesen": 293700,
+            "Gemeldet": 316589,
+            "Inzidenz": 764.7
         },
         {
             "Datum": "2022-04-08T00:00:00.000Z",
-            "Verstorben": 1034,
+            "Verstorben": 1035,
             "Aktive": 20800,
-            "Genesen": 295400,
-            "Gemeldet": 317230,
-            "Inzidenz": 742.1
+            "Genesen": 295900,
+            "Gemeldet": 317727,
+            "Inzidenz": 743.5
         },
         {
             "Datum": "2022-04-09T00:00:00.000Z",
-            "Verstorben": 1036,
+            "Verstorben": 1037,
             "Aktive": 20000,
-            "Genesen": 297000,
-            "Gemeldet": 318012,
-            "Inzidenz": 731.7
+            "Genesen": 297500,
+            "Gemeldet": 318508,
+            "Inzidenz": 733.2
         },
         {
             "Datum": "2022-04-10T00:00:00.000Z",
-            "Verstorben": 1036,
+            "Verstorben": 1037,
             "Aktive": 19600,
-            "Genesen": 297900,
-            "Gemeldet": 318605,
-            "Inzidenz": 734.7
+            "Genesen": 298400,
+            "Gemeldet": 319100,
+            "Inzidenz": 736.2
         },
         {
             "Datum": "2022-04-11T00:00:00.000Z",
             "Verstorben": 1039,
-            "Aktive": 18700,
-            "Genesen": 299600,
-            "Gemeldet": 319346,
-            "Inzidenz": 691.5
+            "Aktive": 18800,
+            "Genesen": 300100,
+            "Gemeldet": 319850,
+            "Inzidenz": 693.4
         },
         {
             "Datum": "2022-04-12T00:00:00.000Z",
             "Verstorben": 1040,
-            "Aktive": 17600,
-            "Genesen": 302200,
-            "Gemeldet": 320911,
-            "Inzidenz": 688.0
+            "Aktive": 17700,
+            "Genesen": 302700,
+            "Gemeldet": 321423,
+            "Inzidenz": 689.9
         },
         {
             "Datum": "2022-04-13T00:00:00.000Z",
             "Verstorben": 1042,
             "Aktive": 17100,
-            "Genesen": 304300,
-            "Gemeldet": 322373,
-            "Inzidenz": 702.8
+            "Genesen": 304700,
+            "Gemeldet": 322890,
+            "Inzidenz": 704.9
         },
         {
             "Datum": "2022-04-14T00:00:00.000Z",
-            "Verstorben": 1042,
-            "Aktive": 16500,
-            "Genesen": 306100,
-            "Gemeldet": 323659,
-            "Inzidenz": 698.2
+            "Verstorben": 1043,
+            "Aktive": 16600,
+            "Genesen": 306600,
+            "Gemeldet": 324174,
+            "Inzidenz": 700.0
         },
         {
             "Datum": "2022-04-15T00:00:00.000Z",
-            "Verstorben": 1043,
-            "Aktive": 15900,
-            "Genesen": 307500,
-            "Gemeldet": 324509,
-            "Inzidenz": 671.8
+            "Verstorben": 1044,
+            "Aktive": 16000,
+            "Genesen": 308000,
+            "Gemeldet": 325026,
+            "Inzidenz": 673.7
         },
         {
             "Datum": "2022-04-16T00:00:00.000Z",
-            "Verstorben": 1044,
-            "Aktive": 15600,
-            "Genesen": 308400,
-            "Gemeldet": 325083,
-            "Inzidenz": 652.6
+            "Verstorben": 1045,
+            "Aktive": 15700,
+            "Genesen": 308900,
+            "Gemeldet": 325602,
+            "Inzidenz": 654.7
         },
         {
             "Datum": "2022-04-17T00:00:00.000Z",
-            "Verstorben": 1046,
-            "Aktive": 15600,
-            "Genesen": 308900,
-            "Gemeldet": 325607,
-            "Inzidenz": 646.2
+            "Verstorben": 1047,
+            "Aktive": 15700,
+            "Genesen": 309400,
+            "Gemeldet": 326125,
+            "Inzidenz": 648.4
         },
         {
             "Datum": "2022-04-18T00:00:00.000Z",
-            "Verstorben": 1046,
+            "Verstorben": 1047,
             "Aktive": 14900,
-            "Genesen": 310200,
-            "Gemeldet": 326085,
-            "Inzidenz": 622.0
+            "Genesen": 310700,
+            "Gemeldet": 326604,
+            "Inzidenz": 623.4
         },
         {
             "Datum": "2022-04-19T00:00:00.000Z",
-            "Verstorben": 1046,
-            "Aktive": 14200,
-            "Genesen": 311800,
-            "Gemeldet": 327050,
-            "Inzidenz": 566.6
+            "Verstorben": 1047,
+            "Aktive": 14300,
+            "Genesen": 312300,
+            "Gemeldet": 327570,
+            "Inzidenz": 567.3
         },
         {
             "Datum": "2022-04-20T00:00:00.000Z",
-            "Verstorben": 1046,
+            "Verstorben": 1047,
             "Aktive": 14300,
-            "Genesen": 313100,
-            "Gemeldet": 328416,
-            "Inzidenz": 557.7
+            "Genesen": 313600,
+            "Gemeldet": 328938,
+            "Inzidenz": 558.2
         },
         {
             "Datum": "2022-04-21T00:00:00.000Z",
-            "Verstorben": 1046,
+            "Verstorben": 1047,
             "Aktive": 13900,
-            "Genesen": 314500,
-            "Gemeldet": 329458,
-            "Inzidenz": 535.2
+            "Genesen": 315000,
+            "Gemeldet": 329983,
+            "Inzidenz": 536.1
         },
         {
             "Datum": "2022-04-22T00:00:00.000Z",
-            "Verstorben": 1046,
+            "Verstorben": 1047,
             "Aktive": 13800,
-            "Genesen": 315700,
-            "Gemeldet": 330481,
-            "Inzidenz": 551.2
+            "Genesen": 316200,
+            "Gemeldet": 331008,
+            "Inzidenz": 552.1
         },
         {
             "Datum": "2022-04-23T00:00:00.000Z",
-            "Verstorben": 1047,
+            "Verstorben": 1048,
             "Aktive": 13600,
-            "Genesen": 316500,
-            "Gemeldet": 331070,
-            "Inzidenz": 552.6
+            "Genesen": 317000,
+            "Gemeldet": 331597,
+            "Inzidenz": 553.3
         },
         {
             "Datum": "2022-04-24T00:00:00.000Z",
-            "Verstorben": 1048,
-            "Aktive": 13400,
-            "Genesen": 317000,
-            "Gemeldet": 331508,
-            "Inzidenz": 544.6
+            "Verstorben": 1049,
+            "Aktive": 13500,
+            "Genesen": 317500,
+            "Gemeldet": 332036,
+            "Inzidenz": 545.5
         },
         {
             "Datum": "2022-04-25T00:00:00.000Z",
-            "Verstorben": 1048,
+            "Verstorben": 1049,
             "Aktive": 13600,
-            "Genesen": 317800,
-            "Gemeldet": 332420,
-            "Inzidenz": 584.7
+            "Genesen": 318300,
+            "Gemeldet": 332951,
+            "Inzidenz": 585.8
         },
         {
             "Datum": "2022-04-26T00:00:00.000Z",
-            "Verstorben": 1048,
-            "Aktive": 13100,
-            "Genesen": 319400,
-            "Gemeldet": 333563,
-            "Inzidenz": 601.1
+            "Verstorben": 1049,
+            "Aktive": 13200,
+            "Genesen": 319900,
+            "Gemeldet": 334097,
+            "Inzidenz": 602.4
         },
         {
             "Datum": "2022-04-27T00:00:00.000Z",
-            "Verstorben": 1048,
+            "Verstorben": 1050,
             "Aktive": 12500,
-            "Genesen": 320900,
-            "Gemeldet": 334436,
-            "Inzidenz": 555.6
+            "Genesen": 321400,
+            "Gemeldet": 334972,
+            "Inzidenz": 556.9
         },
         {
             "Datum": "2022-04-28T00:00:00.000Z",
-            "Verstorben": 1048,
-            "Aktive": 11900,
-            "Genesen": 322300,
-            "Gemeldet": 335253,
-            "Inzidenz": 534.8
+            "Verstorben": 1050,
+            "Aktive": 12000,
+            "Genesen": 322800,
+            "Gemeldet": 335790,
+            "Inzidenz": 535.9
         },
         {
             "Datum": "2022-04-29T00:00:00.000Z",
-            "Verstorben": 1048,
+            "Verstorben": 1052,
             "Aktive": 11900,
-            "Genesen": 323200,
-            "Gemeldet": 336068,
-            "Inzidenz": 515.6
+            "Genesen": 323700,
+            "Gemeldet": 336609,
+            "Inzidenz": 516.9
         },
         {
             "Datum": "2022-04-30T00:00:00.000Z",
-            "Verstorben": 1048,
-            "Aktive": 11700,
-            "Genesen": 323700,
-            "Gemeldet": 336516,
-            "Inzidenz": 502.6
+            "Verstorben": 1052,
+            "Aktive": 11800,
+            "Genesen": 324200,
+            "Gemeldet": 337057,
+            "Inzidenz": 503.9
         },
         {
             "Datum": "2022-05-01T00:00:00.000Z",
-            "Verstorben": 1048,
-            "Aktive": 11500,
-            "Genesen": 324300,
-            "Gemeldet": 336837,
-            "Inzidenz": 491.8
+            "Verstorben": 1052,
+            "Aktive": 11600,
+            "Genesen": 324800,
+            "Gemeldet": 337377,
+            "Inzidenz": 492.9
         },
         {
             "Datum": "2022-05-02T00:00:00.000Z",
-            "Verstorben": 1048,
-            "Aktive": 11600,
-            "Genesen": 324800,
-            "Gemeldet": 337468,
-            "Inzidenz": 465.9
+            "Verstorben": 1052,
+            "Aktive": 11700,
+            "Genesen": 325300,
+            "Gemeldet": 338006,
+            "Inzidenz": 466.5
         },
         {
             "Datum": "2022-05-03T00:00:00.000Z",
-            "Verstorben": 1048,
-            "Aktive": 11500,
-            "Genesen": 325800,
-            "Gemeldet": 338402,
-            "Inzidenz": 446.6
+            "Verstorben": 1052,
+            "Aktive": 11600,
+            "Genesen": 326300,
+            "Gemeldet": 338947,
+            "Inzidenz": 447.6
         },
         {
             "Datum": "2022-05-04T00:00:00.000Z",
-            "Verstorben": 1048,
-            "Aktive": 10800,
-            "Genesen": 327200,
-            "Gemeldet": 339133,
-            "Inzidenz": 433.5
+            "Verstorben": 1052,
+            "Aktive": 10900,
+            "Genesen": 327700,
+            "Gemeldet": 339684,
+            "Inzidenz": 434.9
         },
         {
             "Datum": "2022-05-05T00:00:00.000Z",
-            "Verstorben": 1048,
-            "Aktive": 10400,
-            "Genesen": 328300,
-            "Gemeldet": 339779,
-            "Inzidenz": 417.7
+            "Verstorben": 1052,
+            "Aktive": 10500,
+            "Genesen": 328800,
+            "Gemeldet": 340349,
+            "Inzidenz": 420.8
         },
         {
             "Datum": "2022-05-06T00:00:00.000Z",
-            "Verstorben": 1048,
-            "Aktive": 10200,
-            "Genesen": 329300,
-            "Gemeldet": 340569,
-            "Inzidenz": 415.4
+            "Verstorben": 1052,
+            "Aktive": 10300,
+            "Genesen": 329800,
+            "Gemeldet": 341185,
+            "Inzidenz": 422.3
         },
         {
             "Datum": "2022-05-07T00:00:00.000Z",
-            "Verstorben": 1048,
-            "Aktive": 9400,
-            "Genesen": 330300,
-            "Gemeldet": 340776,
-            "Inzidenz": 393.2
+            "Verstorben": 1052,
+            "Aktive": 10000,
+            "Genesen": 330400,
+            "Gemeldet": 341509,
+            "Inzidenz": 410.9
         },
-	{
+        {
             "Datum": "2022-05-08T00:00:00.000Z",
-            "Verstorben": 1048,
-            "Aktive": 9400,
-            "Genesen": 330300,
-            "Gemeldet": 341356,
-            "Inzidenz": 403.7
+            "Verstorben": 1052,
+            "Aktive": 9900,
+            "Genesen": 330900,
+            "Gemeldet": 341859,
+            "Inzidenz": 413.7
+        },
+        {
+            "Datum": "2022-05-09T00:00:00.000Z",
+            "Verstorben": 1052,
+            "Aktive": 9600,
+            "Genesen": 331800,
+            "Gemeldet": 342405,
+            "Inzidenz": 406.0
+        },
+        {
+            "Datum": "2022-05-10T00:00:00.000Z",
+            "Verstorben": 1052,
+            "Aktive": 9300,
+            "Genesen": 332900,
+            "Gemeldet": 343269,
+            "Inzidenz": 398.9
+        },
+        {
+            "Datum": "2022-05-11T00:00:00.000Z",
+            "Verstorben": 1052,
+            "Aktive": 9200,
+            "Genesen": 333800,
+            "Gemeldet": 344022,
+            "Inzidenz": 400.4
+        },
+        {
+            "Datum": "2022-05-12T00:00:00.000Z",
+            "Verstorben": 1053,
+            "Aktive": 9000,
+            "Genesen": 334600,
+            "Gemeldet": 344607,
+            "Inzidenz": 393.0
+        },
+        {
+            "Datum": "2022-05-13T00:00:00.000Z",
+            "Verstorben": 1053,
+            "Aktive": 8700,
+            "Genesen": 335400,
+            "Gemeldet": 345175,
+            "Inzidenz": 368.3
+        },
+        {
+            "Datum": "2022-05-14T00:00:00.000Z",
+            "Verstorben": 1054,
+            "Aktive": 8600,
+            "Genesen": 335900,
+            "Gemeldet": 345568,
+            "Inzidenz": 374.6
+        },
+        {
+            "Datum": "2022-05-15T00:00:00.000Z",
+            "Verstorben": 1056,
+            "Aktive": 8600,
+            "Genesen": 336200,
+            "Gemeldet": 345802,
+            "Inzidenz": 363.9
+        },
+        {
+            "Datum": "2022-05-16T00:00:00.000Z",
+            "Verstorben": 1057,
+            "Aktive": 8400,
+            "Genesen": 336800,
+            "Gemeldet": 346259,
+            "Inzidenz": 355.7
+        },
+        {
+            "Datum": "2022-05-17T00:00:00.000Z",
+            "Verstorben": 1057,
+            "Aktive": 8100,
+            "Genesen": 337700,
+            "Gemeldet": 346877,
+            "Inzidenz": 333.0
+        },
+        {
+            "Datum": "2022-05-18T00:00:00.000Z",
+            "Verstorben": 1058,
+            "Aktive": 7900,
+            "Genesen": 338500,
+            "Gemeldet": 347471,
+            "Inzidenz": 318.3
+        },
+        {
+            "Datum": "2022-05-19T00:00:00.000Z",
+            "Verstorben": 1059,
+            "Aktive": 7700,
+            "Genesen": 339200,
+            "Gemeldet": 347922,
+            "Inzidenz": 306.0
+        },
+        {
+            "Datum": "2022-05-20T00:00:00.000Z",
+            "Verstorben": 1059,
+            "Aktive": 7400,
+            "Genesen": 340000,
+            "Gemeldet": 348421,
+            "Inzidenz": 299.6
+        },
+        {
+            "Datum": "2022-05-21T00:00:00.000Z",
+            "Verstorben": 1059,
+            "Aktive": 7300,
+            "Genesen": 340300,
+            "Gemeldet": 348627,
+            "Inzidenz": 282.3
+        },
+        {
+            "Datum": "2022-05-22T00:00:00.000Z",
+            "Verstorben": 1060,
+            "Aktive": 7100,
+            "Genesen": 340700,
+            "Gemeldet": 348828,
+            "Inzidenz": 279.3
+        },
+        {
+            "Datum": "2022-05-23T00:00:00.000Z",
+            "Verstorben": 1061,
+            "Aktive": 7000,
+            "Genesen": 341200,
+            "Gemeldet": 349265,
+            "Inzidenz": 277.4
+        },
+        {
+            "Datum": "2022-05-24T00:00:00.000Z",
+            "Verstorben": 1061,
+            "Aktive": 6600,
+            "Genesen": 342100,
+            "Gemeldet": 349726,
+            "Inzidenz": 262.9
+        },
+        {
+            "Datum": "2022-05-25T00:00:00.000Z",
+            "Verstorben": 1061,
+            "Aktive": 6300,
+            "Genesen": 342800,
+            "Gemeldet": 350204,
+            "Inzidenz": 252.2
+        },
+        {
+            "Datum": "2022-05-26T00:00:00.000Z",
+            "Verstorben": 1062,
+            "Aktive": 6000,
+            "Genesen": 343400,
+            "Gemeldet": 350454,
+            "Inzidenz": 233.7
+        },
+        {
+            "Datum": "2022-05-27T00:00:00.000Z",
+            "Verstorben": 1062,
+            "Aktive": 5700,
+            "Genesen": 344000,
+            "Gemeldet": 350759,
+            "Inzidenz": 215.8
+        },
+        {
+            "Datum": "2022-05-28T00:00:00.000Z",
+            "Verstorben": 1062,
+            "Aktive": 5600,
+            "Genesen": 344400,
+            "Gemeldet": 350996,
+            "Inzidenz": 218.6
+        },
+        {
+            "Datum": "2022-05-29T00:00:00.000Z",
+            "Verstorben": 1062,
+            "Aktive": 4900,
+            "Genesen": 345100,
+            "Gemeldet": 351064,
+            "Inzidenz": 206.4
         }
     ]
 }
